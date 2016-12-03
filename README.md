@@ -13,3 +13,8 @@
 - [Essentials](#essentials)
 - [Tutorials](#tutorials)
 - [Videos](#videos)
+
+## Essentials
+
+* [Next.js Homepage](https://zeit.co/blog/next)
+* [GitHub Repository](https://github.com/zeit/next.js)
