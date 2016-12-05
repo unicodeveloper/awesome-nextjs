@@ -31,7 +31,7 @@
 
 
 ## Contributing
-Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the guidelines
+Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the guidelines below
 
 #### Guidelines
 
