@@ -34,6 +34,7 @@
 * [RelateNow](https://github.com/RelateNow/relate)
 * [NextNews - HackerNews written in Next.js](https://github.com/now-examples/next-news)
 * [Password](https://github.com/dotcypress/password)
+* [NextTodos - TodoList written in Next.js](https://github.com/lipp/next-todos)
 
 ## Community
 
