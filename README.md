@@ -36,6 +36,7 @@
 * [Password](https://github.com/dotcypress/password)
 * [NextTodos - TodoList written in Next.js](https://github.com/lipp/next-todos)
 * [HackerNews - Another HackerNews written in Next.js](https://github.com/lipp/hackernews)
+* [JetChat - A jet and Next.js powered Chat demo](https://github.com/lipp/jet-chat)
 
 ## Community
 
