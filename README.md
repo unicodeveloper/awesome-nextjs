@@ -35,6 +35,7 @@
 * [NextNews - HackerNews written in Next.js](https://github.com/now-examples/next-news)
 * [Password](https://github.com/dotcypress/password)
 * [NextTodos - TodoList written in Next.js](https://github.com/lipp/next-todos)
+* [HackerNews - Another HackerNews written in Next.js](https://github.com/lipp/hackernews)
 
 ## Community
 
