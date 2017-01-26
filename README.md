@@ -40,6 +40,9 @@
 * [Nextgram - V2](https://github.com/arunoda/nextgram)
 * [Rauchg Blog](https://github.com/rauchg/blog)
 
+## Boilerplates/Starters
+* [NextSimpleStarter](https://github.com/ooade/NextSimpleStarter)
+
 ## Community
 
 * [Slack](https://zeit.chat)
