@@ -12,6 +12,7 @@
 
 - [Essentials](#essentials)
 - [Tutorials](#tutorials)
+- [Articles](#articles)
 - [Community](#community)
 
 ## Essentials
@@ -25,6 +26,10 @@
 * [Getting Started with Next.js — Setting Up Your App](https://labs.redantler.com/getting-started-with-next-js-article-one-a1d9780ea9e0#.863nl4wnq)
 * [Getting Started with Next.js — Bringing Data In](https://labs.redantler.com/getting-started-with-next-js-bringing-data-in-bf40558698e2#.twjv5xk5w)
 * [How to build a Next.js React Universal App](https://medium.com/cosmicjs/how-to-build-a-next-js-react-universal-app-e610a0bc2124#.b8ayt9f39)
+
+## Articles
+
+ * [Next on NextJS](https://jsmantra.com/next-on-next-js-1a134505f346#.sf2f64u4r)
 
 ## Apps
 
