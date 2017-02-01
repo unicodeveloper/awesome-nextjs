@@ -13,6 +13,8 @@
 - [Essentials](#essentials)
 - [Tutorials](#tutorials)
 - [Articles](#articles)
+- [Apps](#apps)
+- [Boilerplates/Starters](#boilerplatesstarters)
 - [Community](#community)
 
 ## Essentials
