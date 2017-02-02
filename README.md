@@ -13,6 +13,9 @@
 - [Essentials](#essentials)
 - [Tutorials](#tutorials)
 - [Articles](#articles)
+- [Apps](#apps)
+- [Boilerplates/Starters](#boilerplatesstarters)
+- [Extensions](#extensions)
 - [Community](#community)
 
 ## Essentials
@@ -47,6 +50,9 @@
 
 ## Boilerplates/Starters
 * [NextSimpleStarter](https://github.com/ooade/NextSimpleStarter)
+
+## Extensions
+* [next-routes](https://github.com/fridays/next-routes) - Universal named routes for next.js
 
 ## Community
 
