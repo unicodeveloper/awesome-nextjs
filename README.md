@@ -50,6 +50,7 @@
 
 ## Boilerplates/Starters
 * [NextSimpleStarter](https://github.com/ooade/NextSimpleStarter)
+* [NextJS Starter - A starter project for Next.js with and email and oAuth authentication](https://github.com/iaincollins/nextjs-starter)
 
 ## Extensions
 * [next-routes](https://github.com/fridays/next-routes) - Universal named routes for next.js
