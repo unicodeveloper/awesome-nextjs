@@ -47,6 +47,7 @@
 * [JetChat - A jet and Next.js powered Chat demo](https://github.com/lipp/jet-chat)
 * [Nextgram - V2](https://github.com/arunoda/nextgram)
 * [Rauchg Blog](https://github.com/rauchg/blog)
+* [NextJPH](https://github.com/renatorib/next-jph)
 
 ## Boilerplates/Starters
 * [NextSimpleStarter](https://github.com/ooade/NextSimpleStarter)
