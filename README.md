@@ -48,6 +48,7 @@
 * [Nextgram - V2](https://github.com/arunoda/nextgram)
 * [Rauchg Blog](https://github.com/rauchg/blog)
 * [NextJPH](https://github.com/renatorib/next-jph)
+* [Mailto 💌⚡️](https://github.com/dawsbot/mailto)
 
 ## Boilerplates/Starters
 * [NextSimpleStarter](https://github.com/ooade/NextSimpleStarter)
