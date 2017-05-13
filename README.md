@@ -22,6 +22,7 @@
 
 * [Next.js Homepage](https://zeit.co/blog/next)
 * [GitHub Repository](https://github.com/zeit/next.js)
+* [Learn Nextjs](https://learnnextjs.com/)
 
 ## Tutorials
 
