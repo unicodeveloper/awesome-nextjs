@@ -50,6 +50,7 @@
 * [Rauchg Blog](https://github.com/rauchg/blog)
 * [NextJPH](https://github.com/renatorib/next-jph)
 * [Mailto 💌⚡️](https://github.com/dawsbot/mailto)
+* [Plate 🍛](https://platemate.io)
 
 ## Boilerplates/Starters
 * [NextSimpleStarter](https://github.com/ooade/NextSimpleStarter)
