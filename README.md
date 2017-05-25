@@ -6,7 +6,7 @@
 
 Next.js is a minimalistic framework for server-rendered React applications.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-tdd](https://github.com/unicodeveloper/awesome-tdd).*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-tdd](https://github.com/unicodeveloper/awesome-tdd).*
 
 ## Contents
 - [Community](#community)
@@ -57,7 +57,7 @@ Next.js is a minimalistic framework for server-rendered React applications.
 ## Contributing
 Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
 
-## Say Hi
+---
 **Check out my [blog](https://goodheads.io) or say *hi* on [Twitter](https://twitter.com/unicodeveloper).**
 
 ## License
