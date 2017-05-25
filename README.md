@@ -1,86 +1,64 @@
 # Awesome Next.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)
 
-> Curated list of resources: books, videos, articles about using Next.js ( A minimalistic framework for universal server-rendered React applications  )
+[<img src="https://rawgit.com/ooade/awesome-nextjs/master/nextjs-logo.svg" align="right" width="100">](https://github.com/zeit/next.js)
+
+> Curated list of resources: books, videos, articles about using Next.js.
+
+Next.js is a minimalistic framework for server-rendered React applications.
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-tdd](https://github.com/unicodeveloper/awesome-tdd).*
 
-*Please read the [contribution guidelines](#guidelines) before contributing.*
-
-**Check out my [blog](https://goodheads.io) or say *hi* on [Twitter](https://twitter.com/unicodeveloper).**
-
-## Table of Contents
-
-- [Essentials](#essentials)
-- [Tutorials](#tutorials)
-- [Articles](#articles)
-- [Apps](#apps)
-- [Boilerplates/Starters](#boilerplatesstarters)
-- [Extensions](#extensions)
+## Contents
 - [Community](#community)
-
-## Essentials
-
-* [Next.js Homepage](https://zeit.co/blog/next)
-* [GitHub Repository](https://github.com/zeit/next.js)
-* [Learn Nextjs](https://learnnextjs.com/)
-
-## Tutorials
-
-* [Build a Universal JavaScript App with Next.js](https://auth0.com/blog/building-universal-apps-with-nextjs)
-* [Getting Started with Next.js — Setting Up Your App](https://labs.redantler.com/getting-started-with-next-js-article-one-a1d9780ea9e0#.863nl4wnq)
-* [Getting Started with Next.js — Bringing Data In](https://labs.redantler.com/getting-started-with-next-js-bringing-data-in-bf40558698e2#.twjv5xk5w)
-* [How to build a Next.js React Universal App](https://medium.com/cosmicjs/how-to-build-a-next-js-react-universal-app-e610a0bc2124#.b8ayt9f39)
-
-## Articles
-
- * [Next on NextJS](https://jsmantra.com/next-on-next-js-1a134505f346#.sf2f64u4r)
-
-## Apps
-
-* [NextGram](https://github.com/zeit/nextgram)
-* [NexThrone](https://github.com/auth0-blog/nextjs-got)
-* [Next Episode](https://github.com/timneutkens/next-episode)
-* [RelateNow](https://github.com/RelateNow/relate)
-* [NextNews - HackerNews written in Next.js](https://github.com/now-examples/next-news)
-* [Password](https://github.com/dotcypress/password)
-* [NextTodos - TodoList written in Next.js](https://github.com/lipp/next-todos)
-* [HackerNews - Another HackerNews written in Next.js](https://github.com/lipp/hackernews)
-* [JetChat - A jet and Next.js powered Chat demo](https://github.com/lipp/jet-chat)
-* [Nextgram - V2](https://github.com/arunoda/nextgram)
-* [Rauchg Blog](https://github.com/rauchg/blog)
-* [NextJPH](https://github.com/renatorib/next-jph)
-* [Mailto 💌⚡️](https://github.com/dawsbot/mailto)
-* [Plate 🍛](https://github.com/knipferrc/plate)
-
-## Boilerplates/Starters
-* [NextSimpleStarter](https://github.com/ooade/NextSimpleStarter)
-* [NextJS Starter - A starter project for Next.js with and email and oAuth authentication](https://github.com/iaincollins/nextjs-starter)
-
-## Extensions
-* [next-routes](https://github.com/fridays/next-routes) - Universal named routes for next.js
+- [Essentials](#essentials)
+- [Articles](#articles)
+- [Boilerplates](#boilerplates)
+- [Extensions](#extensions)
+- [Apps](#apps)
 
 ## Community
-
 * [Slack](https://zeit.chat)
+* [Github](https://github.com/zeit/next.js)
 
+## Essentials
+* [Blog](https://zeit.co/blog/next)
+* [Learn](https://learnnextjs.com/)
+
+## Articles
+ * [Build a Universal JavaScript App with Next.js](https://auth0.com/blog/building-universal-apps-with-nextjs)
+ * [Getting Started with Next.js — Setting Up Your App](https://labs.redantler.com/getting-started-with-next-js-article-one-a1d9780ea9e0#.863nl4wnq)
+ * [Getting Started with Next.js — Bringing Data In](https://labs.redantler.com/getting-started-with-next-js-bringing-data-in-bf40558698e2#.twjv5xk5w)
+ * [How to build a Next.js React Universal App](https://medium.com/cosmicjs/how-to-build-a-next-js-react-universal-app-e610a0bc2124#.b8ayt9f39)
+ * [Next on NextJS](https://jsmantra.com/next-on-next-js-1a134505f346#.sf2f64u4r)
+
+## Boilerplates
+* [Next Simple Starter](https://github.com/ooade/NextSimpleStarter) - :star: Simple PWA boilerplate with Next.js and Redux.
+* [NextJS Starter](https://github.com/iaincollins/nextjs-starter) - A starter project for Next.js with and email and oAuth authentication.
+
+## Extensions
+* [Next Routes](https://github.com/fridays/next-routes) - Universal named routes for Next.js.
+
+## Apps
+* [Nextgram](https://github.com/zeit/nextgram) - A sample Next.js app for showing off its capabilities.
+* [NextJS GOT](https://github.com/auth0-blog/nextjs-got) - A simple Next.js application that showcases Game of Thrones Characters.
+* [Next Episode](https://github.com/timneutkens/next-episode) - A sample Next.js app showing movie episodes.
+* [Relate](https://github.com/RelateNow/relate) - :construction: Mindfulness community - React, GraphQL, Next.js.
+* [Next News](https://github.com/now-examples/next-news) - HackerNews written in Next.js.
+* [Password](https://github.com/dotcypress/password) - :closed_lock_with_key: One password, right way.
+* [Next Todos](https://github.com/lipp/next-todos) - TodoList written in Next.js.
+* [Hacker News](https://github.com/lipp/hackernews) - Another HackerNews written in Next.js.
+* [Jet Chat](https://github.com/lipp/jet-chat) - A jet and Next.js powered Chat demo.
+* [Nextgram](https://github.com/arunoda/nextgram) - A sample Next.js v2 app for showing off its capabilities.
+* [Rauchg Blog](https://github.com/rauchg/blog) - A blog built by a Next.js core maintainer.
+* [Next JPH](https://github.com/renatorib/next-jph) - :memo: JsonPlaceholder sample app made with Next.js.
+* [Mailto](https://github.com/dawsbot/mailto) - :love_letter::zap: HTML mailto's made easy.
+* [Plate](https://github.com/knipferrc/plate) - :curry: The task management app to rule them all.
 
 ## Contributing
-Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the guidelines below
+Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
 
-#### Guidelines
-
-* Make sure what you are adding is not already on the list
-* Make a separate pull request for each addition
-* Use the format: `* [Name](Link) - Description if needed`
-* Add it to the bottom of the section, not top or middle
-* Check your spelling and grammar
-* Feel free to create or improve a category
-* Make sure there is no trailing whitespace
-* Last, Make sure it is awesome!
-
+## Say Hi
+**Check out my [blog](https://goodheads.io) or say *hi* on [Twitter](https://twitter.com/unicodeveloper).**
 
 ## License
-
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-This work (Awesome Next.js) is free of known copyright restrictions.
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
