@@ -53,6 +53,7 @@ Next.js is a minimalistic framework for server-rendered React applications.
 * [Next JPH](https://github.com/renatorib/next-jph) - :memo: JsonPlaceholder sample app made with Next.js.
 * [Mailto](https://github.com/dawsbot/mailto) - :love_letter::zap: HTML mailto's made easy.
 * [Plate](https://github.com/knipferrc/plate) - :curry: The task management app to rule them all.
+* [Dashboard](https://github.com/danielbayerlein/dashboard) - :tv: Create your own team dashboard with custom widgets.
 
 ## Contributing
 Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
