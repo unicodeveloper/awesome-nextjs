@@ -34,7 +34,7 @@
 ## Boilerplates
 * [Next Simple Starter](https://github.com/ooade/NextSimpleStarter) - Simple PWA boilerplate with Next.js and Redux.
 * [NextJS Starter](https://github.com/iaincollins/nextjs-starter) - Starter project for Next.js with and email and oAuth authentication.
-* [RAN!](https://github.com/sly777/ran) - React . Apollo (GraphQL) . Next.js Boilerplate - SEO-Ready, Production-Ready, SSR, Hot-Reload, CSS-in-JS, Caching and more with CLI easy-to-use.
+* [RAN!](https://github.com/sly777/ran) - Production-ready boilerplate with support for GraphQL, SSR, Hot-reload, CSS-in-JS, caching, and more.
 * [Next Simple Blog](https://github.com/tscanlin/next-blog) - Simple Markdown based blog built with Next.js with static exports.
 
 ## Extensions
