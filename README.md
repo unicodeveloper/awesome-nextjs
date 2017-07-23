@@ -56,6 +56,7 @@
 * [Mailto](https://github.com/dawsbot/mailto) - HTML mailto's made easy.
 * [Plate](https://github.com/knipferrc/plate) - The task management app to rule them all.
 * [Dashboard](https://github.com/danielbayerlein/dashboard) - Create your own team dashboard with custom widgets.
+* [Snape](https://github.com/ritz078/snape) - A torrent client to search, stream and download torrents. 
 
 ## Contributing
 Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
