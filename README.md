@@ -56,7 +56,7 @@
 * [Mailto](https://github.com/dawsbot/mailto) - HTML mailto's made easy.
 * [Plate](https://github.com/knipferrc/plate) - The task management app to rule them all.
 * [Dashboard](https://github.com/danielbayerlein/dashboard) - Create your own team dashboard with custom widgets.
-* [TrelloResume](https://github.com/juliandavidmr/TrelloResume) - Converts trello data into fast read information.
+* [Trello Resume](https://github.com/juliandavidmr/TrelloResume) - Converts trello data into fast read information.
 
 ## Contributing
 Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
