@@ -58,6 +58,10 @@
 * [Dashboard](https://github.com/danielbayerlein/dashboard) - Create your own team dashboard with custom widgets.
 * [Trello Resume](https://github.com/juliandavidmr/TrelloResume) - Converts trello data into fast read information.
 
+## Videos
+
+* [Create your first ReactJS application with NextJS _[Spanish]_](https://www.youtube.com/watch?v=-7Ft5LxPeWs)
+
 ## Contributing
 Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
 
