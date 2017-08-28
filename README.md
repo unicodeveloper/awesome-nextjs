@@ -67,6 +67,7 @@
 ## Videos
 
 * [Create your first ReactJS application with NextJS _[Spanish]_](https://www.youtube.com/watch?v=-7Ft5LxPeWs)
+* [React Server Side Rendering with NextJS](https://www.youtube.com/watch?v=JEBkh_vleTs&t)
 
 ## Contributing
 Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
