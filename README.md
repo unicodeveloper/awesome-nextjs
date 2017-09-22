@@ -63,6 +63,7 @@
 * [Dashboard](https://github.com/danielbayerlein/dashboard) - Create your own team dashboard with custom widgets.
 * [Snape](https://github.com/ritz078/snape) - A torrent client to search, stream and download torrents. 
 * [Trello Resume](https://github.com/juliandavidmr/TrelloResume) - Converts trello data into fast read information.
+* [Server Authentication with JWT](https://github.com/estrada9166/server-authentication-next.js) - Server authentication, prevent render before validation
 
 ## Videos
 
