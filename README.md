@@ -15,6 +15,7 @@
 - [Boilerplates](#boilerplates)
 - [Extensions](#extensions)
 - [Apps](#apps)
+- [Videos](#videos)
 
 ## Community
 * [Slack](https://zeit.chat)
@@ -72,6 +73,11 @@
 
 * [Create your first ReactJS application with NextJS _[Spanish]_](https://www.youtube.com/watch?v=-7Ft5LxPeWs)
 * [React Server Side Rendering with NextJS](https://www.youtube.com/watch?v=JEBkh_vleTs&t)
+* [Guillermo Rauch - Next.js by Example](https://www.youtube.com/watch?v=DLGJfa3Xv-0)
+* [Guillermo Rauch - Next.js: Universal React Made Easy and Simple](https://www.youtube.com/watch?v=evaMpdSiZKk)
+* [Introduction to Next.js](https://www.youtube.com/watch?v=Fnw3lNeH-XI)
+* [Next.js in production](https://www.youtube.com/watch?v=h6rETZH6Ym0)
+* [Parameterized Routing with Next.js](https://www.youtube.com/watch?v=2cJya4h5ync)
 
 ## Contributing
 Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
