@@ -68,6 +68,7 @@
 * [Server Authentication with JWT](https://github.com/estrada9166/server-authentication-next.js) - Server authentication, prevent render before validation.
 * [Alexander Kachkaev’s website](https://gitlab.com/kachkaev/website-frontend/) – personal homepage built with Next.js, GraphQL, Docker and Kubernetes. Uses apollo client, react-intl, styled-components and recompose. Docker images are automatically built by GitLab CI. 
 * [Cookie handler with server render](https://github.com/estrada9166/cookie-handler-next.js) - Cookie handler with server render, access the cookie before render.
+* [Gank](https://github.com/OrangeXC/gank) - A Next.js App use gank-api, mobx and antd
 
 ## Videos
 
