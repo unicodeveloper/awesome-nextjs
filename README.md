@@ -34,6 +34,7 @@
  * [Accept payments on your site with nextjs, stripe, and micro](https://hackernoon.com/accept-payments-on-your-site-with-nextjs-stripe-and-micro-371de95b22d5?source=activity---post_recommended)
  * [Next.js on Cloud Functions for Firebase with Firebase Hosting](https://medium.com/@jthegedus/next-js-on-cloud-functions-for-firebase-with-firebase-hosting-7911465298f2)
  * [Building a Blog With Next.js](https://timber.io/blog/building-a-blog-with-next-js)
+ * [Writing Server-rendered React Apps with Next.js](https://www.sitepoint.com/writing-server-rendered-react-apps-next-js/)
 
 
 ## Boilerplates
