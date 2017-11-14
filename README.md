@@ -71,7 +71,7 @@
 * [Cookie handler with server render](https://github.com/estrada9166/cookie-handler-next.js) - Cookie handler with server render, access the cookie before render.
 * [Gank](https://github.com/OrangeXC/gank) - A Next.js App use gank-api, mobx and antd
 * [Decoupled CMS example with GraphQL and Next.js](https://github.com/janit/decoupled-cms-nextjs-graphql)
-* [DS](https://github.com/divyenduz/ds) - personal site manager.
+* [DS](https://github.com/divyenduz/ds) - Personal site manager.
 
 ## Videos
 
