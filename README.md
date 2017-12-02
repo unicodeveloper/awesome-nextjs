@@ -91,7 +91,6 @@
 * [Data Management With Next.js and GraphQL](https://www.youtube.com/watch?v=g_LA1quUIi8)
 * [Next.js Register User](https://www.youtube.com/watch?v=oQ60Grn4RYQ)
 
-
 ## Contributing
 Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
 
