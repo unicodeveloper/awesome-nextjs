@@ -50,6 +50,7 @@
 * [phox](https://github.com/herschel666/phox) - Create a static photo blog.
 * [Next Express Bootstrap Boilerplate](https://github.com/MustansirZia/next-express-bootstrap-boilerplate) - Boilerplate for a full stack app built using Next, Express, react-bootstrap, SCSS and SSR with eslint.
 * [Next Blog Firestore](https://github.com/suevalov/next-blog-firestore) - Blog with simple CMS built with Next.js, Firebase Firestore, styled-components and mobx-state-tree.
+* [Next Redux Starter](https://github.com/CodementorIO/nextjs-redux-starter) - Next.js starter with Express, Redux, and PostCSS.
 
 ## Extensions
 * [Next Routes](https://github.com/fridays/next-routes) - Universal named routes for Next.js.
