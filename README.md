@@ -24,6 +24,7 @@
 ## Essentials
 * [Blog](https://zeit.co/blog/next)
 * [Learn](https://learnnextjs.com/)
+* [Zeit TV](https://zeit.co/tv)
 
 ## Articles
  * [Build a Universal JavaScript App with Next.js](https://auth0.com/blog/building-universal-apps-with-nextjs)
