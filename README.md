@@ -57,6 +57,7 @@
 
 ## Extensions
 * [Next Routes](https://github.com/fridays/next-routes) - Universal named routes for Next.js.
+* [Next-Pkg](https://github.com/onready/next-pkg) - Extended Next.js server with [pkg](https://github.com/zeit/pkg) support.
 
 ## Apps
 * [Nextgram](https://github.com/zeit/nextgram) - Sample Next.js app for showing off its capabilities.
