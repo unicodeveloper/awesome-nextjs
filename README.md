@@ -39,6 +39,7 @@
  * [Build a Universal JavaScript App with Next.js and Redux _[Russian]_](https://habrahabr.ru/post/323588/)
  * [Next.js — React Server Side Rendering Done Right](https://hackernoon.com/next-js-react-server-side-rendering-done-right-f9700078a3b6)
  * [5 (of the Many Reasons) to love Zeit's Next.js](https://www.codementor.io/tgreco/5-of-the-many-things-to-love-about-zeit-s-next-js-bpszu99g1)
+ * [Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones](https://zeit.co/blog/next5)
 
 
 ## Boilerplates
@@ -58,6 +59,9 @@
 ## Extensions
 * [Next Routes](https://github.com/fridays/next-routes) - Universal named routes for Next.js.
 * [Next-Pkg](https://github.com/onready/next-pkg) - Extended Next.js server with [pkg](https://github.com/zeit/pkg) support.
+* [Next Plugins](https://github.com/zeit/next-plugins) - A curated list of plugins for Webpack and Next.js
+* [Next Plugin Graphql](https://github.com/lfades/next-plugin-graphql) - Next.js plugin for .graphql and .gql files using graphql-tag
+* [Next With Apollo](https://github.com/lfades/next-with-apollo) - Apollo Graphql integration for Next.js
 
 ## Apps
 * [Nextgram](https://github.com/zeit/nextgram) - Sample Next.js app for showing off its capabilities.
