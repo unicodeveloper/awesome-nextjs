@@ -87,6 +87,7 @@
 * [Gank](https://github.com/OrangeXC/gank) - A Next.js App use gank-api, mobx and antd
 * [Decoupled CMS example with GraphQL and Next.js](https://github.com/janit/decoupled-cms-nextjs-graphql)
 * [DS](https://github.com/divyenduz/ds) - Personal site manager.
+* [https://vr.mozilla.org/](Not Open Source) - Mozilla VR Home
 
 ## Videos
 
