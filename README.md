@@ -91,6 +91,7 @@
 * [https://www.eltonjohn.com](Not Open Source) - Elton John's Website
 * [https://data.iota.org/](Not Open Source) - IOTA Market Place
 * [magicleap.com](https://www.magicleap.com/) - Magic Leap
+* [NPM.js Search Page](https://www.npmjs.com/search) - NPM's Search Page
 
 
 ## Videos
