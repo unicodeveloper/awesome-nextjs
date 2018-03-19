@@ -87,9 +87,9 @@
 * [Gank](https://github.com/OrangeXC/gank) - A Next.js App use gank-api, mobx and antd
 * [Decoupled CMS example with GraphQL and Next.js](https://github.com/janit/decoupled-cms-nextjs-graphql)
 * [DS](https://github.com/divyenduz/ds) - Personal site manager.
-* [https://vr.mozilla.org/](Not Open Source) - Mozilla VR Home
-* [https://www.eltonjohn.com](Not Open Source) - Elton John's Website
-* [https://data.iota.org/](Not Open Source) - IOTA Market Place
+* [Mozilla VR Home](https://vr.mozilla.org/) - Mozilla VR Home
+* [Elton John's website](https://www.eltonjohn.com) - Elton John's Website
+* [IOTA's Data Market Place](https://data.iota.org/) - IOTA Market Place
 * [magicleap.com](https://www.magicleap.com/) - Magic Leap
 * [NPM.js Search Page](https://www.npmjs.com/search) - NPM's Search Page
 * [Docker Success Center](https://success.docker.com) - Docker Success Center
