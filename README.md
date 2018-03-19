@@ -88,6 +88,8 @@
 * [Decoupled CMS example with GraphQL and Next.js](https://github.com/janit/decoupled-cms-nextjs-graphql)
 * [DS](https://github.com/divyenduz/ds) - Personal site manager.
 * [https://vr.mozilla.org/](Not Open Source) - Mozilla VR Home
+* [https://www.eltonjohn.com](Not Open Source) - Elton John's Website
+
 
 ## Videos
 
