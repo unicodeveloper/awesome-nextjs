@@ -90,6 +90,7 @@
 * [https://vr.mozilla.org/](Not Open Source) - Mozilla VR Home
 * [https://www.eltonjohn.com](Not Open Source) - Elton John's Website
 * [https://data.iota.org/](Not Open Source) - IOTA Market Place
+* [magicleap.com](https://www.magicleap.com/) - Magic Leap
 
 
 ## Videos
