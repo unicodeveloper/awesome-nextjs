@@ -55,6 +55,7 @@
 * [Next Redux Starter](https://github.com/CodementorIO/nextjs-redux-starter) - Next.js starter with Express, Redux, and PostCSS.
 * [Staart](https://github.com/nmaro/staart) - 😎 Actively maintained Next.js components library *and* minimal boilerplate to rapidly get staarted with app with working user accounts based on Ooth.
 * [NextJS TypeScript Starter Kit](https://github.com/deptno/next.js-typescript-starter-kit) - :tada: TypeScript + NextJS@5, Styled-jsx, Redux, PostCSS, configurable SEO
+* [Next Boilerplate](https://arefaslani.github.io/next-boilerplate) - External CSS and Sass + Importing images from anywhere + Prettier and Eslint + Environment variables and many more features.
 
 ## Extensions
 * [Next Routes](https://github.com/fridays/next-routes) - Universal named routes for Next.js.
