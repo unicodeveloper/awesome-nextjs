@@ -20,6 +20,7 @@
 ## Community
 * [Slack](https://zeit.chat)
 * [GitHub](https://github.com/zeit/next.js)
+* [Spectrum](https://spectrum.chat/next-js)
 
 ## Essentials
 * [Blog](https://zeit.co/blog/next)
