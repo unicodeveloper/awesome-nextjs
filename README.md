@@ -15,6 +15,7 @@
 - [Boilerplates](#boilerplates)
 - [Extensions](#extensions)
 - [Apps](#apps)
+- [Books](#books)
 - [Videos](#videos)
 
 ## Community
@@ -97,6 +98,8 @@
 * [NPM.js Search Page](https://www.npmjs.com/search) - NPM's Search Page
 * [Docker Success Center](https://success.docker.com) - Docker Success Center
 
+## Books
+* [Hands On Next.js](https://www.honext.io/) - A practical fullstack book on universal (server) rendering for react applications.
 
 ## Videos
 
