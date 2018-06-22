@@ -69,6 +69,7 @@
 * [Next Plugins](https://github.com/zeit/next-plugins) - A curated list of plugins for Webpack and Next.js
 * [Next Plugin Graphql](https://github.com/lfades/next-plugin-graphql) - Next.js plugin for .graphql and .gql files using graphql-tag
 * [Next With Apollo](https://github.com/lfades/next-with-apollo) - Apollo Graphql integration for Next.js
+* [next-ga](https://github.com/sergiodxa/next-ga) - Next.js HOC to integrate Google Analytics on every page change
 
 ## Apps
 * [Nextgram](https://github.com/zeit/nextgram) - Sample Next.js app for showing off its capabilities.
