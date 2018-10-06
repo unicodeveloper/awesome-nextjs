@@ -67,6 +67,7 @@
 * [next-starter](https://github.com/YuriBrunetto/next-starter) - A full and simple boilerplate with `sass (.scss)` and `postcss`built in.
 * [Typescript Monorepo Next Example](https://github.com/deptno/typescript-monorepo-next-example) - A minimalistic next.js + typescript monorepo.
 * [tomimick/tm-nextjs-starter](https://github.com/tomimick/tm-nextjs-starter) - A minimal starter/demo with basic CRUD, axios/localstorage, MobX, SASS, static site export, live demo
+* [csprance/next-smrt](https://github.com/csprance/next-smrt) - A minimal boilerplate with redux, styled-components, material-ui and typescript with a custom express server.
 
 ## Extensions
 * [Next Routes](https://github.com/fridays/next-routes) - Universal named routes for Next.js.
