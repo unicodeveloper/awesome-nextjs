@@ -112,6 +112,7 @@
 
 ## Books
 * [Hands On Next.js](https://www.honext.io/) - A practical fullstack book on universal (server) rendering for react applications.
+* [Next.js Quick Start Guide](https://www.packtpub.com/web-development/nextjs-quick-start-guide) - Create, build and deploy universal JavaScript applications using Next.js
 
 ## Videos
 
