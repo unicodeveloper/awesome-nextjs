@@ -79,6 +79,7 @@
 * [Next SEO](https://github.com/garmeeh/next-seo) - SEO made easy for Next.js
 * [Nextein](https://github.com/elmasse/nextein) - A static site generator based in Next.js.
 * [next-mdx-blog](https://github.com/hipstersmoothie/next-mdx-blog) - Easily add a blog to any next.js based project
+* [next-routes-middleware](https://github.com/revskill10/next-routes-middleware) - A NextJS routing middleware
 
 ## Apps
 * [Nextgram](https://github.com/zeit/nextgram) - Sample Next.js app for showing off its capabilities.
