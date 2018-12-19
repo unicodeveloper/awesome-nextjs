@@ -69,6 +69,7 @@
 * [Typescript Monorepo Next Example](https://github.com/deptno/typescript-monorepo-next-example) - A minimalistic next.js + typescript monorepo.
 * [tomimick/tm-nextjs-starter](https://github.com/tomimick/tm-nextjs-starter) - A minimal starter/demo with basic CRUD, axios/localstorage, MobX, SASS, static site export, live demo
 * [Nextron](https://github.com/saltyshiomix/nextron) - An Electron with Next.js apps generator ⚡
+* [next-boilerplate](https://github.com/pankod/next-boilerplate) - Production Ready - Typescript, Sass, Css, EnvConfig, Reverse Proxy, Bundle Analyzer
 
 ## Extensions
 * [Next Routes](https://github.com/fridays/next-routes) - Universal named routes for Next.js.
