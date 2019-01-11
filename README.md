@@ -52,6 +52,7 @@
  * [Using Next.js with Github Pages](https://hipstersmoothie.com/blog/next-pages/)
 
 ## Boilerplates
+* [Next.js App with AWS Lambda](https://github.com/mattdamon108/nextjs-with-lambda) - Deploy a Next.js App to AWS Lambda using Apex Up.
 * [NextJS in Firebase with Bootstrap](https://github.com/ananddayalan/nextjs-in-firebase-with-bootstrap) - Hosting NextJS app with Bootstrap in Firebase with Cloud Functions.
 * [Next Simple Starter](https://github.com/ooade/NextSimpleStarter) - Simple PWA boilerplate with Next.js and Redux.
 * [NextJS Starter](https://github.com/iaincollins/nextjs-starter) - Starter project for Next.js with and email and oAuth authentication.
