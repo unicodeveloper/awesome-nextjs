@@ -50,6 +50,7 @@
  * [SEO in Next.js with next-seo](https://www.garymeehan.ie/blog/seo-in-nextjs-with-next-seo)
  * [Next.js 7](https://nextjs.org/blog/next-7)
  * [Using Next.js with Github Pages](https://hipstersmoothie.com/blog/next-pages/)
+ * [Create SSR Next.js websites using GraphQL with Postgres](https://blog.hasura.io/create-next-js-sites-using-graphql-on-postgres-199224ad1a39)
 
 ## Boilerplates
 * [NextJS in Firebase with Bootstrap](https://github.com/ananddayalan/nextjs-in-firebase-with-bootstrap) - Hosting NextJS app with Bootstrap in Firebase with Cloud Functions.
@@ -71,6 +72,7 @@
 * [Nextron](https://github.com/saltyshiomix/nextron) - An Electron with Next.js apps generator ⚡
 * [next-boilerplate](https://github.com/pankod/next-boilerplate) - Production Ready - Typescript, Sass, Css, EnvConfig, Reverse Proxy, Bundle Analyzer
 * [Oh My Fullstack](https://github.com/oh-my-c0de/oh-my-fullstack) - Full stack web application skeleton (Next.js, Redux, RxJS, Immutable, Express)
+* [next-postgres-graphql](https://github.com/hasura/graphql-engine/tree/master/community/boilerplates/nextjs-postgres-graphql) - Create SSR Next.js websites using GraphQL with Postgres (Next.js, Postgres, GraphQL)
 
 ## Extensions
 * [Next Routes](https://github.com/fridays/next-routes) - Universal named routes for Next.js.
