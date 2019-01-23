@@ -53,6 +53,7 @@
  * [Using Next.js with Github Pages](https://hipstersmoothie.com/blog/next-pages/)
 
 ## Boilerplates
+* [NextJS Headless CMS Powered Blog Starter](https://github.com/ButterCMS/react-cms-blog-with-next-js)
 * [NextJS in Firebase with Bootstrap](https://github.com/ananddayalan/nextjs-in-firebase-with-bootstrap) - Hosting NextJS app with Bootstrap in Firebase with Cloud Functions.
 * [Next Simple Starter](https://github.com/ooade/NextSimpleStarter) - Simple PWA boilerplate with Next.js and Redux.
 * [NextJS Starter](https://github.com/iaincollins/nextjs-starter) - Starter project for Next.js with and email and oAuth authentication.
