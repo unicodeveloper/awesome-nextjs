@@ -9,14 +9,18 @@
 *List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-tdd](https://github.com/unicodeveloper/awesome-tdd).*
 
 ## Contents
-- [Community](#community)
-- [Essentials](#essentials)
-- [Articles](#articles)
-- [Boilerplates](#boilerplates)
-- [Extensions](#extensions)
-- [Apps](#apps)
-- [Books](#books)
-- [Videos](#videos)
+- [Awesome Next.js ![Awesome](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)](#awesome-nextjs-awesomehttpsgithubcomsindresorhusawesome-httpsimgshieldsiobadgeunicodeveloper-approved-brightgreensvg)
+  - [Contents](#contents)
+  - [Community](#community)
+  - [Essentials](#essentials)
+  - [Articles](#articles)
+  - [Boilerplates](#boilerplates)
+  - [Extensions](#extensions)
+  - [Apps](#apps)
+  - [Books](#books)
+  - [Videos](#videos)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Community
 * [Slack](https://zeit.chat)
@@ -72,6 +76,7 @@
 * [Nextron](https://github.com/saltyshiomix/nextron) - An Electron with Next.js apps generator ⚡
 * [next-boilerplate](https://github.com/pankod/next-boilerplate) - Production Ready - Typescript, Sass, Css, EnvConfig, Reverse Proxy, Bundle Analyzer
 * [Oh My Fullstack](https://github.com/oh-my-c0de/oh-my-fullstack) - Full stack web application skeleton (Next.js, Redux, RxJS, Immutable, Express)
+* [next-antd-scaffold](https://github.com/luffyZh/next-antd-scaffold) - A simple scaffold based on Next.js for quick use with ant-design, redux, redux-saga, fetch and pm2.)
 
 ## Extensions
 * [Next Routes](https://github.com/fridays/next-routes) - Universal named routes for Next.js.
