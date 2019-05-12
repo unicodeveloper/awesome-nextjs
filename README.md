@@ -33,7 +33,6 @@
  * [Getting Started with Next.js — Setting Up Your App](https://labs.redantler.com/getting-started-with-next-js-article-one-a1d9780ea9e0#.863nl4wnq)
  * [Getting Started with Next.js — Bringing Data In](https://labs.redantler.com/getting-started-with-next-js-bringing-data-in-bf40558698e2#.twjv5xk5w)
  * [How to build a Next.js React Universal App](https://medium.com/cosmicjs/how-to-build-a-next-js-react-universal-app-e610a0bc2124#.b8ayt9f39)
- * [Next on Next.js](https://jsmantra.com/next-on-next-js-1a134505f346#.sf2f64u4r)
  * [Accept payments on your site with nextjs, stripe, and micro](https://hackernoon.com/accept-payments-on-your-site-with-nextjs-stripe-and-micro-371de95b22d5?source=activity---post_recommended)
  * [Next.js on Cloud Functions for Firebase with Firebase Hosting](https://medium.com/@jthegedus/next-js-on-cloud-functions-for-firebase-with-firebase-hosting-7911465298f2)
  * [Building a Blog With Next.js](https://timber.io/blog/building-a-blog-with-next-js)
@@ -49,7 +48,6 @@
  * [SEO in Next.js and Prismic](https://www.garymeehan.ie/blog/handling-seo-with-nextjs-and-prismic)
  * [SEO in Next.js with next-seo](https://www.garymeehan.ie/blog/seo-in-nextjs-with-next-seo)
  * [Next.js 7](https://nextjs.org/blog/next-7)
- * [Using Next.js with Github Pages](https://hipstersmoothie.com/blog/next-pages/)
 
 ## Boilerplates
 * [NextJS in Firebase with Bootstrap](https://github.com/ananddayalan/nextjs-in-firebase-with-bootstrap) - Hosting NextJS app with Bootstrap in Firebase with Cloud Functions.
