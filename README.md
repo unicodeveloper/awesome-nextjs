@@ -85,7 +85,6 @@
 * [Serverless Framework plugin for Next.js](https://github.com/danielcondemarin/serverless-nextjs-plugin) - Deploy serverless applications with ease.
 
 ## Apps
-* [Nextgram](https://github.com/zeit/nextgram) - Sample Next.js app for showing off its capabilities.
 * [NextJS GOT](https://github.com/auth0-blog/nextjs-got) - Simple Next.js application that showcases Game of Thrones Characters.
 * [Next Episode](https://github.com/timneutkens/next-episode) - Sample Next.js app showing movie episodes.
 * [Relate](https://github.com/RelateNow/relate) - Mindfulness community - React, GraphQL, Next.js.
