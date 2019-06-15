@@ -84,6 +84,7 @@
 * [Nextein](https://github.com/elmasse/nextein) - A static site generator based in Next.js.
 * [next-mdx-blog](https://github.com/hipstersmoothie/next-mdx-blog) - Easily add a blog to any next.js based project
 * [Serverless Framework plugin for Next.js](https://github.com/danielcondemarin/serverless-nextjs-plugin) - Deploy serverless applications with ease.
+* [Terraform For Next.js](https://github.com/ematipico/terraform-nextjs-plugin) - Deploy your application using Terraform
 
 ## Apps
 * [Nextgram](https://github.com/zeit/nextgram) - Sample Next.js app for showing off its capabilities.
