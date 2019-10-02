@@ -75,6 +75,7 @@
 * [Nextron](https://github.com/saltyshiomix/nextron) - An Electron with Next.js apps generator ⚡
 * [next-boilerplate](https://github.com/pankod/next-boilerplate) - Production Ready - Typescript, Sass, Css, EnvConfig, Reverse Proxy, Bundle Analyzer
 * [Oh My Fullstack](https://github.com/oh-my-c0de/oh-my-fullstack) - Full stack web application skeleton (Next.js, Redux, RxJS, Immutable, Express)
+* [nextjs-mongodb-app](https://github.com/hoangvvo/nextjs-mongodb-app) - Full-fledged app made with Next.JS and MongoDB, with authentication and much more (Next.js 9, MongoDB)
 
 ## Extensions
 * [Next Routes](https://github.com/fridays/next-routes) - Universal named routes for Next.js.
