@@ -125,6 +125,7 @@
 * [NPM.js Search Page](https://www.npmjs.com/search) - NPM's Search Page
 * [Docker Success Center](https://success.docker.com) - Docker Success Center
 * [Urteile & Gesetze](https://github.com/neo-search/urteile-gesetze-web) - German Legal Information System licensed under GPLv3.
+* [Real World Example App (Social Blogging)](https://github.com/arrlancore/nextjs-ssr-real-world-app-example) - Exemplary medium.com clone powered by Next.js SSR
 
 ## Books
 * [Hands On Next.js](https://www.honext.io/) - A practical fullstack book on universal (server) rendering for react applications.
