@@ -53,6 +53,7 @@
  * [Next.js E-commerce Tutorial: Quick Shopping Cart Integration](https://snipcart.com/blog/next-js-ecommerce-tutorial)
  * [Working with Ghost and Next.js](https://ghost.org/docs/api/nextjs/)
  * [Using Tailwind CSS with Next.js](https://statickit.com/guides/next-js-tailwind)
+ * [Create a server-side rendering GraphQL client with Next.js and Apollo Client](https://medium.com/@tomanagle/create-a-server-side-rendering-graphql-client-with-next-js-and-apollo-client-acd397f70c64)
 
 ## Boilerplates
 * [Next & Now 2.0 Typescript template](https://github.com/alepacheco/landing-template) - Serverless, Typescript, Jest, Github CI, SCSS, prettier boilerplate
