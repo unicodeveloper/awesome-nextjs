@@ -148,6 +148,7 @@
 * [Data Management With Next.js and GraphQL](https://www.youtube.com/watch?v=g_LA1quUIi8)
 * [Next.js Register User](https://www.youtube.com/watch?v=oQ60Grn4RYQ)
 * [Next.js Crash Course - Server Side React](https://www.youtube.com/watch?v=IkOVe40Sy0U)
+* [Mastering Next.js](https://masteringnextjs.com/) - 50+ lesson video course for building applications with Next.js and React.
 
 ## Contributing
 Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
