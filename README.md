@@ -53,6 +53,8 @@
  * [Next.js E-commerce Tutorial: Quick Shopping Cart Integration](https://snipcart.com/blog/next-js-ecommerce-tutorial)
  * [Working with Ghost and Next.js](https://ghost.org/docs/api/nextjs/)
  * [Using Tailwind CSS with Next.js](https://statickit.com/guides/next-js-tailwind)
+ * [Adding Dark Mode with Next.js, styled-components, and useDarkMode](https://brianlovin.com/overthought/adding-dark-mode-with-next-js)
+ * [Using Ghost as a Headless CMS with Next.js](https://brianlovin.com/overthought/using-ghost-headless-cms-next-js-to-create-a-fast-and-simple-blog)
 
 ## Boilerplates
 * [Next Graphql Apollo Typescript_Boostrap - Pobocha](https://github.com/Sebastp/Next-react-graphql-apollo_Boostrap) - React + GraphQL + Next.js + Apollo + Scss + Typescript + Prettier & EsLint boilerplate
