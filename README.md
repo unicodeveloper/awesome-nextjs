@@ -89,6 +89,7 @@
 * [Next With Apollo](https://github.com/lfades/next-with-apollo) - Apollo Graphql integration for Next.js
 * [Next SEO](https://github.com/garmeeh/next-seo) - SEO made easy for Next.js
 * [Next UserAgent](https://github.com/tokuda109/next-useragent) - UserAgent parser for Next.js
+* [Next Cookie](https://github.com/tokuda109/next-cookie) - Cookie serializer and deserializer library for Next.js.
 * [Nextein](https://github.com/elmasse/nextein) - A static site generator based in Next.js.
 * [next-mdx-blog](https://github.com/hipstersmoothie/next-mdx-blog) - Easily add a blog to any next.js based project
 * [Serverless Framework plugin for Next.js](https://github.com/danielcondemarin/serverless-nextjs-plugin) - Deploy serverless applications with ease.
