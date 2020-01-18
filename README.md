@@ -95,7 +95,8 @@
 * [Serverless Framework plugin for Next.js](https://github.com/danielcondemarin/serverless-nextjs-plugin) - Deploy serverless applications with ease.
 * [Terraform For Next.js](https://github.com/ematipico/terraform-nextjs-plugin) - Deploy your application using Terraform
 * [next-session](https://github.com/hoangvvo/next-session) - Session middleware for Next.js
-* [Next PurgeCSS](https://github.com/lucleray/next-purgecss) - Easily integrate [Purgecss](https://www.purgecss.com/), which helps you remove unused CSS from your bundle. 
+* [Next PurgeCSS](https://github.com/lucleray/next-purgecss) - Easily integrate [Purgecss](https://www.purgecss.com/), which helps you remove unused CSS from your bundle.
+* [next-connect](https://github.com/hoangvvo/next-connect) - The Express/Connect-compatible method routing and middleware layer for Next.js
 
 
 ## Apps
