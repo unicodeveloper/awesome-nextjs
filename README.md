@@ -80,7 +80,7 @@
 * [nextjs-mongodb-app](https://github.com/hoangvvo/nextjs-mongodb-app) - Full-fledged app made with Next.JS and MongoDB, with authentication and much more (Next.js 9, MongoDB)
 * [react-next-boilerplate](https://github.com/react-next-boilerplate/react-next-boilerplate) - :rocket: A basis for reducing the configuration of your projects with nextJS, best development practices and popular libraries in the developer community.
 * [Apollo Next.js GraphQL starter](https://github.com/tomanagle/Apollo-Next.js-GraphQL-starter) - A GraphQL starter pack that uses Next.js, configured with Apollo Client
-* [The-Nextjs-starter](https://github.com/novellito/the-nextjs-starter) - Typescript + Redux + styled-components + react-testing-library + eslint + fontawesome
+* [The-Nextjs-starter](https://github.com/novellito/the-nextjs-starter) - typescript + redux + styled-components + react-testing-library + eslint + fontawesome
 
 ## Extensions
 * [Next Routes](https://github.com/fridays/next-routes) - Universal named routes for Next.js.
