@@ -84,6 +84,7 @@
 * [The-Nextjs-starter](https://github.com/novellito/the-nextjs-starter) - typescript + redux + styled-components + react-testing-library + eslint + fontawesome
 
 ## Extensions
+* [Next universal language detector](https://github.com/UnlyEd/universal-language-detector) - Language detector that works universally (browser + server) - Meant to be used with a universal framework, such as Next.js [DEMO](https://universal-language-detector.now.sh/)
 * [Next Routes](https://github.com/fridays/next-routes) - Universal named routes for Next.js.
 * [Next-Pkg](https://github.com/onready/next-pkg) - Extended Next.js server with [pkg](https://github.com/zeit/pkg) support.
 * [Next Plugins](https://github.com/zeit/next-plugins) - A curated list of plugins for Webpack and Next.js
@@ -99,7 +100,6 @@
 * [next-session](https://github.com/hoangvvo/next-session) - Session middleware for Next.js
 * [Next PurgeCSS](https://github.com/lucleray/next-purgecss) - Easily integrate [Purgecss](https://www.purgecss.com/), which helps you remove unused CSS from your bundle.
 * [Next PWA](https://github.com/shadowwalker/next-pwa) - Zero config PWA plugin for Next.js with workbox
-
 
 ## Apps
 * [NextJS GOT](https://github.com/auth0-blog/nextjs-got) - Simple Next.js application that showcases Game of Thrones Characters.
