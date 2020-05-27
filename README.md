@@ -4,7 +4,7 @@
 
 > Curated list of resources: books, videos, articles about using Next.js.
 
-[Next.js](https://github.com/zeit/next.js) is a minimalistic framework for server-rendered React applications.
+[Next.js](https://github.com/zeit/next.js): The React Framework.
 
 *List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-tdd](https://github.com/unicodeveloper/awesome-tdd).*
 
@@ -19,13 +19,12 @@
 - [Videos](#videos)
 
 ## Community
-* [GitHub Vercel discussions ](https://github.com/zeit/now/discussions)
 * [GitHub](https://github.com/zeit/next.js)
 * [GitHub discussions for Next.js](https://github.com/zeit/next.js/discussions)
 
 ## Essentials
-* [Blog](https://vercel.com/blog/next)
-* [Learn](https://learnnextjs.com/)
+* [Blog](https://nextjs.org/blog)
+* [Learn](https://nextjs.org/learn)
 * [Vercel TV](https://vercel.com/tv)
 
 ## Articles
