@@ -19,14 +19,14 @@
 - [Videos](#videos)
 
 ## Community
-* [Slack](https://zeit.chat)
+* [GitHub Vercel discussions ](https://github.com/zeit/now/discussions)
 * [GitHub](https://github.com/zeit/next.js)
-* [Spectrum](https://spectrum.chat/next-js)
+* [GitHub discussions for Next.js](https://github.com/zeit/next.js/discussions)
 
 ## Essentials
-* [Blog](https://zeit.co/blog/next)
+* [Blog](https://vercel.com/blog/next)
 * [Learn](https://learnnextjs.com/)
-* [Zeit TV](https://zeit.co/tv)
+* [Vercel TV](https://vercel.com/tv)
 
 ## Articles
  * [Build a Universal JavaScript App with Next.js](https://auth0.com/blog/building-universal-apps-with-nextjs)
@@ -39,7 +39,7 @@
  * [Building a Blog With Next.js](https://timber.io/blog/building-a-blog-with-next-js)
  * [Using Google Analytics with Next.js](https://malloc.fi/using-google-analytics-with-next-js)
  * [Build a Universal JavaScript App with Next.js and Redux _[Russian]_](https://habrahabr.ru/post/323588/)
- * [5 (of the Many Reasons) to love Zeit's Next.js](https://www.codementor.io/tgreco/5-of-the-many-things-to-love-about-zeit-s-next-js-bpszu99g1)
+ * [5 (of the Many Reasons) to love Vercel's Next.js](https://www.codementor.io/tgreco/5-of-the-many-things-to-love-about-zeit-s-next-js-bpszu99g1)
  * [Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones](https://zeit.co/blog/next5)
  * [Realtime data visualization using Next.js and Chart.js](https://pusher.com/tutorials/realtime-data-visualization-nextjs)
  * [Build a chat app with sentiment analysis using Next.js](https://pusher.com/tutorials/chat-sentiment-analysis-nextjs)
@@ -54,9 +54,9 @@
  * [Using Tailwind CSS with Next.js](https://statickit.com/guides/next-js-tailwind)
 
 ## Boilerplates
-* [Next Right Now](https://github.com/UnlyEd/next-right-now) - Flexible **production-grade boilerplate** with Next.js 9 and Zeit Now, with pre-configured Sentry, cookies, Amplitude, Emotion, FontAwesome, GraphQL/GraphCMS (Apollo), Bootstrap (Reactstrap), i18next (Locize), Jest, Cypress (E2E tests) and CI/CD (GH Actions), with full TypeScript support and **support for B2B multi-tenants web apps (monorepo)**
+* [Next Right Now](https://github.com/UnlyEd/next-right-now) - Flexible **production-grade boilerplate** with Next.js 9 and Vercel, with pre-configured Sentry, cookies, Amplitude, Emotion, FontAwesome, GraphQL/GraphCMS (Apollo), Bootstrap (Reactstrap), i18next (Locize), Jest, Cypress (E2E tests) and CI/CD (GH Actions), with full TypeScript support and **support for B2B multi-tenants web apps (monorepo)**
 * [Next Graphql Apollo Typescript_Boostrap - Pobocha](https://github.com/Sebastp/Next-react-graphql-apollo_Boostrap) - React + GraphQL + Next.js + Apollo + Scss + Typescript + Prettier & EsLint boilerplate
-* [Next & Now 2.0 Typescript template](https://github.com/alepacheco/landing-template) - Serverless, Typescript, Jest, Github CI, SCSS, prettier boilerplate
+* [Next & Vercel Typescript template](https://github.com/alepacheco/landing-template) - Serverless, Typescript, Jest, Github CI, SCSS, prettier boilerplate
 * [NextJS in Firebase with Bootstrap](https://github.com/ananddayalan/nextjs-in-firebase-with-bootstrap) - Hosting NextJS app with Bootstrap in Firebase with Cloud Functions.
 * [Next Simple Starter](https://github.com/ooade/NextSimpleStarter) - Simple PWA boilerplate with Next.js and Redux.
 * [NextJS Starter](https://github.com/iaincollins/nextjs-starter) - Starter project for Next.js with and email and oAuth authentication.
