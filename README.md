@@ -98,6 +98,7 @@
 * [Next Cookie](https://github.com/tokuda109/next-cookie) - Cookie serializer and deserializer library for Next.js.
 * [Nextein](https://github.com/elmasse/nextein) - A static site generator based in Next.js.
 * [next-mdx-blog](https://github.com/hipstersmoothie/next-mdx-blog) - Easily add a blog to any next.js based project
+* [next-routes-middleware](https://github.com/revskill10/next-routes-middleware) - A NextJS routing middleware
 * [Serverless Framework plugin for Next.js](https://github.com/danielcondemarin/serverless-nextjs-plugin) - Deploy serverless applications with ease.
 * [Terraform For Next.js](https://github.com/ematipico/terraform-nextjs-plugin) - Deploy your application using Terraform
 * [next-session](https://github.com/hoangvvo/next-session) - Session middleware for Next.js
