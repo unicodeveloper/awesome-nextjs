@@ -140,6 +140,7 @@
 ## Books
 * [Hands On Next.js](https://www.honext.io/) - A practical fullstack book on universal (server) rendering for react applications.
 * [Next.js Quick Start Guide](https://www.packtpub.com/web-development/nextjs-quick-start-guide) - Create, build and deploy universal JavaScript applications using Next.js
+* [Next.js in Action](https://www.manning.com/books/next-js-in-action) - Your practical guide to building apps with the universal React framework.
 * [The Next.js Handbook](https://flaviocopes.com/page/nextjs-handbook/) - Build a frontend React application that transparently handles server-side rendering for you.
 
 ## Videos
