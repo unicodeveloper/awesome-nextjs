@@ -108,6 +108,7 @@
 * [flow-middleware](https://github.com/piglovesyou/flow-middleware) - Run any of Express middlewares on Next.js without polluting native objects.
 
 ## Apps
+* [CourseLit](https://github.com/codelit/courselit) - An open source alternative to Thinkific, Teachable etc.
 * [NextJS GOT](https://github.com/auth0-blog/nextjs-got) - Simple Next.js application that showcases Game of Thrones Characters.
 * [Next Episode](https://github.com/timneutkens/next-episode) - Sample Next.js app showing movie episodes.
 * [Relate](https://github.com/RelateNow/relate) - Mindfulness community - React, GraphQL, Next.js.
