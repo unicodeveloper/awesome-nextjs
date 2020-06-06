@@ -109,6 +109,7 @@
 
 ## Apps
 * [CourseLit](https://github.com/codelit/courselit) - An open source alternative to Thinkific, Teachable etc.
+* [Feednext](https://github.com/feednext/feednext) - An open source social media application.
 * [NextJS GOT](https://github.com/auth0-blog/nextjs-got) - Simple Next.js application that showcases Game of Thrones Characters.
 * [Next Episode](https://github.com/timneutkens/next-episode) - Sample Next.js app showing movie episodes.
 * [Relate](https://github.com/RelateNow/relate) - Mindfulness community - React, GraphQL, Next.js.
