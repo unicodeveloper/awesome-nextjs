@@ -106,6 +106,7 @@
 * [Next PurgeCSS](https://github.com/lucleray/next-purgecss) - Easily integrate [Purgecss](https://www.purgecss.com/), which helps you remove unused CSS from your bundle.
 * [Next PWA](https://github.com/shadowwalker/next-pwa) - Zero config PWA plugin for Next.js with workbox
 * [flow-middleware](https://github.com/piglovesyou/flow-middleware) - Run any of Express middlewares on Next.js without polluting native objects.
+* [next-img](https://github.com/humaans/next-img/) - a plugin for embedding optimized images with ease.
 
 ## Apps
 * [CourseLit](https://github.com/codelit/courselit) - An open source alternative to Thinkific, Teachable etc.
