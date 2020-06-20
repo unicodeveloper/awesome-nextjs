@@ -28,6 +28,7 @@
 * [Vercel TV](https://vercel.com/tv)
 
 ## Articles
+ * [How to Build a Serverless Next.js Blog with ButterCMS](https://buttercms.com/blog/next-js-cms-tutorial)
  * [Build a Universal JavaScript App with Next.js](https://auth0.com/blog/building-universal-apps-with-nextjs)
  * [Getting Started with Next.js — Setting Up Your App](https://labs.redantler.com/getting-started-with-next-js-article-one-a1d9780ea9e0#.863nl4wnq)
  * [Getting Started with Next.js — Bringing Data In](https://labs.redantler.com/getting-started-with-next-js-bringing-data-in-bf40558698e2#.twjv5xk5w)
@@ -55,6 +56,8 @@
  * [Using Tailwind CSS with Next.js](https://statickit.com/guides/next-js-tailwind)
 
 ## Boilerplates
+
+* [NextJS Headless CMS Powered Blog Starter](https://github.com/ButterCMS/react-cms-blog-with-next-js)
 * [Next.js App with AWS Lambda](https://github.com/mattdamon108/nextjs-with-lambda) - Deploy a Next.js App to AWS Lambda using Apex Up.
 * [Nitro 🚀](https://github.com/williamluke4/nitro) - An Example of a PWA using Nextjs, Material-UI, Typescript and Auth0 💗
 * [Next & Now 2.0 Typescript template](https://github.com/alepacheco/landing-template) - Serverless, Typescript, Jest, Github CI, SCSS, prettier boilerplate
