@@ -48,6 +48,7 @@
  * [SEO in Next.js with next-seo](https://www.garymeehan.ie/blog/seo-in-nextjs-with-next-seo)
  * [Next.js 7](https://nextjs.org/blog/next-7)
  * [Using Next.js with Github Pages](https://hipstersmoothie.com/blog/next-pages/)
+ * [Create SSR Next.js websites using GraphQL with Postgres](https://blog.hasura.io/create-next-js-sites-using-graphql-on-postgres-199224ad1a39)
  * [Cooking a Deliveroo clone with Next.js (React), GraphQL, Strapi and Stripe - Setup (part 1/7)](https://blog.strapi.io/strapi-next-setup)
  * [Next.js E-commerce Tutorial: Quick Shopping Cart Integration](https://snipcart.com/blog/next-js-ecommerce-tutorial)
  * [Working with Ghost and Next.js](https://ghost.org/docs/api/nextjs/)
@@ -81,6 +82,7 @@
 * [Nextron](https://github.com/saltyshiomix/nextron) - An Electron with Next.js apps generator ⚡
 * [next-boilerplate](https://github.com/pankod/next-boilerplate) - A well-structured production ready Next.js boilerplate with Typescript, Redux, Express.js, Sass, Css, EnvConfig, Reverse Proxy, Bundle 
 * [Oh My Fullstack](https://github.com/oh-my-c0de/oh-my-fullstack) - Full stack web application skeleton (Next.js, Redux, RxJS, Immutable, Express)
+* [next-postgres-graphql](https://github.com/hasura/graphql-engine/tree/master/community/boilerplates/nextjs-postgres-graphql) - Create SSR Next.js websites using GraphQL with Postgres (Next.js, Postgres, GraphQL)
 * [nextjs-mongodb-app](https://github.com/hoangvvo/nextjs-mongodb-app) - Full-fledged app made with Next.JS and MongoDB, with authentication and much more (Next.js 9, MongoDB)
 * [react-next-boilerplate](https://github.com/react-next-boilerplate/react-next-boilerplate) - :rocket: A basis for reducing the configuration of your projects with nextJS, best development practices and popular libraries in the developer community.
 * [Apollo Next.js GraphQL starter](https://github.com/tomanagle/Apollo-Next.js-GraphQL-starter) - A GraphQL starter pack that uses Next.js, configured with Apollo Client
