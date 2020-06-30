@@ -117,6 +117,7 @@
 * [flow-middleware](https://github.com/piglovesyou/flow-middleware) - Run any of Express middlewares on Next.js without polluting native objects.
 * [next-connect](https://github.com/hoangvvo/next-connect) - The Express/Connect-compatible router and middleware layer for Next.js.
 * [next-img](https://github.com/humaans/next-img/) - a plugin for embedding optimized images with ease.
+* [next-auth](https://github.com/iaincollins/next-auth) - Easy authentication for Next.js and Serverless
 
 ## Apps
 * [CourseLit](https://github.com/codelit/courselit) - An open source alternative to Thinkific, Teachable etc.
