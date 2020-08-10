@@ -121,6 +121,7 @@
 * [next-img](https://github.com/humaans/next-img/) - a plugin for embedding optimized images with ease.
 * [next-auth](https://github.com/iaincollins/next-auth) - Easy authentication for Next.js and Serverless
 * [next-deploy](https://github.com/lone-cloud/next-deploy) - 🚀 Effortless deployment to AWS and GitHub Pages.
+* [next-joi](https://github.com/codecoolture/next-joi) - Validate Next.js API Routes, with _joi_.
 
 ## Apps
 * [CourseLit](https://github.com/codelit/courselit) - An open source alternative to Thinkific, Teachable etc.
