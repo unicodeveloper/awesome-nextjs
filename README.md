@@ -84,9 +84,9 @@
 * [tomimick/tm-nextjs-starter](https://github.com/tomimick/tm-nextjs-starter) - A minimal starter/demo with basic CRUD, axios/localstorage, MobX, SASS, static site export, live demo
 * [csprance/next-smrt](https://github.com/csprance/next-smrt) - A minimal boilerplate with redux, styled-components, material-ui and typescript with a custom express server.
 * [Nextron](https://github.com/saltyshiomix/nextron) - An Electron with Next.js apps generator ⚡
-* [next-boilerplate](https://github.com/pankod/next-boilerplate) - A well-structured production ready Next.js boilerplate with Typescript, Redux, Express.js, Sass, Css, EnvConfig, Reverse Proxy, Bundle 
+* [next-boilerplate](https://github.com/pankod/next-boilerplate) - A well-structured production ready Next.js boilerplate with Typescript, Redux, Express.js, Sass, Css, EnvConfig, Reverse Proxy, Bundle
 * [Oh My Fullstack](https://github.com/oh-my-c0de/oh-my-fullstack) - Full stack web application skeleton (Next.js, Redux, RxJS, Immutable, Express)
-* [Next-Postgres-With-Typescript](https://github.com/brandontle/next-postgres-with-typescript) - Forum-like fullstack web app with Next 7.0.2 + Sequelize 4/Postgres + Typescript + Redux + Passport Local Auth + Emotion 
+* [Next-Postgres-With-Typescript](https://github.com/brandontle/next-postgres-with-typescript) - Forum-like fullstack web app with Next 7.0.2 + Sequelize 4/Postgres + Typescript + Redux + Passport Local Auth + Emotion
 * [Next.js with Express and Babel](https://github.com/pd-smith/next-express-babel) - An application skeleton for those who want to transpile their Express as well as their Next.js code using Babel.
 * [next-postgres-graphql](https://github.com/hasura/graphql-engine/tree/master/community/boilerplates/nextjs-postgres-graphql) - Create SSR Next.js websites using GraphQL with Postgres (Next.js, Postgres, GraphQL)
 * [nextjs-mongodb-app](https://github.com/hoangvvo/nextjs-mongodb-app) - Full-fledged app made with Next.JS and MongoDB, with authentication and much more (Next.js 9, MongoDB)
@@ -94,6 +94,7 @@
 * [The-Nextjs-starter](https://github.com/novellito/the-nextjs-starter) - typescript + redux + styled-components + react-testing-library + eslint + fontawesome
 * [The Knests Stack](https://github.com/tudorconstantin/knests/) - Full stack  boilerplate/hackathon starter with: PostgreSQL, Knex.js, NestJS, Next.js (obviously), GraphQL, React (with hooks and typescript), Material-UI, Docker multistage images for, Docker compose and a Gitlab CI/CD pipeline fully configured.
 * [Devii](https://github.com/vriad/devii) - A Medium-inspired dev blog starter built with Next.js, React, and TypeScript, with Markdown rendering, syntax highlighting, SEO/meta tags, and RSS feed generation out of the box.
+* [Nextjs Blog Starter](https://creativedesignsguru.com/demo/Nextjs-Blog-Boilerplate/) - 🚀 The perfect starter code for your blog based on Next.js framework. ⚡️ Made with Next.js, TypeScript, ESLint, Prettier, PostCSS, Tailwind CSS.
 
 
 ## Extensions
