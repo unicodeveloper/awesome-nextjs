@@ -17,6 +17,7 @@
 - [Apps](#apps)
 - [Books](#books)
 - [Videos](#videos)
+- [Newsletters](#newsletters)
 
 ## Community
 * [GitHub](https://github.com/zeit/next.js)
@@ -185,6 +186,11 @@
 * [Next.js Register User](https://www.youtube.com/watch?v=oQ60Grn4RYQ)
 * [Next.js Crash Course - Server Side React](https://www.youtube.com/watch?v=IkOVe40Sy0U)
 * [Mastering Next.js](https://masteringnextjs.com/) - 50+ lesson video course for building applications with Next.js and React.
+
+## Newsletters
+
+* [Next.js News](https://nextjsnews.com) - Bi-weekly Next.js news Next.js with everything you need to keep yourself updated on the Next.js ecosystem
+* [Next.js Notes](https://nextjsnotes.com) - Monthly Next.js and JavaScript platform news
 
 ## Contributing
 Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
