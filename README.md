@@ -9,15 +9,19 @@
 *List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-tdd](https://github.com/unicodeveloper/awesome-tdd).*
 
 ## Contents
-- [Community](#community)
-- [Essentials](#essentials)
-- [Articles](#articles)
-- [Boilerplates](#boilerplates)
-- [Extensions](#extensions)
-- [Apps](#apps)
-- [Books](#books)
-- [Videos](#videos)
-- [Newsletters](#newsletters)
+- [Awesome Next.js ![Awesome](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)](#awesome-nextjs-img-srchttpscdnrawgitcomsindresorhusawesomed7305f38d29fed78fa85652e3a63e154dd8e8829mediabadgesvg-altawesome-img-srchttpsimgshieldsiobadgeunicodeveloper-approved-brightgreensvg-alt)
+  - [Contents](#contents)
+  - [Community](#community)
+  - [Essentials](#essentials)
+  - [Articles](#articles)
+  - [Boilerplates](#boilerplates)
+  - [Extensions](#extensions)
+  - [Apps](#apps)
+  - [Books](#books)
+  - [Videos](#videos)
+  - [Newsletters](#newsletters)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Community
 * [GitHub](https://github.com/zeit/next.js)
@@ -98,6 +102,7 @@
 * [Nextjs Blog Starter](https://creativedesignsguru.com/demo/Nextjs-Blog-Boilerplate/) - 🚀 The perfect starter code for your blog based on Next.js framework. ⚡️ Made with Next.js, TypeScript, ESLint, Prettier, PostCSS, Tailwind CSS.
 * [Next.js and Netlify Blogging Template](https://github.com/wutali/nextjs-netlify-blog-template) - A perfect boilerplate for building a blog website on Netlify stacks with standard features like tagging, CMS, and shortcodes.
 * [Nextjs Apollo Nexus](https://github.com/inblack67/GraphQL-Next-Setup) - GraphQL Apollo Client-Server integration in Next.js with Nexus Schema (Code first approach).
+* [Nextjs Starter Peacock](https://github.com/vickOnRails/next-starter-peacock) - 🦚 Beautiful Nextjs portfolio starter for software engineers and designers to show work they're so proud of.
 
 
 ## Extensions
