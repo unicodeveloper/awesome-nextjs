@@ -31,6 +31,7 @@
 * [Blog](https://nextjs.org/blog)
 * [Learn](https://nextjs.org/learn)
 * [Vercel TV](https://vercel.com/tv)
+* [Bulletproof Next](https://getstarted.sh/bulletproof-next)
 
 ## Articles
  * [How to Build a Serverless Next.js Blog with ButterCMS](https://buttercms.com/blog/next-js-cms-tutorial)
