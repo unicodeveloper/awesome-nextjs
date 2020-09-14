@@ -60,6 +60,7 @@
  * [Next.js E-commerce Tutorial: Quick Shopping Cart Integration](https://snipcart.com/blog/next-js-ecommerce-tutorial)
  * [Working with Ghost and Next.js](https://ghost.org/docs/api/nextjs/)
  * [Using Tailwind CSS with Next.js](https://statickit.com/guides/next-js-tailwind)
+ * [Programmatically create forms, and capture submissions with Next.js and GraphQL](https://dev.to/graphcms/programmatically-create-forms-and-capture-submissions-with-next-js-and-graphql-3pn5)
 
 ## Boilerplates
 
