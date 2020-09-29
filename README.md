@@ -197,8 +197,8 @@
 
 ## Newsletters
 
-* [Next.js News](https://nextjsnews.com) - Bi-weekly Next.js news Next.js with everything you need to keep yourself updated on the Next.js ecosystem
-* [Next.js Notes](https://nextjsnotes.com) - Monthly Next.js and JavaScript platform news
+* [Next.js News](https://nextjsnews.com) - Monthly Next.js newsletter showcasing new and upcoming features, best articles, tools, and plugins.
+* [Next.js Notes](https://nextjsnotes.com) - Monthly Next.js and JavaScript platform news.
 
 ## Contributing
 Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
