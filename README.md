@@ -197,6 +197,7 @@
 * [Next.js Register User](https://www.youtube.com/watch?v=oQ60Grn4RYQ)
 * [Next.js Crash Course - Server Side React](https://www.youtube.com/watch?v=IkOVe40Sy0U)
 * [Mastering Next.js](https://masteringnextjs.com/) - 50+ lesson video course for building applications with Next.js and React.
+* [Next.js Tutorial](https://www.youtube.com/watch?v=7J4iL1HDshQ&list=PLYSZyzpwBEWSQsrukurP09ksi49H9Yj40) - In depth Next.js tutorials.
 
 ## Newsletters
 
