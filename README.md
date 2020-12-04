@@ -61,6 +61,7 @@
  * [Working with Ghost and Next.js](https://ghost.org/docs/api/nextjs/)
  * [Using Tailwind CSS with Next.js](https://statickit.com/guides/next-js-tailwind)
  * [Using Feature Flags in Next.js](https://medium.com/frontend-digest/using-feature-flags-in-next-js-c5c8d0795a2?source=friends_link&sk=d846a29f376acf9cfa41e926883923ab)
+ * [Learning Jamstack](https://learning-jamstack.now.sh)
  
 
 ## Boilerplates
