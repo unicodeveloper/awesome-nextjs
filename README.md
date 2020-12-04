@@ -107,6 +107,7 @@
 * [Nextjs Apollo Nexus](https://github.com/inblack67/GraphQL-Next-Setup) - GraphQL Apollo Client-Server integration in Next.js with Nexus Schema (Code first approach).
 * [Nextjs Starter Peacock](https://github.com/vickOnRails/next-starter-peacock) - 🦚 Beautiful Nextjs portfolio starter for software engineers and designers to show work they're so proud of.
 * [Nextatic](https://github.com/tancredi/nextatic) - 🌍 Static website multi-language boilerplate with user-editable pages and navigation using Netlify CMS + Next.js + SCSS + Typescript.
+* [Jamify Blog Starter](https://github.com/styxlab/next-cms-ghost) - Publish flaring fast blogs with Next.js and Ghost Headless CMS.
 
 
 ## Extensions
