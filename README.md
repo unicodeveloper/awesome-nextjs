@@ -1,10 +1,10 @@
 # Awesome Next.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)
 
-[<img src="http://res.cloudinary.com/unicodeveloper/image/upload/v1524776764/next-jslogo.svg" align="right" width="250">](https://github.com/zeit/next.js)
+[<img src="http://res.cloudinary.com/unicodeveloper/image/upload/v1524776764/next-jslogo.svg" align="right" width="250">](https://github.com/vercel/next.js)
 
 > Curated list of resources: books, videos, articles about using Next.js.
 
-[Next.js](https://github.com/zeit/next.js): The React Framework.
+[Next.js](https://github.com/vercel/next.js): The React Framework.
 
 *List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-tdd](https://github.com/unicodeveloper/awesome-tdd).*
 
@@ -24,8 +24,8 @@
   - [License](#license)
 
 ## Community
-* [GitHub](https://github.com/zeit/next.js)
-* [GitHub discussions for Next.js](https://github.com/zeit/next.js/discussions)
+* [GitHub](https://github.com/vercel/next.js)
+* [GitHub discussions for Next.js](https://github.com/vercel/next.js/discussions)
 
 ## Essentials
 * [Blog](https://nextjs.org/blog)
@@ -46,7 +46,7 @@
  * [Using Google Analytics with Next.js](https://malloc.fi/using-google-analytics-with-next-js)
  * [Build a Universal JavaScript App with Next.js and Redux _[Russian]_](https://habrahabr.ru/post/323588/)
  * [5 (of the Many Reasons) to love Vercel's Next.js](https://www.codementor.io/tgreco/5-of-the-many-things-to-love-about-zeit-s-next-js-bpszu99g1)
- * [Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones](https://zeit.co/blog/next5)
+ * [Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones](https://nextjs.org/blog/next-5)
  * [Realtime data visualization using Next.js and Chart.js](https://pusher.com/tutorials/realtime-data-visualization-nextjs)
  * [Build a chat app with sentiment analysis using Next.js](https://pusher.com/tutorials/chat-sentiment-analysis-nextjs)
  * [Build a realtime table with Next.js](https://pusher.com/tutorials/realtime-tables-nextjs)
@@ -112,8 +112,7 @@
 ## Extensions
 * [Next universal language detector](https://github.com/UnlyEd/universal-language-detector) - Language detector that works universally (browser + server) - Meant to be used with a universal framework, such as Next.js [DEMO](https://universal-language-detector.now.sh/)
 * [Next Routes](https://github.com/fridays/next-routes) - Universal named routes for Next.js.
-* [Next-Pkg](https://github.com/onready/next-pkg) - Extended Next.js server with [pkg](https://github.com/zeit/pkg) support.
-* [Next Plugins](https://github.com/zeit/next-plugins) - A curated list of plugins for Webpack and Next.js
+* [Next-Pkg](https://github.com/onready/next-pkg) - Extended Next.js server with [pkg](https://github.com/vercel/pkg) support.
 * [Next Plugin Graphql](https://github.com/lfades/next-plugin-graphql) - Next.js plugin for .graphql and .gql files using graphql-tag
 * [Next With Apollo](https://github.com/lfades/next-with-apollo) - Apollo Graphql integration for Next.js
 * [Next SEO](https://github.com/garmeeh/next-seo) - SEO made easy for Next.js
