@@ -108,6 +108,7 @@
 * [Nextjs Apollo Nexus](https://github.com/inblack67/GraphQL-Next-Setup) - GraphQL Apollo Client-Server integration in Next.js with Nexus Schema (Code first approach).
 * [Nextjs Starter Peacock](https://github.com/vickOnRails/next-starter-peacock) - 🦚 Beautiful Nextjs portfolio starter for software engineers and designers to show work they're so proud of.
 * [Nextatic](https://github.com/tancredi/nextatic) - 🌍 Static website multi-language boilerplate with user-editable pages and navigation using Netlify CMS + Next.js + SCSS + Typescript.
+* [Sitemap generator for NextJS & StrAPI](https://github.com/stovv/next-strapi-sitemap) - 🦾 An additional server on express that runs alongside nextjs and regenerates sitemap ( with index sitemap ) and robots.txt files on request from STR API.
 
 
 ## Extensions
