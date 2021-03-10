@@ -142,6 +142,7 @@
 * [Feednext](https://github.com/feednext/feednext) - An open source social media application.
 * [NextJS GOT](https://github.com/auth0-blog/nextjs-got) - Simple Next.js application that showcases Game of Thrones Characters.
 * [Relate](https://github.com/RelateNow/relate) - Mindfulness community - React, GraphQL, Next.js.
+* [Roadmap Voting App](https://github.com/upstash/serverless-tutorials/tree/master/roadmap-voting-app) - Roadmap Voting App - Next.js, Redis.
 * [Next News](https://github.com/now-examples/next-news) - HackerNews written in Next.js.
 * [Password](https://github.com/dotcypress/password) - One password, right way.
 * [Next Todos](https://github.com/lipp/next-todos) - Todo list written in Next.js.
