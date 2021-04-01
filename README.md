@@ -132,6 +132,7 @@
 * [Next PWA](https://github.com/shadowwalker/next-pwa) - Zero config PWA plugin for Next.js with workbox
 * [flow-middleware](https://github.com/piglovesyou/flow-middleware) - Run any of Express middlewares on Next.js without polluting native objects.
 * [next-connect](https://github.com/hoangvvo/next-connect) - The Express/Connect-compatible router and middleware layer for Next.js.
+* [pouchdb-nextjs-router](https://github.com/jpbourgeon/pouchdb-nextjs-router) - A next.js API submodule with a CouchDB style REST interface to PouchDB.
 * [next-img](https://github.com/humaans/next-img/) - a plugin for embedding optimized images with ease.
 * [next-auth](https://github.com/iaincollins/next-auth) - Easy authentication for Next.js and Serverless
 * [next-deploy](https://github.com/lone-cloud/next-deploy) - 🚀 Effortless deployment to AWS and GitHub Pages.
