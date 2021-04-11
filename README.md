@@ -173,6 +173,7 @@
 * [caseconverter.pro](https://caseconverter.pro) - A text case converter.
 * [Tottem](https://github.com/poulainv/tottem) - Bookmark manager on steroid built with NextJs / Auth0 / Apollo Tools / Prisma2
 * [Slow TV Map](https://slowtvmap.com) - A fun way to discover relaxing virtual experiences. Next.js + Chakra UI + MySQL hosted on Vercel.
+* [HASH](https://hash.ai) - A GitHub-like marketplace of simulations and data, built atop Next.js + Typescript.
 
 ## Books
 * [Hands On Next.js](https://www.honext.io/) - A practical fullstack book on universal (server) rendering for react applications.
