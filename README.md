@@ -66,6 +66,7 @@
 
 ## Boilerplates
 
+* [The Ultimate Next.js Boilerplate](https://github.com/Nases/the-ultimate-nextjs-boilerplate) - The ultimate boilerplate with authetication, protected routes and more 🚀.
 * [Next.js Static Blog](https://www.cosmicjs.com/apps/nextjs-static-blog) - Next.js static blog powered by the Cosmic Headless CMS
 * [NextJS Headless CMS Powered Blog Starter](https://github.com/ButterCMS/react-cms-blog-with-next-js)
 * [Next.js App with AWS Lambda](https://github.com/mattdamon108/nextjs-with-lambda) - Deploy a Next.js App to AWS Lambda using Apex Up.
