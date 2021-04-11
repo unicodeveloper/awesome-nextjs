@@ -112,6 +112,7 @@
 * [superplate](https://github.com/pankod/superplate) - superplate creates Next.js app in seconds with TypeScript, styled-components, SWR, Storybook, and 35+ plugin.
 
 ## Extensions
+* [Dokz](https://github.com/remorses/dokz) - Documentation site generator built with Nextjs and MDX.
 * [Next universal language detector](https://github.com/UnlyEd/universal-language-detector) - Language detector that works universally (browser + server) - Meant to be used with a universal framework, such as Next.js [DEMO](https://universal-language-detector.now.sh/)
 * [Next Routes](https://github.com/fridays/next-routes) - Universal named routes for Next.js.
 * [Next-Pkg](https://github.com/onready/next-pkg) - Extended Next.js server with [pkg](https://github.com/vercel/pkg) support.
