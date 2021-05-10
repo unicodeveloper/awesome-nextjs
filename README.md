@@ -110,6 +110,7 @@
 * [Nextatic](https://github.com/tancredi/nextatic) - 🌍 Static website multi-language boilerplate with user-editable pages and navigation using Netlify CMS + Next.js + SCSS + Typescript.
 * [Sitemap generator for NextJS & StrAPI](https://github.com/stovv/next-strapi-sitemap) - 🦾 An additional server on express that runs alongside nextjs and regenerates sitemap ( with index sitemap ) and robots.txt files on request from STR API.
 * [superplate](https://github.com/pankod/superplate) - superplate creates Next.js app in seconds with TypeScript, styled-components, SWR, Storybook, and 35+ plugin.
+* [SaaS Boilerplate](https://github.com/async-labs/saas) - open source boilerplate to build your own SaaS product; built with TypeScript, Next, React, Express, Material-UI.
 
 ## Extensions
 * [Next universal language detector](https://github.com/UnlyEd/universal-language-detector) - Language detector that works universally (browser + server) - Meant to be used with a universal framework, such as Next.js [DEMO](https://universal-language-detector.now.sh/)
@@ -178,6 +179,7 @@
 * [Hands On Next.js](https://www.honext.io/) - A practical fullstack book on universal (server) rendering for react applications.
 * [Next.js Quick Start Guide](https://www.packtpub.com/web-development/nextjs-quick-start-guide) - Create, build and deploy universal JavaScript applications using Next.js
 * [The Next.js Handbook](https://flaviocopes.com/page/nextjs-handbook/) - Build a frontend React application that transparently handles server-side rendering for you.
+* [Builder Book](https://builderbook.org) - Books that teach you how to build full stack, production-ready web apps from scratch.
 
 ## Videos
 
