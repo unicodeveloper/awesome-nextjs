@@ -133,6 +133,7 @@
 * [flow-middleware](https://github.com/piglovesyou/flow-middleware) - Run any of Express middlewares on Next.js without polluting native objects.
 * [next-connect](https://github.com/hoangvvo/next-connect) - The Express/Connect-compatible router and middleware layer for Next.js.
 * [next-img](https://github.com/humaans/next-img/) - a plugin for embedding optimized images with ease.
+* [next-remove-imports](https://github.com/uiwjs/next-remove-imports) - The default behavior is to remove all .less/.css/.scss/.sass/.styl imports from all packages in node_modules.
 * [next-auth](https://github.com/iaincollins/next-auth) - Easy authentication for Next.js and Serverless
 * [next-deploy](https://github.com/lone-cloud/next-deploy) - 🚀 Effortless deployment to AWS and GitHub Pages.
 * [next-joi](https://github.com/codecoolture/next-joi) - Validate Next.js API Routes, with _joi_.
