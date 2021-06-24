@@ -66,6 +66,7 @@
 
 ## Boilerplates
 
+* [Next.js Progessive Web App](https://github.com/msaaddev/create-next-pwa) - A zero-configuration **cross-platform** Node.js based CLI tool that creates **Progressive Web App (PWA)** with Next.js using a single command, i.e., `npx create-next-pwa`. You can also integrate Tailwind CSS with your Next.js PWA if you want.
 * [Next.js Static Blog](https://www.cosmicjs.com/apps/nextjs-static-blog) - Next.js static blog powered by the Cosmic Headless CMS
 * [NextJS Headless CMS Powered Blog Starter](https://github.com/ButterCMS/react-cms-blog-with-next-js)
 * [Next.js App with AWS Lambda](https://github.com/mattdamon108/nextjs-with-lambda) - Deploy a Next.js App to AWS Lambda using Apex Up.
