@@ -137,6 +137,7 @@
 * [next-deploy](https://github.com/lone-cloud/next-deploy) - 🚀 Effortless deployment to AWS and GitHub Pages.
 * [next-joi](https://github.com/codecoolture/next-joi) - Validate Next.js API Routes, with _joi_.
 * [next-transpile-modules](https://github.com/martpie/next-transpile-modules) - Next.js plugin to transpile code from node_modules. Useful for monorepos.
+* [nextjs-progressbar](https://github.com/apal21/nextjs-progressbar) - A simple Next.js progressbar component using NProgress.
 
 ## Apps
 * [CourseLit](https://github.com/codelit/courselit) - An open source alternative to Thinkific, Teachable etc.
@@ -173,6 +174,7 @@
 * [caseconverter.pro](https://caseconverter.pro) - A text case converter.
 * [Tottem](https://github.com/poulainv/tottem) - Bookmark manager on steroid built with NextJs / Auth0 / Apollo Tools / Prisma2
 * [Slow TV Map](https://slowtvmap.com) - A fun way to discover relaxing virtual experiences. Next.js + Chakra UI + MySQL hosted on Vercel.
+* [Easy Pastes](https://easypastes.tk) - Easiest way to create and share code pastes.
 
 ## Books
 * [Hands On Next.js](https://www.honext.io/) - A practical fullstack book on universal (server) rendering for react applications.
