@@ -34,6 +34,7 @@
 * [Bulletproof Next](https://getstarted.sh/bulletproof-next)
 
 ## Articles
+ * [How to setup Sanity CMS with Next.js & TailwindCSS](https://blog.surjithctly.in/how-to-setup-sanity-cms-with-nextjs-and-tailwindcss)
  * [Using Next.js with FaunaDB: How to Query the Database from Your App](https://snipcart.com/blog/nextjs-faunadb)
  * [How to Build a Serverless Next.js Blog with ButterCMS](https://buttercms.com/blog/next-js-cms-tutorial)
  * [Build a Universal JavaScript App with Next.js](https://auth0.com/blog/building-universal-apps-with-nextjs)
