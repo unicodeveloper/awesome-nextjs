@@ -137,6 +137,7 @@
 * [next-deploy](https://github.com/lone-cloud/next-deploy) - 🚀 Effortless deployment to AWS and GitHub Pages.
 * [next-joi](https://github.com/codecoolture/next-joi) - Validate Next.js API Routes, with _joi_.
 * [next-transpile-modules](https://github.com/martpie/next-transpile-modules) - Next.js plugin to transpile code from node_modules. Useful for monorepos.
+* [Destack for Next.js](https://github.com/liveduo/destack) - Next.js extension to visually build landing pages locally.
 
 ## Apps
 * [CourseLit](https://github.com/codelit/courselit) - An open source alternative to Thinkific, Teachable etc.
