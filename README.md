@@ -199,6 +199,8 @@
 * [Mastering Next.js](https://masteringnextjs.com/) - 50+ lesson video course for building applications with Next.js and React.
 * [Next.js Tutorial](https://www.youtube.com/watch?v=7J4iL1HDshQ&list=PLYSZyzpwBEWSQsrukurP09ksi49H9Yj40) - In depth Next.js tutorials.
 * [Next.js Conf 2020](https://www.youtube.com/playlist?list=PLBnKlKpPeagnT2Cmv4giCbosfrbKnuYTD) - All the videos from the 2020 Next.js conference
+* [Next.js Conf 2021](https://youtube.com/playlist?list=PLBnKlKpPeagnJYpc5geAHU40ld5hk8i82) - All the videos from the 2021 Next.js conference
+
 
 ## Newsletters
 
