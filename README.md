@@ -110,6 +110,7 @@
 * [Nextatic](https://github.com/tancredi/nextatic) - 🌍 Static website multi-language boilerplate with user-editable pages and navigation using Netlify CMS + Next.js + SCSS + Typescript.
 * [Sitemap generator for NextJS & StrAPI](https://github.com/stovv/next-strapi-sitemap) - 🦾 An additional server on express that runs alongside nextjs and regenerates sitemap ( with index sitemap ) and robots.txt files on request from STR API.
 * [superplate](https://github.com/pankod/superplate) - superplate creates Next.js app in seconds with TypeScript, styled-components, SWR, Storybook, and 35+ plugin.
+* [NextJS for Drupal](https://github.com/chapter-three/next-drupal) - Everything you need to build a next-generation front-end for your Drupal site: SSG, SSR, and ISR, Multi-site, Authentication, Webforms, Search API, I18n and Preview mode (works with JSON:API and GraphQL).
 
 ## Extensions
 * [Next universal language detector](https://github.com/UnlyEd/universal-language-detector) - Language detector that works universally (browser + server) - Meant to be used with a universal framework, such as Next.js [DEMO](https://universal-language-detector.now.sh/)
