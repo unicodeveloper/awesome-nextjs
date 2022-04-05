@@ -166,6 +166,7 @@
 * [Elton John's website](https://www.eltonjohn.com) - Elton John's Website
 * [IOTA's Data Market Place](https://data.iota.org/) - IOTA Market Place
 * [magicleap.com](https://www.magicleap.com/) - Magic Leap
+* [June.so](https://www.june.so) - June analytics
 * [NPM.js Search Page](https://www.npmjs.com/search) - NPM's Search Page
 * [Docker Success Center](https://success.docker.com) - Docker Success Center
 * [Urteile & Gesetze](https://github.com/neo-search/urteile-gesetze-web) - German Legal Information System licensed under GPLv3.
