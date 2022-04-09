@@ -1,0 +1,2 @@
+# do not run Prettier against md files
+*.md
