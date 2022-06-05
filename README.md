@@ -120,6 +120,7 @@
 * [Next SEO](https://github.com/garmeeh/next-seo) - SEO made easy for Next.js
 * [Next UserAgent](https://github.com/tokuda109/next-useragent) - UserAgent parser for Next.js
 * [Next Cookie](https://github.com/tokuda109/next-cookie) - Cookie serializer and deserializer library for Next.js.
+* [next-api-middleware](https://github.com/htunnicliff/next-api-middleware) - Koa-style middleware for Next.js API routes.
 * [Nextein](https://github.com/elmasse/nextein) - A static site generator based in Next.js.
 * [next-mdx-blog](https://github.com/hipstersmoothie/next-mdx-blog) - Easily add a blog to any next.js based project
 * [next-i18next](https://github.com/isaachinman/next-i18next) - The easiest way to translate your NextJs apps.
