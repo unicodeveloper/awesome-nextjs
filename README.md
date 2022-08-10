@@ -32,6 +32,7 @@
 * [Learn](https://nextjs.org/learn)
 * [Vercel TV](https://vercel.com/tv)
 * [Bulletproof Next](https://getstarted.sh/bulletproof-next)
+* [Explore Next JS Libraries](https://kandi.openweaver.com/search/libraries?q=next+js) - A search engine 🔎 tool to discover & find a curated list of popular & new Next JS libraries, code snippets, trending project kits.
 
 ## Articles
  * [Using Next.js with FaunaDB: How to Query the Database from Your App](https://snipcart.com/blog/nextjs-faunadb)
