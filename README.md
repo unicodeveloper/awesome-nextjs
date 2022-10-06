@@ -62,6 +62,7 @@
  * [Using Tailwind CSS with Next.js](https://statickit.com/guides/next-js-tailwind)
  * [Using Feature Flags in Next.js](https://medium.com/frontend-digest/using-feature-flags-in-next-js-c5c8d0795a2?source=friends_link&sk=d846a29f376acf9cfa41e926883923ab)
  * [Adding code snippets to Next.js using react-syntax-highlighter](https://thetombomb.com/posts/adding-code-snippets-to-static-markdown-in-Next%20js)
+ * [Next.js Tutorial for Beginners](https://learnnextjs.com/next-js-tutorial-getting-started/)
  
 
 ## Boilerplates
