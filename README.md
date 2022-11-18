@@ -118,6 +118,7 @@
 * [Next Plugin Graphql](https://github.com/lfades/next-plugin-graphql) - Next.js plugin for .graphql and .gql files using graphql-tag
 * [Next With Apollo](https://github.com/lfades/next-with-apollo) - Apollo Graphql integration for Next.js
 * [Next SEO](https://github.com/garmeeh/next-seo) - SEO made easy for Next.js
+* [Next-Sitemap](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for Next.js
 * [Next UserAgent](https://github.com/tokuda109/next-useragent) - UserAgent parser for Next.js
 * [Next Cookie](https://github.com/tokuda109/next-cookie) - Cookie serializer and deserializer library for Next.js.
 * [Nextein](https://github.com/elmasse/nextein) - A static site generator based in Next.js.
