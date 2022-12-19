@@ -34,6 +34,9 @@
 * [Bulletproof Next](https://getstarted.sh/bulletproof-next)
 
 ## Articles
+ * [Instant Site Updates with On-Demand Revalidation and Directus](https://echobind.com/post/instant-site-updates-with-on-demand-revalidation-and-directus)
+ * [Dynamic CMS-driven Redirects with Next.js](https://echobind.com/post/dynamic-cms-driven-redirects)
+ * [Getting Started with Next.js, GraphQL and React Query](https://echobind.com/post/getting-started-with-nextjs-graphl-and-react-query)
  * [Using Next.js with FaunaDB: How to Query the Database from Your App](https://snipcart.com/blog/nextjs-faunadb)
  * [How to Build a Serverless Next.js Blog with ButterCMS](https://buttercms.com/blog/next-js-cms-tutorial)
  * [Build a Universal JavaScript App with Next.js](https://auth0.com/blog/building-universal-apps-with-nextjs)
