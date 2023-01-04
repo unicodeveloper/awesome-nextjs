@@ -66,6 +66,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Using Tailwind CSS with Next.js](https://statickit.com/guides/next-js-tailwind)
 - [Using Feature Flags in Next.js](https://medium.com/frontend-digest/using-feature-flags-in-next-js-c5c8d0795a2?source=friends_link&sk=d846a29f376acf9cfa41e926883923ab)
 - [Adding code snippets to Next.js using react-syntax-highlighter](https://thetombomb.com/posts/adding-code-snippets-to-static-markdown-in-Next%20js)
+- [Build company's Website/App with our astonishing Next.js template](https://www.wrappixel.com/templates/category/nextjs-templates/)
 
 ## Boilerplates
 
@@ -183,6 +184,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Slow TV Map](https://slowtvmap.com) - A fun way to discover relaxing virtual experiences. Next.js + Chakra UI + MySQL hosted on Vercel.
 
 ## Books
+
 
 - [Hands On Next.js](https://leanpub.com/hands-on-nextjs) - A practical fullstack book on universal (server) rendering for react applications.
 - [Next.js Quick Start Guide](https://www.packtpub.com/web-development/nextjs-quick-start-guide) - Create, build and deploy universal JavaScript applications using Next.js
