@@ -70,6 +70,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 
 ## Boilerplates
 
+- [Kaminari Template](https://kaminari.vercel.app/) - Power packed Next.js and Tailwind CSS template. Built with developer experience in mind. Contains Husky, CommitLint, Pretter, Eslint etc. configs. ✨
 - [Next.js Static Blog](https://www.cosmicjs.com/apps/nextjs-static-blog) - Next.js static blog powered by the Cosmic Headless CMS
 - [NextJS Headless CMS Powered Blog Starter](https://github.com/ButterCMS/react-cms-blog-with-next-js)
 - [Next.js App with AWS Lambda](https://github.com/mattdamon108/nextjs-with-lambda) - Deploy a Next.js App to AWS Lambda using Apex Up.
@@ -123,6 +124,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Next Plugin Graphql](https://github.com/lfades/next-plugin-graphql) - Next.js plugin for .graphql and .gql files using graphql-tag
 - [Next With Apollo](https://github.com/lfades/next-with-apollo) - Apollo Graphql integration for Next.js
 - [Next SEO](https://github.com/garmeeh/next-seo) - SEO made easy for Next.js
+- [Next-Sitemap](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for Next.js
 - [Next UserAgent](https://github.com/tokuda109/next-useragent) - UserAgent parser for Next.js
 - [Next Cookie](https://github.com/tokuda109/next-cookie) - Cookie serializer and deserializer library for Next.js.
 - [Nextein](https://github.com/elmasse/nextein) - A static site generator based in Next.js.
@@ -183,9 +185,11 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 
 ## Books
 
-- [Hands On Next.js](https://www.honext.io/) - A practical fullstack book on universal (server) rendering for react applications.
+
+- [Hands On Next.js](https://leanpub.com/hands-on-nextjs) - A practical fullstack book on universal (server) rendering for react applications.
 - [Next.js Quick Start Guide](https://www.packtpub.com/web-development/nextjs-quick-start-guide) - Create, build and deploy universal JavaScript applications using Next.js
 - [The Next.js Handbook](https://flaviocopes.com/page/nextjs-handbook/) - Build a frontend React application that transparently handles server-side rendering for you.
+- [Serverless Web Applications with React and Next.js](https://www.amazon.com/dp/B0BHRPMF74) - Use Next.js serverless features to access databases and authenticate users in your React applications
 
 ## Videos
 
