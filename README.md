@@ -152,6 +152,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [next-joi](https://github.com/codecoolture/next-joi) - Validate Next.js API Routes, with _joi_.
 - [next-transpile-modules](https://github.com/martpie/next-transpile-modules) - Next.js plugin to transpile code from node_modules. Useful for monorepos.
 - [Destack for Next.js](https://github.com/liveduo/destack) - Next.js extension to visually build landing pages locally.
+- [UseSIWE](https://github.com/random-bits-studio/use-siwe) - React hooks and Next.js API routes that make it super easy to add Sign-In with Ethereum to your app.
 
 ## Apps
 
