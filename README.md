@@ -190,7 +190,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [caseconverter.pro](https://caseconverter.pro) - A text case converter.
 - [Tottem](https://github.com/poulainv/tottem) - Bookmark manager on steroid built with NextJs / Auth0 / Apollo Tools / Prisma2
 - [Slow TV Map](https://slowtvmap.com) - A fun way to discover relaxing virtual experiences. Next.js + Chakra UI + MySQL hosted on Vercel.
-
+- [Twitter Clone](https://github.com/AlandSleman/t3-twitter-clone) - Twitter clone built with Next.js + T3 Stack + NextAuth + Supabase + Prisma.
 ## Books
 
 - [Hands On Next.js](https://leanpub.com/hands-on-nextjs) - A practical fullstack book on universal (server) rendering for react applications.
