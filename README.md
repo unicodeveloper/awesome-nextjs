@@ -72,6 +72,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Build company's Website/App with our astonishing Next.js template](https://www.wrappixel.com/templates/category/nextjs-templates/)
 - [Guaranteeing webhook delivery in NextJS Application](https://www.bharathvaj.me/blog/implement-webhook-nextjs)
 - [Building a Guestbook Using Next.js On-Demand ISR](https://www.svix.com/blog/vercel-on-demand-isr-and-svix/)
+- [Integrate Next app with Tailwind](https://tailwind-elements.com/docs/standard/integrations/next-integration/)
 
 ## Boilerplates
 
