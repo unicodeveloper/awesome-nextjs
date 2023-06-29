@@ -225,6 +225,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 * [Next.js Tutorial](https://www.youtube.com/watch?v=7J4iL1HDshQ&list=PLYSZyzpwBEWSQsrukurP09ksi49H9Yj40) - In depth Next.js tutorials.
 * [Next.js Conf 2020](https://www.youtube.com/playlist?list=PLBnKlKpPeagnT2Cmv4giCbosfrbKnuYTD) - All the videos from the 2020 Next.js conference
 * [Full-stack food ordering app with Hasura, Next.js, and Vercel](https://www.youtube.com/playlist?list=PLTRTpHrUcSB8elpwJKDIQNfNlqpPTNHGG)
+* [How to use Credentials Authentication in Next.js with NextAuth?](https://youtu.be/fqXC2V-MSV4)
 
 
 ## Projects(Beginner level)
