@@ -159,6 +159,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Destack for Next.js](https://github.com/liveduo/destack) - Next.js extension to visually build landing pages locally.
 - [UseSIWE](https://github.com/random-bits-studio/use-siwe) - React hooks and Next.js API routes that make it super easy to add Sign-In with Ethereum to your app.
 - [Runtime Environment Variables for Next.js](https://www.npmjs.com/package/@cuww/runtime-env) – Stop configuring ENV variables in CI/CD, use a cloud-native approach.
+- [next-google-tag-manager](https://github.com/XD2Sketch/next-google-tag-manager) – Easily add Google Tag Manager to Next 13 and up.
 
 ## Apps
 
