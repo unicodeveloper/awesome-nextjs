@@ -196,6 +196,8 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Tottem](https://github.com/poulainv/tottem) - Bookmark manager on steroid built with NextJs / Auth0 / Apollo Tools / Prisma2
 - [Slow TV Map](https://slowtvmap.com) - A fun way to discover relaxing virtual experiences. Next.js + Chakra UI + MySQL hosted on Vercel.
 - [Twitter Clone](https://github.com/AlandSleman/t3-twitter-clone) - Twitter clone built with Next.js + T3 Stack + NextAuth + Supabase + Prisma.
+- [Taxonomy](https://github.com/shadcn/taxonomy) - An example app built using Next.js 13 server components.
+- [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components that you can copy and paste into your apps.
 
 ## Books
 
