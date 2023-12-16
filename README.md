@@ -167,6 +167,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 
 - [CourseLit](https://github.com/codelit/courselit) - An open source alternative to Thinkific, Teachable etc.
 - [Feednext](https://github.com/feednext/feednext) - An open source social media application.
+- [Formbricks](https://github.com/formbricks/formbricks) - An open source survey platform (experience management).
 - [NextJS GOT](https://github.com/auth0-blog/nextjs-got) - Simple Next.js application that showcases Game of Thrones Characters.
 - [Relate](https://github.com/RelateNow/relate) - Mindfulness community - React, GraphQL, Next.js.
 - [Password](https://github.com/dotcypress/password) - One password, right way.
