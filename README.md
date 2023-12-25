@@ -127,6 +127,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Next-Fire-Auth](https://github.com/hrushikedar33/next-fire-auth) - A awesome boilerplate for startup application with authentication using Next.js + Typescript + Tailwind CSS + Firebase-auth + React-Firebase-Hooks
 - [NextJS Chargebee Subscription](https://github.com/bharathvaj-ganesan/chargebee-saas-stack) - A Chargebee focused T3 Stack that integrates User Subscriptions, Authentication and Testing. Driven by Prisma ORM.
 - [Next.js Enterprise](https://github.com/Blazity/next-enterprise) - enterprise-grade boilerplate for high-performance, maintainable apps. Built with Tailwind CSS, RadixUI, TypeScript and more.
+- [nextjs-rtk-mui](https://github.com/curlyzik/nextjs-mui-rtk) - A production ready Next.js boilerplate with Next.js v14, Typescript, Redux Toolkit, Material UI and TailwindCSS.
 
 ## Extensions
 
