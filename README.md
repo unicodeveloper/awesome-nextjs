@@ -178,7 +178,6 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Rauchg Blog](https://github.com/rauchg/blog) - Blog built by a Next.js core maintainer.
 - [Next JPH](https://github.com/renatorib/next-jph) - JsonPlaceholder sample app made with Next.js.
 - [Mailto](https://github.com/dawsbot/mailto) - HTML mailto's made easy.
-- [Plate](https://github.com/knipferrc/plate) - The task management app to rule them all.
 - [Dashboard](https://github.com/danielbayerlein/dashboard) - Create your own team dashboard with custom widgets.
 - [Snape](https://github.com/ritz078/snape) - A torrent client to search, stream and download torrents.
 - [Trello Resume](https://github.com/juliandavidmr/TrelloResume) - Converts trello data into fast read information.
