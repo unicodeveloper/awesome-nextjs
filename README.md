@@ -162,7 +162,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Runtime Environment Variables for Next.js](https://www.npmjs.com/package/@cuww/runtime-env) – Stop configuring ENV variables in CI/CD, use a cloud-native approach.
 - [next-google-tag-manager](https://github.com/XD2Sketch/next-google-tag-manager) – Easily add Google Tag Manager to Next 13 and up.
 - [next-api-decorators](https://github.com/storyofams/next-api-decorators) - Decorators to create typed Next.js API routes, with easy request validation and transformation.
-
+- [Tempeh](https://github.com/harshtalks/tempeh) - Declarative routing for Next.js app dir with zod schema validation, providing end to end type safety in the url params.
 
 ## Apps
 
