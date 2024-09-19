@@ -75,6 +75,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Building a Guestbook Using Next.js On-Demand ISR](https://www.svix.com/blog/vercel-on-demand-isr-and-svix/)
 - [Useful Admin Templates to build your Website/App](https://adminmart.com/templates/nextjs/?ref=6)
 - [Integrate Next app with Tailwind](https://tailwind-elements.com/docs/standard/integrations/next-integration/)
+- [Next.js 15. What's New, What Changed, Breaking Changes](https://ordergroup.co/resources/article-business-and-technical/next-js-15-what-is-new/)
 
 ## Boilerplates
 
