@@ -163,6 +163,9 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [next-google-tag-manager](https://github.com/XD2Sketch/next-google-tag-manager) – Easily add Google Tag Manager to Next 13 and up.
 - [next-api-decorators](https://github.com/storyofams/next-api-decorators) - Decorators to create typed Next.js API routes, with easy request validation and transformation.
 
+## CSS
+
+- [StayedCSS](https://github.com/vectordxy/stayedcss) - A CSS library for the Next.js App Router that supports server/client components, media queries, dark mode, and advanced styling features.
 
 ## Apps
 
@@ -215,26 +218,25 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 
 ## Videos
 
-* [Create your first ReactJS application with NextJS _[Spanish]_](https://www.youtube.com/watch?v=-7Ft5LxPeWs)
-* [React Server Side Rendering with NextJS](https://www.youtube.com/watch?v=JEBkh_vleTs&t)
-* [Guillermo Rauch - Next.js by Example](https://www.youtube.com/watch?v=DLGJfa3Xv-0)
-* [Guillermo Rauch - Next.js: Universal React Made Easy and Simple](https://www.youtube.com/watch?v=evaMpdSiZKk)
-* [Introduction to Next.js](https://www.youtube.com/watch?v=Fnw3lNeH-XI)
-* [Next.js in production](https://www.youtube.com/watch?v=h6rETZH6Ym0)
-* [Parameterized Routing with Next.js](https://www.youtube.com/watch?v=2cJya4h5ync)
-* [JSHeroes 2017 | Guillermo Rauch - Static and Dynamic Next.js](https://www.youtube.com/watch?v=lLNJsuXB4CI)
-* [Programming the Universal Future with Next.js - Guillermo Rauch · JSConf China 2017](https://www.youtube.com/watch?v=w9Or7B4kTRY)
-* [BPJS: Special - Introduction to Next.js](https://www.youtube.com/watch?v=4cfozXTyjWQ)
-* [Next for Next.js](https://www.youtube.com/watch?v=ms2aOV06_qk)
-* [Data Management With Next.js and GraphQL](https://www.youtube.com/watch?v=g_LA1quUIi8)
-* [Next.js Register User](https://www.youtube.com/watch?v=oQ60Grn4RYQ)
-* [Next.js Crash Course - Server Side React](https://www.youtube.com/watch?v=IkOVe40Sy0U)
-* [Mastering Next.js](https://masteringnextjs.com/) - 50+ lesson video course for building applications with Next.js and React.
-* [Next.js Tutorial](https://www.youtube.com/watch?v=7J4iL1HDshQ&list=PLYSZyzpwBEWSQsrukurP09ksi49H9Yj40) - In depth Next.js tutorials.
-* [Next.js Conf 2020](https://www.youtube.com/playlist?list=PLBnKlKpPeagnT2Cmv4giCbosfrbKnuYTD) - All the videos from the 2020 Next.js conference
-* [Full-stack food ordering app with Hasura, Next.js, and Vercel](https://www.youtube.com/playlist?list=PLTRTpHrUcSB8elpwJKDIQNfNlqpPTNHGG)
-* [How to use Credentials Authentication in Next.js with NextAuth?](https://youtu.be/fqXC2V-MSV4)
-
+- [Create your first ReactJS application with NextJS _[Spanish]_](https://www.youtube.com/watch?v=-7Ft5LxPeWs)
+- [React Server Side Rendering with NextJS](https://www.youtube.com/watch?v=JEBkh_vleTs&t)
+- [Guillermo Rauch - Next.js by Example](https://www.youtube.com/watch?v=DLGJfa3Xv-0)
+- [Guillermo Rauch - Next.js: Universal React Made Easy and Simple](https://www.youtube.com/watch?v=evaMpdSiZKk)
+- [Introduction to Next.js](https://www.youtube.com/watch?v=Fnw3lNeH-XI)
+- [Next.js in production](https://www.youtube.com/watch?v=h6rETZH6Ym0)
+- [Parameterized Routing with Next.js](https://www.youtube.com/watch?v=2cJya4h5ync)
+- [JSHeroes 2017 | Guillermo Rauch - Static and Dynamic Next.js](https://www.youtube.com/watch?v=lLNJsuXB4CI)
+- [Programming the Universal Future with Next.js - Guillermo Rauch · JSConf China 2017](https://www.youtube.com/watch?v=w9Or7B4kTRY)
+- [BPJS: Special - Introduction to Next.js](https://www.youtube.com/watch?v=4cfozXTyjWQ)
+- [Next for Next.js](https://www.youtube.com/watch?v=ms2aOV06_qk)
+- [Data Management With Next.js and GraphQL](https://www.youtube.com/watch?v=g_LA1quUIi8)
+- [Next.js Register User](https://www.youtube.com/watch?v=oQ60Grn4RYQ)
+- [Next.js Crash Course - Server Side React](https://www.youtube.com/watch?v=IkOVe40Sy0U)
+- [Mastering Next.js](https://masteringnextjs.com/) - 50+ lesson video course for building applications with Next.js and React.
+- [Next.js Tutorial](https://www.youtube.com/watch?v=7J4iL1HDshQ&list=PLYSZyzpwBEWSQsrukurP09ksi49H9Yj40) - In depth Next.js tutorials.
+- [Next.js Conf 2020](https://www.youtube.com/playlist?list=PLBnKlKpPeagnT2Cmv4giCbosfrbKnuYTD) - All the videos from the 2020 Next.js conference
+- [Full-stack food ordering app with Hasura, Next.js, and Vercel](https://www.youtube.com/playlist?list=PLTRTpHrUcSB8elpwJKDIQNfNlqpPTNHGG)
+- [How to use Credentials Authentication in Next.js with NextAuth?](https://youtu.be/fqXC2V-MSV4)
 
 ## Projects(Beginner level)
 
@@ -249,7 +251,6 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Real-Time Messenger Clone: Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher (2023)](https://www.youtube.com/watch?v=PGPGcKBpAk8&t=1922s)
 - [Full Stack Spotify Clone: Next 13.4, React, Stripe, Supabase, PostgreSQL, Tailwind (2023)](https://youtube.com/watch?v=2aeMRB8LL4o&t=4402s)
 - [Full Stack E-Commerce + Dashboard & CMS: Next.js 13 App Router, React, Tailwind, Prisma, MySQL, 2023](https://www.youtube.com/watch?v=5miHyP6lExg&t=1908s)
-
 
 ## Newsletters
 
