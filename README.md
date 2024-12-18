@@ -39,6 +39,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 
 ## Articles
 
+- [How to secure Liveblocks Rooms with Clerk in Next.js](https://clerk.com/blog/secure-liveblocks-rooms-clerk-nextjs)
 - [Instant Site Updates with On-Demand Revalidation and Directus](https://echobind.com/post/instant-site-updates-with-on-demand-revalidation-and-directus)
 - [Dynamic CMS-driven Redirects with Next.js](https://echobind.com/post/dynamic-cms-driven-redirects)
 - [Getting Started with Next.js, GraphQL and React Query](https://echobind.com/post/getting-started-with-nextjs-graphl-and-react-query)
