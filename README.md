@@ -29,6 +29,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 
 - [GitHub](https://github.com/vercel/next.js)
 - [GitHub discussions for Next.js](https://github.com/vercel/next.js/discussions)
+- [Vercel Community](https://vercel.community/)
 
 ## Essentials
 
