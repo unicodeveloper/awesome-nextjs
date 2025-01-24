@@ -78,7 +78,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Integrate Next app with Tailwind](https://tailwind-elements.com/docs/standard/integrations/next-integration/)
 
 ## Boilerplates
-
+- [Rocket Launch Saas](https://www.rocketlaunchsaas.com/) - The Ultimate NextJS Boilerplate for Rapidly Building Your SaaS, Web Apps, and More - Start Generating Revenue at Warp Speed! 🚀
 - [Kaminari Template](https://kaminari.vercel.app/) - Power packed Next.js and Tailwind CSS template. Built with developer experience in mind. Contains Husky, CommitLint, Prettier, Eslint etc. configs. ✨
 - [Next.js Static Blog](https://www.cosmicjs.com/apps/nextjs-static-blog) - Next.js static blog powered by the Cosmic Headless CMS
 - [NextJS Headless CMS Powered Blog Starter](https://github.com/ButterCMS/react-cms-blog-with-next-js)
