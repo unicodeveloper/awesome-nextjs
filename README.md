@@ -29,6 +29,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 
 - [GitHub](https://github.com/vercel/next.js)
 - [GitHub discussions for Next.js](https://github.com/vercel/next.js/discussions)
+- [Vercel Community](https://vercel.community/)
 
 ## Essentials
 
@@ -41,6 +42,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 
 - [Instant Site Updates with On-Demand Revalidation and Directus](https://echobind.com/post/instant-site-updates-with-on-demand-revalidation-and-directus)
 - [Dynamic CMS-driven Redirects with Next.js](https://echobind.com/post/dynamic-cms-driven-redirects)
+- [Implementing RBAC Authorization in Next.js - Step-by-Step Guide](https://www.permit.io/blog/how-to-add-rbac-in-nextjs)
 - [Getting Started with Next.js, GraphQL and React Query](https://echobind.com/post/getting-started-with-nextjs-graphl-and-react-query)
 - [Using Next.js with FaunaDB: How to Query the Database from Your App](https://snipcart.com/blog/nextjs-faunadb)
 - [How to Build a Serverless Next.js Blog with ButterCMS](https://buttercms.com/blog/next-js-cms-tutorial)
@@ -75,10 +77,12 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Building a Guestbook Using Next.js On-Demand ISR](https://www.svix.com/blog/vercel-on-demand-isr-and-svix/)
 - [Useful Admin Templates to build your Website/App](https://adminmart.com/templates/nextjs/?ref=6)
 - [Integrate Next app with Tailwind](https://tailwind-elements.com/docs/standard/integrations/next-integration/)
+- [A Guide to Performance Optimization with Next.js](https://www.debugbear.com/blog/nextjs-performance)
 
 ## Boilerplates
 
 - [Kaminari Template](https://kaminari.vercel.app/) - Power packed Next.js and Tailwind CSS template. Built with developer experience in mind. Contains Husky, CommitLint, Prettier, Eslint etc. configs. ✨
+- [Next.js, Strapi Portfolio Starter](https://github.com/PictureElement/nextjs-strapi-portfolio-starter) – ⚡️ A modern portfolio starter with Next.js, Strapi, and Tailwind CSS, featuring automated XML sitemap, JSON-LD schemas, OpenGraph metadata, and a contact form with spam protection.
 - [Next.js Static Blog](https://www.cosmicjs.com/apps/nextjs-static-blog) - Next.js static blog powered by the Cosmic Headless CMS
 - [NextJS Headless CMS Powered Blog Starter](https://github.com/ButterCMS/react-cms-blog-with-next-js)
 - [Next.js App with AWS Lambda](https://github.com/mattdamon108/nextjs-with-lambda) - Deploy a Next.js App to AWS Lambda using Apex Up.
