@@ -41,6 +41,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 ## Articles
 
 - [Instant Site Updates with On-Demand Revalidation and Directus](https://echobind.com/post/instant-site-updates-with-on-demand-revalidation-and-directus)
+- [Building a Next-Generation File Sharing App with Next.js and Permit.io](https://medium.com/@manuchimsoemmanuel2k/building-a-next-generation-file-sharing-app-with-next-js-and-permit-io-00b8fb7e66bf) 
 - [Dynamic CMS-driven Redirects with Next.js](https://echobind.com/post/dynamic-cms-driven-redirects)
 - [Implementing RBAC Authorization in Next.js - Step-by-Step Guide](https://www.permit.io/blog/how-to-add-rbac-in-nextjs)
 - [Getting Started with Next.js, GraphQL and React Query](https://echobind.com/post/getting-started-with-nextjs-graphl-and-react-query)
