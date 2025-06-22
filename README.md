@@ -82,7 +82,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [A Guide to Performance Optimization with Next.js](https://www.debugbear.com/blog/nextjs-performance)
 
 ## Boilerplates
-
+- [Rocket Launch Saas](https://www.rocketlaunchsaas.com/) - The Ultimate NextJS Boilerplate for Rapidly Building Your SaaS, Web Apps, and More - Start Generating Revenue at Warp Speed! 🚀
 - [Kaminari Template](https://kaminari.vercel.app/) - Power packed Next.js and Tailwind CSS template. Built with developer experience in mind. Contains Husky, CommitLint, Prettier, Eslint etc. configs. ✨
 - [Next.js, Strapi Portfolio Starter](https://github.com/PictureElement/nextjs-strapi-portfolio-starter) – ⚡️ A modern portfolio starter with Next.js, Strapi, and Tailwind CSS, featuring automated XML sitemap, JSON-LD schemas, OpenGraph metadata, and a contact form with spam protection.
 - [Next.js Static Blog](https://www.cosmicjs.com/apps/nextjs-static-blog) - Next.js static blog powered by the Cosmic Headless CMS
