@@ -80,6 +80,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Top Next.js Admin & Dashboard Templates](https://blog.codedthemes.com/nextjs-admin-dashboard-templates/)
 - [Next.js Cheatsheet](https://blog.codedthemes.com/nextjs-cheatsheet/)
 - [A Guide to Performance Optimization with Next.js](https://www.debugbear.com/blog/nextjs-performance)
+- [Fine-grained Access Control for an Online Medical Records Portal with Next.js, Permit.io ReBAC, and Firebase](https://medium.com/@divineoffishal/fine-grained-access-control-for-an-online-medical-records-portal-with-next-js-c535594123a9)
 
 ## Boilerplates
 
