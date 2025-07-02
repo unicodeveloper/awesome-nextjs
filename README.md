@@ -95,7 +95,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Next & Vercel Typescript template](https://github.com/alepacheco/landing-template) - Serverless, Typescript, Jest, Github CI, SCSS, prettier boilerplate
 - [NextJS in Firebase with Bootstrap](https://github.com/ananddayalan/nextjs-in-firebase-with-bootstrap) - Hosting NextJS app with Bootstrap in Firebase with Cloud Functions.
 - [Next Simple Starter](https://github.com/ooade/NextSimpleStarter) - Simple PWA boilerplate with Next.js and Redux.
-- [NextJS Starter](https://github.com/iaincollins/nextjs-starter) - Starter project for Next.js with and email and oAuth authentication.
+- [NextJS Starter](https://github.com/iaincollins/nextjs-starter) - Starter project for Next.js with email and oAuth authentication.
 - [nextjs-starter](https://github.com/pbteja1998/nextjs-starter) - An SEO Optimized Next.js 10 starter kit template with React 17 + Typescript + Tailwind CSS 2 + React Query 3 + (GitHub Auth + Passwordless Auth) using (NextAuth.js and Fauna DB), ESLint, Prettier, Pre-commit hook with Husky. Can have different layouts for different pages.
 - [RAN!](https://github.com/sly777/ran) - Production-ready boilerplate with support for GraphQL, SSR, Hot-reload, CSS-in-JS, caching, and more.
 - [Next Simple Blog](https://github.com/tscanlin/next-blog) - Simple Markdown based blog built with Next.js with static exports.
