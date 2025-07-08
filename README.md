@@ -208,6 +208,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Taxonomy](https://github.com/shadcn/taxonomy) - An example app built using Next.js 13 server components.
 - [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components that you can copy and paste into your apps.
 - [StorageBox](https://github.com/AlandSleman/StorageBox) - A Simple File Storage Service Built with Go and Next.js.
+- [Drag-and-Drop Website Builder](https://github.com/belastrittmatter/Framely) - 🏗️ An open-source, lightweight, multi-tenant drag-and-drop website editor for modern web applications.
 
 ## Books
 
