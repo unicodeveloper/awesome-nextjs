@@ -171,6 +171,8 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 
 ## Apps
 
+- [NextBunny](https://nextbunny.co/) - A free drag-and-drop builder for developers to visually create production-ready Next.js websites. Features a Figma and Framer style interface, pre-built Shadcn UI and Framer Motion components, and requires no sign-up.
+
 - [CourseLit](https://github.com/codelit/courselit) - An open source alternative to Thinkific, Teachable etc.
 - [Feednext](https://github.com/feednext/feednext) - An open source social media application.
 - [NextJS GOT](https://github.com/auth0-blog/nextjs-got) - Simple Next.js application that showcases Game of Thrones Characters.
