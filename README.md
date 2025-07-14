@@ -80,6 +80,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Top Next.js Admin & Dashboard Templates](https://blog.codedthemes.com/nextjs-admin-dashboard-templates/)
 - [Next.js Cheatsheet](https://blog.codedthemes.com/nextjs-cheatsheet/)
 - [A Guide to Performance Optimization with Next.js](https://www.debugbear.com/blog/nextjs-performance)
+- [Building a Secure Video Conferencing App with Next.js, ZEGOCLOUD, and Permit.io](https://medium.com/@ogbondafavour9/building-a-secure-video-conferencing-app-with-next-js-zegocloud-and-permit-io-f471856b6a43)
 
 ## Boilerplates
 
