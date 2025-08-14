@@ -134,6 +134,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [NextJS Chargebee Subscription](https://github.com/bharathvaj-ganesan/chargebee-saas-stack) - A Chargebee focused T3 Stack that integrates User Subscriptions, Authentication and Testing. Driven by Prisma ORM.
 - [Next.js Enterprise](https://github.com/Blazity/next-enterprise) - enterprise-grade boilerplate for high-performance, maintainable apps. Built with Tailwind CSS, RadixUI, TypeScript and more.
 - [Start UI [web]](https://github.com/BearStudio/start-ui-web) - 🚀 opinionated UI starter with TypeScript, React, NextJS, Chakra UI, tRPC, Prisma, TanStack Query, Storybook, Playwright, Formiz
+- [Next-Shadcn-Intl-Template](https://github.com/your-username/next-shadcn-intl-template) - 🌐 A clean and minimal Next.js starter template with Tailwind CSS, ShadcnUI, and NextIntl. Pre-configured for i18n without extra features like auth or payments.
 
 ## Extensions
 
