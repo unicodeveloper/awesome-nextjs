@@ -253,6 +253,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Real-Time Messenger Clone: Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher (2023)](https://www.youtube.com/watch?v=PGPGcKBpAk8&t=1922s)
 - [Full Stack Spotify Clone: Next 13.4, React, Stripe, Supabase, PostgreSQL, Tailwind (2023)](https://youtube.com/watch?v=2aeMRB8LL4o&t=4402s)
 - [Full Stack E-Commerce + Dashboard & CMS: Next.js 13 App Router, React, Tailwind, Prisma, MySQL, 2023](https://www.youtube.com/watch?v=5miHyP6lExg&t=1908s)
+- [Build a Duolingo Clone With Nextjs, React, Drizzle, Stripe (2024)](https://www.youtube.com/watch?v=dP75Khfy4s4)
 
 ## Newsletters
 
