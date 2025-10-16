@@ -37,6 +37,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Learn](https://nextjs.org/learn)
 - [Vercel TV](https://vercel.com/tv)
 - [Bulletproof Next](https://getstarted.sh/bulletproof-next)
+- [blank-space](https://www.blankspace.build/) - Open-source AI app builder for building Next.js applications
 
 ## Articles
 
