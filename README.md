@@ -171,6 +171,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 
 ## Apps
 
+- [Agent Discovery](https://github.com/hashgraph-online/agent-discovery-nextjs) - AI Agent Discovery app using Vercel AI SDK to search 59,000+ agents across NANDA, MCP, A2A, and more.
 - [CourseLit](https://github.com/codelit/courselit) - An open source alternative to Thinkific, Teachable etc.
 - [Feednext](https://github.com/feednext/feednext) - An open source social media application.
 - [NextJS GOT](https://github.com/auth0-blog/nextjs-got) - Simple Next.js application that showcases Game of Thrones Characters.
