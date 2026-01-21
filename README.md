@@ -178,6 +178,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Password](https://github.com/dotcypress/password) - One password, right way.
 - [Next Todos](https://github.com/lipp/next-todos) - Todo list written in Next.js.
 - [Hacker News](https://github.com/lipp/hackernews) - Another Hacker News written in Next.js.
+- [HookRelay.io](https://www.hookrelay.io/) - Service for handling, retrying, and replaying webhooks in Next.js applications.
 - [Jet Chat](https://github.com/lipp/jet-chat) - Jet and Next.js powered Chat demo.
 - [Nextgram](https://github.com/arunoda/nextgram) - Sample Next.js v2 app for showing off its capabilities.
 - [Rauchg Blog](https://github.com/rauchg/blog) - Blog built by a Next.js core maintainer.
