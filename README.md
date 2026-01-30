@@ -168,6 +168,8 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Runtime Environment Variables for Next.js](https://www.npmjs.com/package/@cuww/runtime-env) – Stop configuring ENV variables in CI/CD, use a cloud-native approach.
 - [next-google-tag-manager](https://github.com/XD2Sketch/next-google-tag-manager) – Easily add Google Tag Manager to Next 13 and up.
 - [next-api-decorators](https://github.com/storyofams/next-api-decorators) - Decorators to create typed Next.js API routes, with easy request validation and transformation.
+- [Vercel AI SDK](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. Build AI-powered applications with React, Next.js, Vue, Svelte, and Node.js.
+- [CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents in your Next.js apps.
 
 ## Apps
 
