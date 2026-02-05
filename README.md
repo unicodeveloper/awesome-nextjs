@@ -173,6 +173,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 
 ## Apps
 
+- [ChangelogKit](https://github.com/snowman95/changelogkit) - SaaS changelog and release notes management tool with embeddable widget and email notifications.
 - [CourseLit](https://github.com/codelit/courselit) - An open source alternative to Thinkific, Teachable etc.
 - [Feednext](https://github.com/feednext/feednext) - An open source social media application.
 - [NextJS GOT](https://github.com/auth0-blog/nextjs-got) - Simple Next.js application that showcases Game of Thrones Characters.
@@ -199,6 +200,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [IOTA's Data Market Place](https://data.iota.org/) - IOTA Market Place
 - [magicleap.com](https://www.magicleap.com/) - Magic Leap
 - [NPM.js Search Page](https://www.npmjs.com/search) - NPM's Search Page
+- [OGKit](https://github.com/snowman95/ogkit) - Dynamic Open Graph image generator API with 6 templates, 6 themes, and zero-config setup.
 - [Docker Success Center](https://success.docker.com) - Docker Success Center
 - [Urteile & Gesetze](https://github.com/neo-search/urteile-gesetze-web) - German Legal Information System licensed under GPLv3.
 - [TikTok's HomePage](https://www.tiktok.com/) - TikTok's Home Page
@@ -210,6 +212,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Taxonomy](https://github.com/shadcn/taxonomy) - An example app built using Next.js 13 server components.
 - [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components that you can copy and paste into your apps.
 - [StorageBox](https://github.com/AlandSleman/StorageBox) - A Simple File Storage Service Built with Go and Next.js.
+- [TechPulse API](https://github.com/snowman95/techpulse-api) - AI-curated developer news REST API with category filtering and importance scoring.
 
 ## Books
 
