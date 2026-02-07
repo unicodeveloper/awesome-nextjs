@@ -173,6 +173,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 
 ## Apps
 
+- [BlitzTools](https://blitztools.app) - Production Next.js app with 66+ browser-based file processing tools using WebAssembly.
 - [CourseLit](https://github.com/codelit/courselit) - An open source alternative to Thinkific, Teachable etc.
 - [Feednext](https://github.com/feednext/feednext) - An open source social media application.
 - [NextJS GOT](https://github.com/auth0-blog/nextjs-got) - Simple Next.js application that showcases Game of Thrones Characters.
