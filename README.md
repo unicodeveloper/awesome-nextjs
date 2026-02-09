@@ -170,6 +170,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [next-api-decorators](https://github.com/storyofams/next-api-decorators) - Decorators to create typed Next.js API routes, with easy request validation and transformation.
 - [Vercel AI SDK](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. Build AI-powered applications with React, Next.js, Vue, Svelte, and Node.js.
 - [CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents in your Next.js apps.
+- [Heroshot](https://github.com/omachala/heroshot) - Screenshot automation CLI for documentation. Define screenshots once, regenerate all with one command using Playwright. Includes Next.js integration.
 
 ## Apps
 
