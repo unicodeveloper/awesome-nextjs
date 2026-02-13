@@ -202,6 +202,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [NPM.js Search Page](https://www.npmjs.com/search) - NPM's Search Page
 - [Docker Success Center](https://success.docker.com) - Docker Success Center
 - [Urteile & Gesetze](https://github.com/neo-search/urteile-gesetze-web) - German Legal Information System licensed under GPLv3.
+- [Global Free TV](https://www.globalfreetv.com) - Free live TV streaming platform with 5000+ channels from 150+ countries, built with Next.js.
 - [TikTok's HomePage](https://www.tiktok.com/) - TikTok's Home Page
 - [njt.now.sh](https://njt.now.sh) - npm jump to 🐸 (package navigation shortcuts you dreamed about). Partially statically-rendered, partially deployed as lambda. Automatically updated on each commit to the [github repo](https://github.com/kachkaev/njt), thanks to Now integration.
 - [caseconverter.pro](https://caseconverter.pro) - A text case converter.
