@@ -171,6 +171,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Vercel AI SDK](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. Build AI-powered applications with React, Next.js, Vue, Svelte, and Node.js.
 - [CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents in your Next.js apps.
 - [ShotOG](https://github.com/nicepkg/shotog) - Dynamic OG image generation API for Next.js apps, powered by Cloudflare Workers.
+- [Vercel SEO Audit](https://github.com/JosephDoUrden/vercel-seo-audit) - CLI tool that diagnoses SEO and indexing issues specific to Next.js and Vercel deployments.
 
 ## Apps
 
