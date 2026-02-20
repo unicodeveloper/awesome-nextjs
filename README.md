@@ -172,6 +172,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents in your Next.js apps.
 - [ogimg.xyz](https://ogimg.xyz) - OG image generation API with 10 templates, background patterns, and URL auto-fetch. Built with Next.js + Satori on Vercel Edge.
 - [ShotOG](https://github.com/nicepkg/shotog) - Dynamic OG image generation API for Next.js apps, powered by Cloudflare Workers.
+- [Vercel SEO Audit](https://github.com/JosephDoUrden/vercel-seo-audit) - CLI tool that diagnoses SEO and indexing issues specific to Next.js and Vercel deployments.
 
 ## Apps
 
