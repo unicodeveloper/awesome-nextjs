@@ -213,6 +213,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components that you can copy and paste into your apps.
 - [StorageBox](https://github.com/AlandSleman/StorageBox) - A Simple File Storage Service Built with Go and Next.js.
 - [Taskade](https://taskade.com/) - AI-powered workspace for teams with real-time collaboration, AI agents, project management, and workflow automation.
+- [DevToolBox](https://viadreams.cc) - 129+ free online developer tools (JSON formatter, Base64 encoder, JWT decoder, regex tester, hash generator, and more). Built with Next.js, 100% client-side processing, open source.
 
 ## Books
 
