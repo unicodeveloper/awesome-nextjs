@@ -172,7 +172,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents in your Next.js apps.
 - [ogimg.xyz](https://ogimg.xyz) - OG image generation API with 10 templates, background patterns, and URL auto-fetch. Built with Next.js + Satori on Vercel Edge.
 - [ShotOG](https://github.com/nicepkg/shotog) - Dynamic OG image generation API for Next.js apps, powered by Cloudflare Workers.
-- [prodlint](https://github.com/prodlint/prodlint) - The linter for vibe-coded Next.js apps. Catches hallucinated imports, missing auth, server action validation, and 49 other production bugs AI coding tools write. Zero config.
+- [prodlint](https://github.com/prodlint/prodlint) - Production readiness for vibe-coded Next.js apps. 52 checks for hallucinated imports, missing auth, server action validation, and more. Zero config.
 
 ## Apps
 
