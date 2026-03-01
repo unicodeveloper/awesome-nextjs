@@ -18,6 +18,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
   - [Boilerplates](#boilerplates)
   - [Extensions](#extensions)
   - [Apps](#apps)
+- [AI Interview Coach](https://em-tools.io/interview-prep) - Voice-based AI behavioral interview practice for engineering managers and software engineers. 130+ role-specific questions, STAR-format scoring, and 3 interviewer personas.
   - [Books](#books)
   - [Videos](#videos)
   - [Projects(Beginner level)](#projectsbeginner-level)
