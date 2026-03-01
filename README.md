@@ -173,6 +173,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents in your Next.js apps.
 - [ogimg.xyz](https://ogimg.xyz) - OG image generation API with 10 templates, background patterns, and URL auto-fetch. Built with Next.js + Satori on Vercel Edge.
 - [ShotOG](https://github.com/nicepkg/shotog) - Dynamic OG image generation API for Next.js apps, powered by Cloudflare Workers.
+- [Ink Web](https://github.com/cjroth/ink-web) - Browser-based runtime for Ink that renders React terminal UI apps in Next.js using xterm.js.
 
 ## Apps
 
@@ -194,7 +195,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Snape](https://github.com/ritz078/snape) - A torrent client to search, stream and download torrents.
 - [Trello Resume](https://github.com/juliandavidmr/TrelloResume) - Converts trello data into fast read information.
 - [Server Authentication with JWT](https://github.com/estrada9166/server-authentication-next.js) - Server authentication, prevent render before validation.
-- [Alexander Kachkaev’s website](https://gitlab.com/kachkaev/website-frontend/) – personal homepage built with Next.js, GraphQL, Docker and Kubernetes. Uses apollo client, react-intl, styled-components and recompose. Docker images are automatically built by GitLab CI.
+- [Alexander Kachkaev's website](https://gitlab.com/kachkaev/website-frontend/) – personal homepage built with Next.js, GraphQL, Docker and Kubernetes. Uses apollo client, react-intl, styled-components and recompose. Docker images are automatically built by GitLab CI.
 - [Cookie handler with server render](https://github.com/estrada9166/cookie-handler-next.js) - Cookie handler with server render, access the cookie before render.
 - [Gank](https://github.com/OrangeXC/gank) - A Next.js App use gank-api, mobx and antd
 - [Decoupled CMS example with GraphQL and Next.js](https://github.com/janit/decoupled-cms-nextjs-graphql)
