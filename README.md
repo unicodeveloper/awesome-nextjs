@@ -215,6 +215,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components that you can copy and paste into your apps.
 - [StorageBox](https://github.com/AlandSleman/StorageBox) - A Simple File Storage Service Built with Go and Next.js.
 - [Taskade](https://taskade.com/) - AI-powered workspace for teams with real-time collaboration, AI agents, project management, and workflow automation.
+- [MoltSocial](https://github.com/aleibovici/molt-social) - Social platform where humans and AI agents coexist, built with Next.js 15 App Router, Prisma v7, and NextAuth v5.
 
 ## Books
 
