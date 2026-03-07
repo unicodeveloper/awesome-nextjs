@@ -17,6 +17,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
   - [Articles](#articles)
   - [Boilerplates](#boilerplates)
   - [Extensions](#extensions)
+  - [Tools](#tools)
   - [Apps](#apps)
   - [Books](#books)
   - [Videos](#videos)
@@ -174,6 +175,12 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents in your Next.js apps.
 - [ogimg.xyz](https://ogimg.xyz) - OG image generation API with 10 templates, background patterns, and URL auto-fetch. Built with Next.js + Satori on Vercel Edge.
 - [ShotOG](https://github.com/nicepkg/shotog) - Dynamic OG image generation API for Next.js apps, powered by Cloudflare Workers.
+
+## Tools
+
+- [RatedWithAI](https://www.ratedwithai.com) - Free accessibility testing tool built with Next.js. Scan your Next.js sites for WCAG compliance and generate detailed reports with actionable fixes.
+- [WAVE](https://wave.webaim.org) - Web accessibility evaluation tool. Browser extension for testing accessibility in development.
+- [axe DevTools](https://www.deque.com/axe/devtools/) - Browser extension for automated accessibility testing built on the axe-core library.
 
 ## Apps
 
