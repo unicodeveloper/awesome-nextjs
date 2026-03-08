@@ -136,6 +136,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Start UI [web]](https://github.com/BearStudio/start-ui-web) - 🚀 opinionated UI starter with TypeScript, React, NextJS, Chakra UI, tRPC, Prisma, TanStack Query, Storybook, Playwright, Formiz
 - [Kaiforge Lite](https://github.com/DevxiaLabs/kaiforge-lite) - Free and open-source Next.js admin dashboard template with Tailwind CSS, dark mode, and multiple color themes.
 
+- [DiggaByte Labs](https://diggabyte.com) - Production-ready SaaS boilerplate marketplace. Ship faster with battle-tested Next.js 14, Stripe, PostgreSQL, and Docker templates. Includes auth, payments, admin dashboard, API keys, 2FA, and rate limiting.
 ## Extensions
 
 - [Next universal language detector](https://github.com/UnlyEd/universal-language-detector) - Language detector that works universally (browser + server) - Meant to be used with a universal framework, such as Next.js [DEMO](https://universal-language-detector.now.sh/)
