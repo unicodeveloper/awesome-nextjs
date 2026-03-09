@@ -216,6 +216,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components that you can copy and paste into your apps.
 - [StorageBox](https://github.com/AlandSleman/StorageBox) - A Simple File Storage Service Built with Go and Next.js.
 - [Taskade](https://taskade.com/) - AI-powered workspace for teams with real-time collaboration, AI agents, project management, and workflow automation.
+- [Xquik](https://xquik.com) - Real-time X (Twitter) data platform built with Next.js 16, App Router, React Compiler, and Turbopack. Features 20 extraction tools, giveaway draws, account monitoring, REST API, MCP server, and HMAC webhooks.
 
 ## Books
 
