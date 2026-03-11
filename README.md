@@ -135,6 +135,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Next.js Enterprise](https://github.com/Blazity/next-enterprise) - enterprise-grade boilerplate for high-performance, maintainable apps. Built with Tailwind CSS, RadixUI, TypeScript and more.
 - [Start UI [web]](https://github.com/BearStudio/start-ui-web) - 🚀 opinionated UI starter with TypeScript, React, NextJS, Chakra UI, tRPC, Prisma, TanStack Query, Storybook, Playwright, Formiz
 - [Kaiforge Lite](https://github.com/DevxiaLabs/kaiforge-lite) - Free and open-source Next.js admin dashboard template with Tailwind CSS, dark mode, and multiple color themes.
+- [A11y Starter Kit](https://github.com/thefrontkit/a11y-starter-kit-code) - Accessibility-first Next.js starter kit with best practices for building inclusive web apps. Demo: https://a11y-starter-kit.vercel.app/
 
 ## Extensions
 
