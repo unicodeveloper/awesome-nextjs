@@ -83,6 +83,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 
 ## Boilerplates
 
+- [Kaiforge Lite](https://github.com/DevxiaLabs/kaiforge-lite) - Free admin dashboard template with Next.js 14, Tailwind CSS, TypeScript, dark/light mode, and 5 ready-to-use pages. MIT licensed. [Demo](https://lite.kaiforge.dev)
 - [Kaminari Template](https://kaminari.vercel.app/) - Power packed Next.js and Tailwind CSS template. Built with developer experience in mind. Contains Husky, CommitLint, Prettier, Eslint etc. configs. ✨
 - [Next.js, Strapi Portfolio Starter](https://github.com/PictureElement/nextjs-strapi-portfolio-starter) – ⚡️ A modern portfolio starter with Next.js, Strapi, and Tailwind CSS, featuring automated XML sitemap, JSON-LD schemas, OpenGraph metadata, and a contact form with spam protection.
 - [Next.js Static Blog](https://www.cosmicjs.com/apps/nextjs-static-blog) - Next.js static blog powered by the Cosmic Headless CMS
