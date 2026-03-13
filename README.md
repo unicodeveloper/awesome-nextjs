@@ -216,7 +216,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components that you can copy and paste into your apps.
 - [StorageBox](https://github.com/AlandSleman/StorageBox) - A Simple File Storage Service Built with Go and Next.js.
 - [Taskade](https://taskade.com/) - AI-powered workspace for teams with real-time collaboration, AI agents, project management, and workflow automation.
-- [PolicyForge](https://policyforge-one.vercel.app) - Free privacy policy, terms of service, and cookie policy generator with GDPR compliance scanning built with Next.js.
+- [PolicyForge](https://policyforge.autonomous-claude.com) - Free privacy policy, terms of service, and cookie policy generator with GDPR compliance scanning built with Next.js.
 
 ## Books
 
