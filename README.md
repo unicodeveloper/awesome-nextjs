@@ -199,6 +199,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Dashboard](https://github.com/danielbayerlein/dashboard) - Create your own team dashboard with custom widgets.
 - [Snape](https://github.com/ritz078/snape) - A torrent client to search, stream and download torrents.
 - [Trello Resume](https://github.com/juliandavidmr/TrelloResume) - Converts trello data into fast read information.
+- [WritBase](https://github.com/Writbase/writbase) - Next.js task management system for AI agent fleets with Supabase backend and MCP integration.
 - [Server Authentication with JWT](https://github.com/estrada9166/server-authentication-next.js) - Server authentication, prevent render before validation.
 - [Alexander Kachkaev’s website](https://gitlab.com/kachkaev/website-frontend/) – personal homepage built with Next.js, GraphQL, Docker and Kubernetes. Uses apollo client, react-intl, styled-components and recompose. Docker images are automatically built by GitLab CI.
 - [Cookie handler with server render](https://github.com/estrada9166/cookie-handler-next.js) - Cookie handler with server render, access the cookie before render.
