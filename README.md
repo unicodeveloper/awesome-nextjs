@@ -137,6 +137,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Start UI [web]](https://github.com/BearStudio/start-ui-web) - 🚀 opinionated UI starter with TypeScript, React, NextJS, Chakra UI, tRPC, Prisma, TanStack Query, Storybook, Playwright, Formiz
 - [Kaiforge Lite](https://github.com/DevxiaLabs/kaiforge-lite) - Free and open-source Next.js admin dashboard template with Tailwind CSS, dark mode, and multiple color themes.
 - [A11y Starter Kit](https://github.com/thefrontkit/a11y-starter-kit-code) - Accessibility-first Next.js starter kit with best practices for building inclusive web apps. Demo: https://a11y-starter-kit.vercel.app/
+- [Intlayer Starter for i18n](https://github.com/aymericzip/intlayer-next-16-template) - i18n for your app, SEO metadata, hreflang, sitemap and more.
 
 ## Extensions
 
@@ -152,6 +153,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Nextein](https://github.com/elmasse/nextein) - A static site generator based in Next.js.
 - [next-mdx-blog](https://github.com/hipstersmoothie/next-mdx-blog) - Easily add a blog to any next.js based project
 - [next-i18next](https://github.com/isaachinman/next-i18next) - The easiest way to translate your NextJs apps.
+- [next-intlayer](https://github.com/aymericzip/intlayer) - Per-component i18n for you NextJs apps.
 - [next-routes-middleware](https://github.com/revskill10/next-routes-middleware) - A NextJS routing middleware
 - [Serverless Framework plugin for Next.js](https://github.com/danielcondemarin/serverless-nextjs-plugin) - Deploy serverless applications with ease.
 - [Terraform For Next.js](https://github.com/ematipico/terraform-nextjs-plugin) - Deploy your application using Terraform
