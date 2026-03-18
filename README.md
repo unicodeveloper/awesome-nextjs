@@ -182,6 +182,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 ## Apps
 
 - [DevToolKit](https://github.com/a827681306/devtoolkit) - Free online developer tools built with Next.js — JSON Formatter, JWT Decoder, Regex Tester, Base64/URL Encoder, Hash Generator.
+- [Karrito](https://karrito.shop) - Digital catalog builder with WhatsApp checkout. Built with Next.js 16, Prisma 7, Stripe, Tailwind v4. Features visual theme editor, 279 SEO pages, and MCP server.
 - [CourseLit](https://github.com/codelit/courselit) - An open source alternative to Thinkific, Teachable etc.
 - [FIM Agent](https://github.com/fim-ai/fim-agent) - AI-powered Connector Hub with a Next.js + shadcn/ui portal frontend. Features agent management, connector configuration, knowledge base, and real-time chat with SSE streaming.
 - [Feednext](https://github.com/feednext/feednext) - An open source social media application.
