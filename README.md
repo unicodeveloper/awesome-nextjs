@@ -82,6 +82,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [A Guide to Performance Optimization with Next.js](https://www.debugbear.com/blog/nextjs-performance)
 
 ## Boilerplates
+- [LaunchKit](https://github.com/huangyongshan46-a11y/launchkit-saas) - AI-native SaaS starter kit with Auth.js v5, Stripe billing, OpenAI streaming chat, Prisma, and Resend email. Next.js 16, TypeScript strict, Tailwind v4.
 
 - [Kaiforge Lite](https://github.com/DevxiaLabs/kaiforge-lite) - Free admin dashboard template with Next.js 14, Tailwind CSS, TypeScript, dark/light mode, and 5 ready-to-use pages. MIT licensed. [Demo](https://lite.kaiforge.dev)
 - [Kaminari Template](https://kaminari.vercel.app/) - Power packed Next.js and Tailwind CSS template. Built with developer experience in mind. Contains Husky, CommitLint, Prettier, Eslint etc. configs. ✨
