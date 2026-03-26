@@ -180,6 +180,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [@farming-labs/docs](https://github.com/farming-labs/docs) - A modern documentation framework that works. One config file, zero boilerplate.
 
 ## Apps
+- [thesvg](https://thesvg.org) - Open source SVG icon library with 5,600+ brand and cloud icons. Built with Next.js 15 App Router, Tailwind CSS, and Fuse.js search. [Source](https://github.com/glincker/thesvg)
 
 - [API Status Check](https://apistatuscheck.com) - Real-time status monitoring dashboard tracking 2,500+ APIs and cloud services. Built with Next.js and deployed on Vercel.
 - [DevToolKit](https://github.com/a827681306/devtoolkit) - Free online developer tools built with Next.js — JSON Formatter, JWT Decoder, Regex Tester, Base64/URL Encoder, Hash Generator.
