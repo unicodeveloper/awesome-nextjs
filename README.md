@@ -223,6 +223,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components that you can copy and paste into your apps.
 - [StorageBox](https://github.com/AlandSleman/StorageBox) - A Simple File Storage Service Built with Go and Next.js.
 - [Taskade](https://taskade.com/) - AI-powered workspace for teams with real-time collaboration, AI agents, project management, and workflow automation.
+- [CiteMe](https://citeme.app/) - AI-powered academic citation generator. Searches 8+ databases and formats references in 40+ styles. Built with Next.js 14 App Router, Tailwind, and Supabase.
 
 ## Books
 
