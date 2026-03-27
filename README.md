@@ -64,6 +64,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [SSR blog with Next.js and Prismic.io](https://www.garymeehan.ie/blog/server-side-rendered-blog-with-nextjs-and-prismic)
 - [SEO in Next.js and Prismic](https://www.garymeehan.ie/blog/handling-seo-with-nextjs-and-prismic)
 - [SEO in Next.js with next-seo](https://www.garymeehan.ie/blog/seo-in-nextjs-with-next-seo)
+- [Nextjs-jsonld-schema](https://github.com/Aghefendi/nextjs-jsonld-schema) – Type-safe JSON-LD schema generator for Next.js.
 - [Next.js 7](https://nextjs.org/blog/next-7)
 - [Create SSR Next.js websites using GraphQL with Postgres](https://blog.hasura.io/create-next-js-sites-using-graphql-on-postgres-199224ad1a39)
 - [Cooking a Deliveroo clone with Next.js (React), GraphQL, Strapi and Stripe - Setup (part 1/7)](https://blog.strapi.io/strapi-next-setup)
