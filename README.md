@@ -17,6 +17,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
   - [Articles](#articles)
   - [Boilerplates](#boilerplates)
   - [Extensions](#extensions)
+  - [Tools](#tools)
   - [Apps](#apps)
   - [Books](#books)
   - [Videos](#videos)
@@ -178,6 +179,12 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [ShotOG](https://github.com/nicepkg/shotog) - Dynamic OG image generation API for Next.js apps, powered by Cloudflare Workers.
 - [Frontman](https://github.com/frontman-ai/frontman) - An open-source AI coding agent that lives in your browser, enabling visual element selection and plain-English code edits with hot reload.
 - [@farming-labs/docs](https://github.com/farming-labs/docs) - A modern documentation framework that works. One config file, zero boilerplate.
+
+## Tools
+
+- [RatedWithAI](https://www.ratedwithai.com) - Free accessibility testing tool built with Next.js. Scan your Next.js sites for WCAG compliance and generate detailed reports with actionable fixes.
+- [WAVE](https://wave.webaim.org) - Web accessibility evaluation tool. Browser extension for testing accessibility in development.
+- [axe DevTools](https://www.deque.com/axe/devtools/) - Browser extension for automated accessibility testing built on the axe-core library.
 
 ## Apps
 
