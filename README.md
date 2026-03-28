@@ -137,6 +137,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Start UI [web]](https://github.com/BearStudio/start-ui-web) - 🚀 opinionated UI starter with TypeScript, React, NextJS, Chakra UI, tRPC, Prisma, TanStack Query, Storybook, Playwright, Formiz
 - [Kaiforge Lite](https://github.com/DevxiaLabs/kaiforge-lite) - Free and open-source Next.js admin dashboard template with Tailwind CSS, dark mode, and multiple color themes.
 - [A11y Starter Kit](https://github.com/thefrontkit/a11y-starter-kit-code) - Accessibility-first Next.js starter kit with best practices for building inclusive web apps. Demo: https://a11y-starter-kit.vercel.app/
+- [Ai Vertical Saas Gen](https://github.com/kurtnebiev-elvis4/ai-vertical-saas-gen) - Generate complete vertical SaaS apps with Next.js 14, Supabase, and Tailwind CSS. Industry-specific data models for 20+ niches from a single CLI command. Zero dependencies.
 
 ## Extensions
 
@@ -202,7 +203,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Snape](https://github.com/ritz078/snape) - A torrent client to search, stream and download torrents.
 - [Trello Resume](https://github.com/juliandavidmr/TrelloResume) - Converts trello data into fast read information.
 - [Server Authentication with JWT](https://github.com/estrada9166/server-authentication-next.js) - Server authentication, prevent render before validation.
-- [Alexander Kachkaev’s website](https://gitlab.com/kachkaev/website-frontend/) – personal homepage built with Next.js, GraphQL, Docker and Kubernetes. Uses apollo client, react-intl, styled-components and recompose. Docker images are automatically built by GitLab CI.
+- [Alexander Kachkaev's website](https://gitlab.com/kachkaev/website-frontend/) – personal homepage built with Next.js, GraphQL, Docker and Kubernetes. Uses apollo client, react-intl, styled-components and recompose. Docker images are automatically built by GitLab CI.
 - [Cookie handler with server render](https://github.com/estrada9166/cookie-handler-next.js) - Cookie handler with server render, access the cookie before render.
 - [Gank](https://github.com/OrangeXC/gank) - A Next.js App use gank-api, mobx and antd
 - [Decoupled CMS example with GraphQL and Next.js](https://github.com/janit/decoupled-cms-nextjs-graphql)
