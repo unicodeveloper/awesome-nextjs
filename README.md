@@ -84,6 +84,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 ## Boilerplates
 - [LaunchKit](https://github.com/huangyongshan46-a11y/launchkit-saas) - AI-native SaaS starter kit with Auth.js v5, Stripe billing, OpenAI streaming chat, Prisma, and Resend email. Next.js 16, TypeScript strict, Tailwind v4.
 
+- [LaunchKit](https://github.com/huangyongshan46-a11y/launchkit) - 🚀 AI-native SaaS starter kit with Next.js 16, Auth.js v5, Stripe subscriptions, OpenAI integration, Prisma ORM, Resend email, and Tailwind CSS v4. Ship production-ready SaaS in days, not months.
 - [Kaiforge Lite](https://github.com/DevxiaLabs/kaiforge-lite) - Free admin dashboard template with Next.js 14, Tailwind CSS, TypeScript, dark/light mode, and 5 ready-to-use pages. MIT licensed. [Demo](https://lite.kaiforge.dev)
 - [Kaminari Template](https://kaminari.vercel.app/) - Power packed Next.js and Tailwind CSS template. Built with developer experience in mind. Contains Husky, CommitLint, Prettier, Eslint etc. configs. ✨
 - [Next.js, Strapi Portfolio Starter](https://github.com/PictureElement/nextjs-strapi-portfolio-starter) – ⚡️ A modern portfolio starter with Next.js, Strapi, and Tailwind CSS, featuring automated XML sitemap, JSON-LD schemas, OpenGraph metadata, and a contact form with spam protection.
