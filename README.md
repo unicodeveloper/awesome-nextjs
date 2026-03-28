@@ -209,6 +209,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Mozilla VR Home](https://vr.mozilla.org/) - Mozilla VR Home
 - [Elton John's website](https://www.eltonjohn.com) - Elton John's Website
 - [IOTA's Data Market Place](https://data.iota.org/) - IOTA Market Place
+- [Global Free TV](https://www.globalfreetv.com) - Free live TV streaming platform with 5,000+ channels from 150+ countries. Built with Next.js and React.
 - [magicleap.com](https://www.magicleap.com/) - Magic Leap
 - [NPM.js Search Page](https://www.npmjs.com/search) - NPM's Search Page
 - [Docker Success Center](https://success.docker.com) - Docker Success Center
