@@ -40,6 +40,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 
 ## Articles
 
+- [How to secure Liveblocks Rooms with Clerk in Next.js](https://clerk.com/blog/secure-liveblocks-rooms-clerk-nextjs)
 - [Instant Site Updates with On-Demand Revalidation and Directus](https://echobind.com/post/instant-site-updates-with-on-demand-revalidation-and-directus)
 - [Dynamic CMS-driven Redirects with Next.js](https://echobind.com/post/dynamic-cms-driven-redirects)
 - [Implementing RBAC Authorization in Next.js - Step-by-Step Guide](https://www.permit.io/blog/how-to-add-rbac-in-nextjs)
