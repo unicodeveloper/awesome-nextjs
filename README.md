@@ -80,6 +80,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Top Next.js Admin & Dashboard Templates](https://blog.codedthemes.com/nextjs-admin-dashboard-templates/)
 - [Next.js Cheatsheet](https://blog.codedthemes.com/nextjs-cheatsheet/)
 - [A Guide to Performance Optimization with Next.js](https://www.debugbear.com/blog/nextjs-performance)
+- [React Server Components in 2026: The Complete Mental Model](https://therobin.dev/blog/react-server-components-deep-dive-2026) - Master React Server Components. Understand the mental model, when to use Server vs Client Components, streaming SSR, and the patterns that make Next.js 16 apps fast.
 
 ## Boilerplates
 
