@@ -163,6 +163,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [next-connect](https://github.com/hoangvvo/next-connect) - The Express/Connect-compatible router and middleware layer for Next.js.
 - [next-img](https://github.com/humaans/next-img/) - a plugin for embedding optimized images with ease.
 - [next-auth](https://github.com/iaincollins/next-auth) - Easy authentication for Next.js and Serverless
+- [Scalekit](https://scalekit.com) - Hosted B2B identity for Next.js: SAML/OIDC SSO, SCIM, OAuth 2.1, MCP server authorization, and Agent Auth (delegated OAuth for third-party APIs).
 - [next-deploy](https://github.com/lone-cloud/next-deploy) - 🚀 Effortless deployment to AWS and GitHub Pages.
 - [next-joi](https://github.com/codecoolture/next-joi) - Validate Next.js API Routes, with _joi_.
 - [next-transpile-modules](https://github.com/martpie/next-transpile-modules) - Next.js plugin to transpile code from node_modules. Useful for monorepos.
