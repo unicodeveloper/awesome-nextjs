@@ -137,6 +137,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Start UI [web]](https://github.com/BearStudio/start-ui-web) - 🚀 opinionated UI starter with TypeScript, React, NextJS, Chakra UI, tRPC, Prisma, TanStack Query, Storybook, Playwright, Formiz
 - [Kaiforge Lite](https://github.com/DevxiaLabs/kaiforge-lite) - Free and open-source Next.js admin dashboard template with Tailwind CSS, dark mode, and multiple color themes.
 - [A11y Starter Kit](https://github.com/thefrontkit/a11y-starter-kit-code) - Accessibility-first Next.js starter kit with best practices for building inclusive web apps. Demo: https://a11y-starter-kit.vercel.app/
+- [ShipKit](https://shipkit.davrapps.dev) - Full-stack SaaS boilerplate with Next.js 16, Bun, Elysia.js, Better Auth, Drizzle ORM, shadcn/ui, Polar.sh payments, i18n (next-intl), and dark mode. Monorepo structure, battle-tested in 5 production apps.
 
 ## Extensions
 
@@ -206,6 +207,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Cookie handler with server render](https://github.com/estrada9166/cookie-handler-next.js) - Cookie handler with server render, access the cookie before render.
 - [Gank](https://github.com/OrangeXC/gank) - A Next.js App use gank-api, mobx and antd
 - [Decoupled CMS example with GraphQL and Next.js](https://github.com/janit/decoupled-cms-nextjs-graphql)
+- [DevTools](https://devtools.davrapps.dev) - 28 free browser-based developer utilities — JSON formatter, regex tester, JWT decoder, hash generator, UUID generator, and more. 100% client-side processing, no signup required.
 - [Mozilla VR Home](https://vr.mozilla.org/) - Mozilla VR Home
 - [Elton John's website](https://www.eltonjohn.com) - Elton John's Website
 - [IOTA's Data Market Place](https://data.iota.org/) - IOTA Market Place
