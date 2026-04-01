@@ -192,6 +192,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Password](https://github.com/dotcypress/password) - One password, right way.
 - [Next Todos](https://github.com/lipp/next-todos) - Todo list written in Next.js.
 - [Hacker News](https://github.com/lipp/hackernews) - Another Hacker News written in Next.js.
+- [HygieneScout](https://hygienescout.co.uk) - UK food hygiene ratings for 600,000+ establishments with rating history tracking, powered by FSA open data.
 - [Jet Chat](https://github.com/lipp/jet-chat) - Jet and Next.js powered Chat demo.
 - [Nextgram](https://github.com/arunoda/nextgram) - Sample Next.js v2 app for showing off its capabilities.
 - [Rauchg Blog](https://github.com/rauchg/blog) - Blog built by a Next.js core maintainer.
