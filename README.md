@@ -202,7 +202,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Snape](https://github.com/ritz078/snape) - A torrent client to search, stream and download torrents.
 - [Trello Resume](https://github.com/juliandavidmr/TrelloResume) - Converts trello data into fast read information.
 - [Server Authentication with JWT](https://github.com/estrada9166/server-authentication-next.js) - Server authentication, prevent render before validation.
-- [Alexander Kachkaev’s website](https://gitlab.com/kachkaev/website-frontend/) – personal homepage built with Next.js, GraphQL, Docker and Kubernetes. Uses apollo client, react-intl, styled-components and recompose. Docker images are automatically built by GitLab CI.
+- [Alexander Kachkaev's website](https://gitlab.com/kachkaev/website-frontend/) – personal homepage built with Next.js, GraphQL, Docker and Kubernetes. Uses apollo client, react-intl, styled-components and recompose. Docker images are automatically built by GitLab CI.
 - [Cookie handler with server render](https://github.com/estrada9166/cookie-handler-next.js) - Cookie handler with server render, access the cookie before render.
 - [Gank](https://github.com/OrangeXC/gank) - A Next.js App use gank-api, mobx and antd
 - [Decoupled CMS example with GraphQL and Next.js](https://github.com/janit/decoupled-cms-nextjs-graphql)
@@ -223,6 +223,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components that you can copy and paste into your apps.
 - [StorageBox](https://github.com/AlandSleman/StorageBox) - A Simple File Storage Service Built with Go and Next.js.
 - [Taskade](https://taskade.com/) - AI-powered workspace for teams with real-time collaboration, AI agents, project management, and workflow automation.
+- [Simulateur Prix Construction Maison](https://simulateur-prix-construction-maison.fr/) - Free French construction cost estimator with 190+ SSR pages, real-time price calculation engine, and PDF report generation. Built with Next.js 16, React 19, Supabase, and Tailwind v4.
 
 ## Books
 
