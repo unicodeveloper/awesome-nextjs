@@ -273,6 +273,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 
 - [Next.js News](https://nextjsnews.com) - Monthly Next.js newsletter showcasing new and upcoming features, best articles, tools, and plugins.
 - [Next.js Notes](https://nextjsnotes.com) - Monthly Next.js and JavaScript platform news.
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Next.js-integrated multi-agent orchestration, automated development workflow, and quality management. MIT licensed.
 
 ## Contributing
 
