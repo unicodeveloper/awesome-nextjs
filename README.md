@@ -137,6 +137,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Start UI [web]](https://github.com/BearStudio/start-ui-web) - 🚀 opinionated UI starter with TypeScript, React, NextJS, Chakra UI, tRPC, Prisma, TanStack Query, Storybook, Playwright, Formiz
 - [Kaiforge Lite](https://github.com/DevxiaLabs/kaiforge-lite) - Free and open-source Next.js admin dashboard template with Tailwind CSS, dark mode, and multiple color themes.
 - [A11y Starter Kit](https://github.com/thefrontkit/a11y-starter-kit-code) - Accessibility-first Next.js starter kit with best practices for building inclusive web apps. Demo: https://a11y-starter-kit.vercel.app/
+- [Tarot Reading Starter](https://github.com/gokimedia/tarot-reading-starter) - Minimal Next.js 16 App Router tarot reading template with typed `vercel.ts` config, Cache Components, and Fluid Compute-ready API routes. One-click deploy to Vercel. Powered by [Deckaura](https://deckaura.com).
 
 ## Extensions
 
