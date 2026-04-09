@@ -187,6 +187,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [FIM Agent](https://github.com/fim-ai/fim-agent) - AI-powered Connector Hub with a Next.js + shadcn/ui portal frontend. Features agent management, connector configuration, knowledge base, and real-time chat with SSE streaming.
 - [FastUtil](https://fastutil.app) - 71+ free browser-based developer utilities with client-side processing, 20 language translations, and no sign-up required. Built with Next.js App Router and shadcn/ui.
 - [Feednext](https://github.com/feednext/feednext) - An open source social media application.
+- [Japan Neighborhoods](https://japanneighborhoods.com) - Data-driven English guide to living in Japan. 15,000+ statically generated pages with Tokyo crime statistics (5,078 neighborhoods), safety scores, interactive crime map, and REST API. Built with Next.js 15 App Router, SQLite, and deployed on Vercel.
 - [NextJS GOT](https://github.com/auth0-blog/nextjs-got) - Simple Next.js application that showcases Game of Thrones Characters.
 - [Relate](https://github.com/RelateNow/relate) - Mindfulness community - React, GraphQL, Next.js.
 - [Password](https://github.com/dotcypress/password) - One password, right way.
