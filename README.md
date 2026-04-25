@@ -178,6 +178,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [ShotOG](https://github.com/nicepkg/shotog) - Dynamic OG image generation API for Next.js apps, powered by Cloudflare Workers.
 - [Frontman](https://github.com/frontman-ai/frontman) - An open-source AI coding agent that lives in your browser, enabling visual element selection and plain-English code edits with hot reload.
 - [@farming-labs/docs](https://github.com/farming-labs/docs) - A modern documentation framework that works. One config file, zero boilerplate.
+- [shieldcn](https://github.com/jal-co/shieldcn) - Shields.io alternative that renders badges as shadcn/ui Button components via Satori. Built with Next.js 16, React 19, and Tailwind CSS v4.
 
 ## Apps
 
