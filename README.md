@@ -181,6 +181,8 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 
 ## Apps
 
+- [30tools](https://30tools.com) - 660+ free online tools (PDF, image, video, developer, SEO) built with Next.js App Router. All tools run 100% client-side — no data leaves your browser. Open source at [GitHub](https://github.com/SH20RAJ/30tools).
+
 - [API Status Check](https://apistatuscheck.com) - Real-time status monitoring dashboard tracking 2,500+ APIs and cloud services. Built with Next.js and deployed on Vercel.
 - [DevToolKit](https://github.com/a827681306/devtoolkit) - Free online developer tools built with Next.js — JSON Formatter, JWT Decoder, Regex Tester, Base64/URL Encoder, Hash Generator.
 - [CourseLit](https://github.com/codelit/courselit) - An open source alternative to Thinkific, Teachable etc.
