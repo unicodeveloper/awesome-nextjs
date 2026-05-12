@@ -178,6 +178,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [ShotOG](https://github.com/nicepkg/shotog) - Dynamic OG image generation API for Next.js apps, powered by Cloudflare Workers.
 - [Frontman](https://github.com/frontman-ai/frontman) - An open-source AI coding agent that lives in your browser, enabling visual element selection and plain-English code edits with hot reload.
 - [@farming-labs/docs](https://github.com/farming-labs/docs) - A modern documentation framework that works. One config file, zero boilerplate.
+- [@dualmark/nextjs](https://github.com/dodopayments/dualmark/tree/main/packages/nextjs) - Open-source AEO (Answer Engine Optimization) infrastructure for Next.js App Router. Gives every page a markdown twin (e.g. `/pricing` + `/pricing.md`) picked by HTTP content negotiation, so ChatGPT, Claude, Perplexity, and Gemini get clean markdown while humans get HTML — same URL, two formats. Includes a `withDualmark()` config wrapper, a route handler factory, and a conformance CLI.
 
 ## Apps
 
