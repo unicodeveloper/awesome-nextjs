@@ -223,6 +223,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components that you can copy and paste into your apps.
 - [StorageBox](https://github.com/AlandSleman/StorageBox) - A Simple File Storage Service Built with Go and Next.js.
 - [Taskade](https://taskade.com/) - AI-powered workspace for teams with real-time collaboration, AI agents, project management, and workflow automation.
+- [PDF Mavericks](https://pdfmavericks.com/) - 40+ free browser-based PDF tools (compress, merge, split, sign, watermark, redact, OCR) with client-side processing — files never leave the device. Built with Next.js App Router and static export.
 
 ## Books
 
