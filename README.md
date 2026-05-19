@@ -179,6 +179,8 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Frontman](https://github.com/frontman-ai/frontman) - An open-source AI coding agent that lives in your browser, enabling visual element selection and plain-English code edits with hot reload.
 - [@farming-labs/docs](https://github.com/farming-labs/docs) - A modern documentation framework that works. One config file, zero boilerplate.
 
+- [CrawlerToll](https://github.com/nhrzxxw9dn-web/crawlertoll-next-js) - Next.js middleware (drop-in for `middleware.ts`) for the AI-crawler economy. Detects 30+ AI crawlers, verifies Web Bot Auth (IETF draft-meunier), applies RSL 1.0 policy, and issues HTTP 402 with a structured payment offer. Next 14+15, Edge-runtime compatible.
+
 ## Apps
 
 - [API Status Check](https://apistatuscheck.com) - Real-time status monitoring dashboard tracking 2,500+ APIs and cloud services. Built with Next.js and deployed on Vercel.
