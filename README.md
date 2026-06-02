@@ -277,7 +277,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 
 ## Resources
 
-- [Awesome Next.js + Supabase](https://github.com/mahdibrr/awesome-nextjs-supabase) - Curated production-focused resources for Next.js + Supabase SaaS apps, covering RLS bugs, SSR session loss, middleware redirect loops, and Stripe webhook idempotency, with a symptom-first incident index, checklists, and copy-ready snippets
+- [Awesome Next.js + Supabase](https://github.com/mahdibrr/awesome-nextjs-supabase) - Curated resources for building and debugging Next.js + Supabase SaaS apps in production, with an incident index, checklists, and snippets.
 
 ## Contributing
 
