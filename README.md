@@ -22,6 +22,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
   - [Videos](#videos)
   - [Projects(Beginner level)](#projectsbeginner-level)
   - [Newsletters](#newsletters)
+  - [Resources](#resources)
   - [Contributing](#contributing)
   - [License](#license)
 
@@ -273,6 +274,10 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 
 - [Next.js News](https://nextjsnews.com) - Monthly Next.js newsletter showcasing new and upcoming features, best articles, tools, and plugins.
 - [Next.js Notes](https://nextjsnotes.com) - Monthly Next.js and JavaScript platform news.
+
+## Resources
+
+- [Awesome Next.js + Supabase](https://github.com/mahdibrr/awesome-nextjs-supabase) - Curated production-focused resources for Next.js + Supabase SaaS apps, covering RLS bugs, SSR session loss, middleware redirect loops, and Stripe webhook idempotency, with a symptom-first incident index, checklists, and copy-ready snippets
 
 ## Contributing
 
