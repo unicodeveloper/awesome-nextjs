@@ -140,6 +140,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 
 ## Extensions
 
+- [UnfoldCMS](https://github.com/hpakdaman/unfoldcms) - Self-hosted headless CMS backend for Next.js with REST API v1 (42 endpoints), HMAC-signed webhooks, and Sanctum authentication. [Integration guide](https://unfoldcms.com/unfoldcms-nextjs-integration)
 - [Next universal language detector](https://github.com/UnlyEd/universal-language-detector) - Language detector that works universally (browser + server) - Meant to be used with a universal framework, such as Next.js [DEMO](https://universal-language-detector.now.sh/)
 - [Next Routes](https://github.com/fridays/next-routes) - Universal named routes for Next.js.
 - [Next-Pkg](https://github.com/onready/next-pkg) - Extended Next.js server with [pkg](https://github.com/vercel/pkg) support.
