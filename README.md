@@ -223,6 +223,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components that you can copy and paste into your apps.
 - [StorageBox](https://github.com/AlandSleman/StorageBox) - A Simple File Storage Service Built with Go and Next.js.
 - [Taskade](https://taskade.com/) - AI-powered workspace for teams with real-time collaboration, AI agents, project management, and workflow automation.
+- [Zilonex](https://zilonex.com) - Marketing site for a dual-product SaaS (AI governance and HR software) with six free client-side interactive tools including an LLM Token Counter and EU AI Act Classifier. Built on Next.js 16 App Router with Turbopack.
 
 ## Books
 
