@@ -182,6 +182,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 
 ## Apps
 
+- [Pregón](https://fervon.dev/pregon/) - Self-hosted cross-poster and traction tracker for makers: compose once and publish to Bluesky, Mastodon, Reddit, Hashnode and more, with built-in npm/PyPI/GitHub growth tracking. Built with Next.js, Prisma and SQLite.
 - [API Status Check](https://apistatuscheck.com) - Real-time status monitoring dashboard tracking 2,500+ APIs and cloud services. Built with Next.js and deployed on Vercel.
 - [DevToolKit](https://github.com/a827681306/devtoolkit) - Free online developer tools built with Next.js — JSON Formatter, JWT Decoder, Regex Tester, Base64/URL Encoder, Hash Generator.
 - [CourseLit](https://github.com/codelit/courselit) - An open source alternative to Thinkific, Teachable etc.
