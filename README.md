@@ -179,6 +179,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [ShotOG](https://github.com/nicepkg/shotog) - Dynamic OG image generation API for Next.js apps, powered by Cloudflare Workers.
 - [Frontman](https://github.com/frontman-ai/frontman) - An open-source AI coding agent that lives in your browser, enabling visual element selection and plain-English code edits with hot reload.
 - [@farming-labs/docs](https://github.com/farming-labs/docs) - A modern documentation framework that works. One config file, zero boilerplate.
+- [@stitchapi/next](https://github.com/rejifald/StitchAPI/tree/main/packages/next) - Web-standard helpers for App Router route handlers — stream a response as Server-Sent Events and map upstream errors to safe HTTP responses.
 
 ## Apps
 - [FileFlex](https://github.com/armor229-ux/File-Flex) - Open-source, browser-only file converter & PDF editor built with Next.js 14, Tailwind CSS, and WASM.
