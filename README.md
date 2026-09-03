@@ -22,6 +22,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
   - [Videos](#videos)
   - [Projects(Beginner level)](#projectsbeginner-level)
   - [Newsletters](#newsletters)
+  - [Jobs](#jobs)
   - [Contributing](#contributing)
   - [License](#license)
 
@@ -182,7 +183,10 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 ## Apps
 
 - [DayOtter](https://github.com/Dayotter/dayotter) - Open-source, self-hostable scheduling platform (a Calendly/Cal.com alternative) with a confirm-first AI assistant. Built with the Next.js App Router.
+- [Reely](https://github.com/Vette1123/movies-streaming-platform) - Movie & TV discovery and tracker on the TMDB API — live-applying filters, ⌘K command palette, watchlist and history, installable PWA. Next.js 16 static export on Cloudflare Workers Static Assets, so Next.js never runs in production. [Demo](https://www.reely.space)
+- [FileFlex](https://github.com/armor229-ux/File-Flex) - Open-source, browser-only file converter & PDF editor built with Next.js 14, Tailwind CSS, and WASM.
 - [API Status Check](https://apistatuscheck.com) - Real-time status monitoring dashboard tracking 2,500+ APIs and cloud services. Built with Next.js and deployed on Vercel.
+- [DevScratchpad](https://github.com/Saad-web-spec/DevScratchPad) - Privacy-first developer scratchpad & utility suite (19+ tools) with Monaco editor and zero-server transmission. Built with Next.js 16 (App Router, Turbopack, SSG), React 19, and Tailwind CSS v4. [Demo](https://tools.saadengineer.works)
 - [DevToolKit](https://github.com/a827681306/devtoolkit) - Free online developer tools built with Next.js — JSON Formatter, JWT Decoder, Regex Tester, Base64/URL Encoder, Hash Generator.
 - [CourseLit](https://github.com/codelit/courselit) - An open source alternative to Thinkific, Teachable etc.
 - [FIM Agent](https://github.com/fim-ai/fim-agent) - AI-powered Connector Hub with a Next.js + shadcn/ui portal frontend. Features agent management, connector configuration, knowledge base, and real-time chat with SSE streaming.
@@ -224,6 +228,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components that you can copy and paste into your apps.
 - [StorageBox](https://github.com/AlandSleman/StorageBox) - A Simple File Storage Service Built with Go and Next.js.
 - [Taskade](https://taskade.com/) - AI-powered workspace for teams with real-time collaboration, AI agents, project management, and workflow automation.
+- [Lunidex](https://lunidex.app) - Open-source Pokémon workspace built with Next.js, featuring a Pokédex, TCG collection tracking, team building, battle tools, quizzes, and multilingual support.
 
 ## Books
 
@@ -274,6 +279,10 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 
 - [Next.js News](https://nextjsnews.com) - Monthly Next.js newsletter showcasing new and upcoming features, best articles, tools, and plugins.
 - [Next.js Notes](https://nextjsnotes.com) - Monthly Next.js and JavaScript platform news.
+
+## Jobs
+
+- [Jobs in JS](https://jobsinjs.com/nextjs-developer-jobs/) - Next.js developer jobs in the US, Canada and UK. Updated daily.
 
 ## Contributing
 
