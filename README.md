@@ -224,6 +224,8 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components that you can copy and paste into your apps.
 - [StorageBox](https://github.com/AlandSleman/StorageBox) - A Simple File Storage Service Built with Go and Next.js.
 - [Taskade](https://taskade.com/) - AI-powered workspace for teams with real-time collaboration, AI agents, project management, and workflow automation.
+- [WillSun Agency](https://willsun.agency) - Global Growth & Commercialization Studio built with Next.js 14, Tailwind CSS, Framer Motion, and schema-first SEO architecture.
+- [CADGuide Tools](https://cadguide.tools) - Comprehensive CAD & BIM engineering calculation suite featuring 45+ interactive Next.js utilities built by [WillSun Agency](https://willsun.agency).
 
 ## Books
 
