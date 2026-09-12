@@ -83,6 +83,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [A Guide to Performance Optimization with Next.js](https://www.debugbear.com/blog/nextjs-performance)
 
 ## Boilerplates
+- [Portfolio Blog Starter](https://github.com/alifarooqi/portfolio-blog-starter) - Animated single-page portfolio + Medium-sourced blog. Config-driven, dynamic OG cards per page, Tailwind v4 + SCSS, MIT licensed. [Demo](https://portfolio-blog-starter-two.vercel.app)
 
 - [Kaiforge Lite](https://github.com/DevxiaLabs/kaiforge-lite) - Free admin dashboard template with Next.js 14, Tailwind CSS, TypeScript, dark/light mode, and 5 ready-to-use pages. MIT licensed. [Demo](https://lite.kaiforge.dev)
 - [Kaminari Template](https://kaminari.vercel.app/) - Power packed Next.js and Tailwind CSS template. Built with developer experience in mind. Contains Husky, CommitLint, Prettier, Eslint etc. configs. ✨
