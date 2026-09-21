@@ -81,6 +81,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Top Next.js Admin & Dashboard Templates](https://blog.codedthemes.com/nextjs-admin-dashboard-templates/)
 - [Next.js Cheatsheet](https://blog.codedthemes.com/nextjs-cheatsheet/)
 - [A Guide to Performance Optimization with Next.js](https://www.debugbear.com/blog/nextjs-performance)
+- [The Complete Guide to Higher-Order Components in Next.js With TypeScript](https://burakdev.com/blogs/the-complete-guide-to-higher-order-components-in-next-js-react-with-typescript)
 
 ## Boilerplates
 
@@ -181,6 +182,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [@farming-labs/docs](https://github.com/farming-labs/docs) - A modern documentation framework that works. One config file, zero boilerplate.
 
 ## Apps
+
 - [AI Video Prompt Cheatsheet](https://github.com/the-beating-light-of-the-nail/ai-video-prompt-cheatsheet) - Camera-movement prompt reference for AI video generation: shot types and motions with copy-ready prompts, one-page zh/en. Static export on Cloudflare Workers, no server. [Demo](https://videoprompts.cdqyfdbymn.me)
 - [Reely](https://github.com/Vette1123/movies-streaming-platform) - Movie & TV discovery and tracker on the TMDB API — live-applying filters, ⌘K command palette, watchlist and history, installable PWA. Next.js 16 static export on Cloudflare Workers Static Assets, so Next.js never runs in production. [Demo](https://www.reely.space)
 - [FileFlex](https://github.com/armor229-ux/File-Flex) - Open-source, browser-only file converter & PDF editor built with Next.js 14, Tailwind CSS, and WASM.
