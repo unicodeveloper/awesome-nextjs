@@ -191,6 +191,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Feednext](https://github.com/feednext/feednext) - An open source social media application.
 - [NextJS GOT](https://github.com/auth0-blog/nextjs-got) - Simple Next.js application that showcases Game of Thrones Characters.
 - [Relate](https://github.com/RelateNow/relate) - Mindfulness community - React, GraphQL, Next.js.
+- [SixSentences](https://github.com/SixSentences/sixsentences) - Open, self-hostable research workspace for literature search, evidence screening, research data analysis, and manuscript writing, with the provenance of every step kept inspectable. Next.js App Router workspace over a FastAPI service, PostgreSQL and DuckDB, Apache-2.0. [Demo](https://app.sixsentences.com)
 - [Password](https://github.com/dotcypress/password) - One password, right way.
 - [Next Todos](https://github.com/lipp/next-todos) - Todo list written in Next.js.
 - [Hacker News](https://github.com/lipp/hackernews) - Another Hacker News written in Next.js.
