@@ -1,4 +1,4 @@
-﻿# Awesome Next.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)
+# Awesome Next.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)
 
 [<img src="http://res.cloudinary.com/unicodeveloper/image/upload/v1524776764/next-jslogo.svg" align="right" width="250">](https://github.com/vercel/next.js)
 
@@ -195,6 +195,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Next Todos](https://github.com/lipp/next-todos) - Todo list written in Next.js.
 - [Hacker News](https://github.com/lipp/hackernews) - Another Hacker News written in Next.js.
 - [Jet Chat](https://github.com/lipp/jet-chat) - Jet and Next.js powered Chat demo.
+- [Kepa](https://kepa.london) - Agentic London rental search with door-to-door transit routing and true monthly cost calculations. Built with Next.js 15, App Router, and Tailwind CSS.
 - [Nextgram](https://github.com/arunoda/nextgram) - Sample Next.js v2 app for showing off its capabilities.
 - [Rauchg Blog](https://github.com/rauchg/blog) - Blog built by a Next.js core maintainer.
 - [Next JPH](https://github.com/renatorib/next-jph) - JsonPlaceholder sample app made with Next.js.
