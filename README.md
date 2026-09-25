@@ -182,6 +182,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 
 ## Apps
 
+- [AgentITCompany](https://github.com/shivharilokhande/agentitcompany) - Run an AI software company from your browser: 15 agent personas take an idea through an 8-phase pipeline with a live scrum board. Next.js 15 App Router, Server Actions, node:sqlite; engines: Claude, OpenAI/Codex, Gemini or local Ollama.
 - [API Status Check](https://apistatuscheck.com) - Real-time status monitoring dashboard tracking 2,500+ APIs and cloud services. Built with Next.js and deployed on Vercel.
 - [Calculora](https://calculora.net) - 300+ free online calculators across finance, health, science, math, and developer tools. 25 languages, dark mode, SEO-enriched, built with Next.js App Router and Tailwind CSS.
 - [CourseLit](https://github.com/codelit/courselit) - An open source alternative to Thinkific, Teachable etc.
