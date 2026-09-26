@@ -186,6 +186,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Calculora](https://calculora.net) - 300+ free online calculators across finance, health, science, math, and developer tools. 25 languages, dark mode, SEO-enriched, built with Next.js App Router and Tailwind CSS.
 - [CourseLit](https://github.com/codelit/courselit) - An open source alternative to Thinkific, Teachable etc.
 - [DevToolKit](https://github.com/a827681306/devtoolkit) - Free online developer tools built with Next.js — JSON Formatter, JWT Decoder, Regex Tester, Base64/URL Encoder, Hash Generator.
+- [Eatlocal](https://eatlocal.dk) - Independent guide to restaurants, bakeries and bars in the four largest Danish cities, in Danish and English. Statically generated with the Next.js App Router, Tailwind CSS and MapLibre GL JS.
 - [FIM Agent](https://github.com/fim-ai/fim-agent) - AI-powered Connector Hub with a Next.js + shadcn/ui portal frontend. Features agent management, connector configuration, knowledge base, and real-time chat with SSE streaming.
 - [FastUtil](https://fastutil.app) - 71+ free browser-based developer utilities with client-side processing, 20 language translations, and no sign-up required. Built with Next.js App Router and shadcn/ui.
 - [Feednext](https://github.com/feednext/feednext) - An open source social media application.
