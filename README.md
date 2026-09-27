@@ -138,6 +138,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Start UI [web]](https://github.com/BearStudio/start-ui-web) - 🚀 opinionated UI starter with TypeScript, React, NextJS, Chakra UI, tRPC, Prisma, TanStack Query, Storybook, Playwright, Formiz
 - [Kaiforge Lite](https://github.com/DevxiaLabs/kaiforge-lite) - Free and open-source Next.js admin dashboard template with Tailwind CSS, dark mode, and multiple color themes.
 - [A11y Starter Kit](https://github.com/thefrontkit/a11y-starter-kit-code) - Accessibility-first Next.js starter kit with best practices for building inclusive web apps. Demo: https://a11y-starter-kit.vercel.app/
+- [ShaadKit](https://github.com/shaadcode/shaadkit) - A production-oriented Next.js foundation with Mantine v9, next-intl, Storybook, Vitest, and Playwright pre-configured, focused on developer experience and code quality.
 
 ## Extensions
 
@@ -291,4 +292,3 @@ Found an awesome package, article, blog, video etc.? Send me a pull request! Jus
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-
