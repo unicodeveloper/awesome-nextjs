@@ -140,7 +140,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [A11y Starter Kit](https://github.com/thefrontkit/a11y-starter-kit-code) - Accessibility-first Next.js starter kit with best practices for building inclusive web apps. Demo: https://a11y-starter-kit.vercel.app/
 
 ## Extensions
-
+- [SnapTrace](https://snaptrace.space) - Featherweight (<3.4KB) noise-free crash telemetry and error tracking for Next.js.
 - [Next universal language detector](https://github.com/UnlyEd/universal-language-detector) - Language detector that works universally (browser + server) - Meant to be used with a universal framework, such as Next.js [DEMO](https://universal-language-detector.now.sh/)
 - [Next Routes](https://github.com/fridays/next-routes) - Universal named routes for Next.js.
 - [Next-Pkg](https://github.com/onready/next-pkg) - Extended Next.js server with [pkg](https://github.com/vercel/pkg) support.
