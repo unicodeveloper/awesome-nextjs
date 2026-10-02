@@ -225,6 +225,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components that you can copy and paste into your apps.
 - [StorageBox](https://github.com/AlandSleman/StorageBox) - A Simple File Storage Service Built with Go and Next.js.
 - [Taskade](https://taskade.com/) - AI-powered workspace for teams with real-time collaboration, AI agents, project management, and workflow automation.
+- [Veodyn](https://github.com/veodyn/veodyn-ce) - Open source data platform for transportation agencies, with a Next.js App Router frontend, SQL editor, dashboards and a data catalog.
 
 ## Books
 
