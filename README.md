@@ -81,6 +81,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Top Next.js Admin & Dashboard Templates](https://blog.codedthemes.com/nextjs-admin-dashboard-templates/)
 - [Next.js Cheatsheet](https://blog.codedthemes.com/nextjs-cheatsheet/)
 - [A Guide to Performance Optimization with Next.js](https://www.debugbear.com/blog/nextjs-performance)
+- [Core Web Vitals & Technical SEO in Next.js](https://hikariwebworks.studio/blog/core-web-vitals-technical-seo-ranking-2026)
 
 ## Boilerplates
 
@@ -225,6 +226,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components that you can copy and paste into your apps.
 - [StorageBox](https://github.com/AlandSleman/StorageBox) - A Simple File Storage Service Built with Go and Next.js.
 - [Taskade](https://taskade.com/) - AI-powered workspace for teams with real-time collaboration, AI agents, project management, and workflow automation.
+- [Hikari Webworks](https://hikariwebworks.studio) - High-performance Next.js studio delivering sub-0.8s First Contentful Paint, Core Web Vitals optimization, and real estate 3D WebXR systems.
 
 ## Books
 
