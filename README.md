@@ -190,6 +190,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [FastUtil](https://fastutil.app) - 71+ free browser-based developer utilities with client-side processing, 20 language translations, and no sign-up required. Built with Next.js App Router and shadcn/ui.
 - [Feednext](https://github.com/feednext/feednext) - An open source social media application.
 - [NextJS GOT](https://github.com/auth0-blog/nextjs-got) - Simple Next.js application that showcases Game of Thrones Characters.
+- [Ragen](https://github.com/webamigos/RagenAI) - Open-source, self-hosted AI assistant that answers questions from company documents with source citations and per-file permissions. Next.js frontend, NestJS API.
 - [Relate](https://github.com/RelateNow/relate) - Mindfulness community - React, GraphQL, Next.js.
 - [Password](https://github.com/dotcypress/password) - One password, right way.
 - [Next Todos](https://github.com/lipp/next-todos) - Todo list written in Next.js.
