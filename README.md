@@ -228,6 +228,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components that you can copy and paste into your apps.
 - [StorageBox](https://github.com/AlandSleman/StorageBox) - A Simple File Storage Service Built with Go and Next.js.
 - [Taskade](https://taskade.com/) - AI-powered workspace for teams with real-time collaboration, AI agents, project management, and workflow automation.
+- [LibreDB Studio](https://github.com/libredb/libredb-studio) - Open source SQL IDE for relational, NoSQL and analytics databases, built with the Next.js App Router, React 19 and Monaco.
 
 ## Books
 
