@@ -227,6 +227,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components that you can copy and paste into your apps.
 - [StorageBox](https://github.com/AlandSleman/StorageBox) - A Simple File Storage Service Built with Go and Next.js.
 - [Taskade](https://taskade.com/) - AI-powered workspace for teams with real-time collaboration, AI agents, project management, and workflow automation.
+- [NO SUS](https://nosus.foo) - Self-destructing notes and files encrypted in the browser, no account needed, plus document sharing with viewer-email watermarks. The site and its burn tool are a Next.js static export; the app itself is Flutter.
 
 ## Books
 
