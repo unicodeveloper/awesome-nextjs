@@ -189,6 +189,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [DevToolKit](https://github.com/a827681306/devtoolkit) - Free online developer tools built with Next.js — JSON Formatter, JWT Decoder, Regex Tester, Base64/URL Encoder, Hash Generator.
 - [FIM Agent](https://github.com/fim-ai/fim-agent) - AI-powered Connector Hub with a Next.js + shadcn/ui portal frontend. Features agent management, connector configuration, knowledge base, and real-time chat with SSE streaming.
 - [FastUtil](https://fastutil.app) - 71+ free browser-based developer utilities with client-side processing, 20 language translations, and no sign-up required. Built with Next.js App Router and shadcn/ui.
+- [SlingSite](https://slingsite.github.io) - Client-side image and video compressor that converts to JPG/WebP/AVIF and VP9/HEVC/H.264, resized per device, entirely in the browser with no upload. Built with Next.js, free and unlimited.
 - [Feednext](https://github.com/feednext/feednext) - An open source social media application.
 - [Looot Network](https://github.com/loootai/looot-network) - Open source alternative to Happenstance: search your own LinkedIn, Google Contacts or CSV network in plain language. Built with Next.js 16 and Supabase, MIT, with a demo mode; optional paid enrichment needs a looot API key.
 - [NextJS GOT](https://github.com/auth0-blog/nextjs-got) - Simple Next.js application that showcases Game of Thrones Characters.
