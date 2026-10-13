@@ -182,6 +182,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 
 ## Apps
 
+- [OopsSec Store](https://github.com/kOaDT/oss-oopssec-store) - Intentionally vulnerable e-commerce app built with the Next.js App Router, TypeScript and Prisma. 36 CTF challenges that teach developers how to find and fix Next.js security flaws.
 - [API Status Check](https://apistatuscheck.com) - Real-time status monitoring dashboard tracking 2,500+ APIs and cloud services. Built with Next.js and deployed on Vercel.
 - [Calculora](https://calculora.net) - 300+ free online calculators across finance, health, science, math, and developer tools. 25 languages, dark mode, SEO-enriched, built with Next.js App Router and Tailwind CSS.
 - [Ceramic Coating Near Me](https://ceramiccoatingshopsnearme.com/) - Independent directory and publication built with Next.js for finding ceramic-coating shops in the United States and understanding coating options.
