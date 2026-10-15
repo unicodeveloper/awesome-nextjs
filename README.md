@@ -83,7 +83,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [A Guide to Performance Optimization with Next.js](https://www.debugbear.com/blog/nextjs-performance)
 
 ## Boilerplates
-
+- [ImageAPIAI AI image generation nextjs starter](https://github.com/ImageAPIAI/nextjs-ai-image-generator) - A lightweight, zero-config Next.js 14 App Router starter template for generating AI images with one-click deployment.
 - [Kaiforge Lite](https://github.com/DevxiaLabs/kaiforge-lite) - Free admin dashboard template with Next.js 14, Tailwind CSS, TypeScript, dark/light mode, and 5 ready-to-use pages. MIT licensed. [Demo](https://lite.kaiforge.dev)
 - [Kaminari Template](https://kaminari.vercel.app/) - Power packed Next.js and Tailwind CSS template. Built with developer experience in mind. Contains Husky, CommitLint, Prettier, Eslint etc. configs. ✨
 - [Next.js, Strapi Portfolio Starter](https://github.com/PictureElement/nextjs-strapi-portfolio-starter) – ⚡️ A modern portfolio starter with Next.js, Strapi, and Tailwind CSS, featuring automated XML sitemap, JSON-LD schemas, OpenGraph metadata, and a contact form with spam protection.
@@ -180,6 +180,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [ShotOG](https://github.com/nicepkg/shotog) - Dynamic OG image generation API for Next.js apps, powered by Cloudflare Workers.
 - [Frontman](https://github.com/frontman-ai/frontman) - An open-source AI coding agent that lives in your browser, enabling visual element selection and plain-English code edits with hot reload.
 - [@farming-labs/docs](https://github.com/farming-labs/docs) - A modern documentation framework that works. One config file, zero boilerplate.
+- [next-measuremysite](https://github.com/developeron29/measuremysite-next) - Cookieless web analytics for Next.js that your AI coding agent can read over MCP.
 
 ## Apps
 
