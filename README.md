@@ -229,6 +229,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [StorageBox](https://github.com/AlandSleman/StorageBox) - A Simple File Storage Service Built with Go and Next.js.
 - [Taskade](https://taskade.com/) - AI-powered workspace for teams with real-time collaboration, AI agents, project management, and workflow automation.
 - [Vizz.fm](https://vizz.fm) - Browser-based music visualizer built with Next.js, Three.js, and the Web Audio API.
+- [StatementXL](https://github.com/story-has-you/bank-statement-converter) - Open-source bank statement PDF to Excel converter built with Next.js and FastAPI that flags every extracted row OK, DISCREPANCY or UNVERIFIABLE.
 
 ## Books
 
