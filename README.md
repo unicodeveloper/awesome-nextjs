@@ -180,6 +180,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [ShotOG](https://github.com/nicepkg/shotog) - Dynamic OG image generation API for Next.js apps, powered by Cloudflare Workers.
 - [Frontman](https://github.com/frontman-ai/frontman) - An open-source AI coding agent that lives in your browser, enabling visual element selection and plain-English code edits with hot reload.
 - [@farming-labs/docs](https://github.com/farming-labs/docs) - A modern documentation framework that works. One config file, zero boilerplate.
+- [AgentDecoy](https://github.com/KyleClouthier/agentdecoy) - Security middleware for Next.js (`npx agentdecoy init`) that serves fake .env files, AI API keys and MCP configs at the paths scanners probe, logs who takes them, and refuses logins and form posts from addresses caught using them.
 
 ## Apps
 
