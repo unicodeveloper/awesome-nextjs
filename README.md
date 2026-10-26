@@ -180,6 +180,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [ShotOG](https://github.com/nicepkg/shotog) - Dynamic OG image generation API for Next.js apps, powered by Cloudflare Workers.
 - [Frontman](https://github.com/frontman-ai/frontman) - An open-source AI coding agent that lives in your browser, enabling visual element selection and plain-English code edits with hot reload.
 - [@farming-labs/docs](https://github.com/farming-labs/docs) - A modern documentation framework that works. One config file, zero boilerplate.
+- [LogBrew for Next.js](https://github.com/LogBrewCo/sdk/tree/main/js/logbrew-next) - App Router helpers that capture request errors, logs, and traces through Next.js instrumentation and send them to LogBrew (free plan available).
 
 ## Apps
 
