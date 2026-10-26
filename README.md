@@ -229,6 +229,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [StorageBox](https://github.com/AlandSleman/StorageBox) - A Simple File Storage Service Built with Go and Next.js.
 - [Taskade](https://taskade.com/) - AI-powered workspace for teams with real-time collaboration, AI agents, project management, and workflow automation.
 - [Vizz.fm](https://vizz.fm) - Browser-based music visualizer built with Next.js, Three.js, and the Web Audio API.
+- [Waraq](https://github.com/d7omdev/waraq) - Self-hosted document scanner PWA with Arabic and English OCR, full-text search and share links. Built with Next.js and SQLite.
 
 ## Books
 
