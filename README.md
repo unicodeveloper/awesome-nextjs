@@ -81,6 +81,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Top Next.js Admin & Dashboard Templates](https://blog.codedthemes.com/nextjs-admin-dashboard-templates/)
 - [Next.js Cheatsheet](https://blog.codedthemes.com/nextjs-cheatsheet/)
 - [A Guide to Performance Optimization with Next.js](https://www.debugbear.com/blog/nextjs-performance)
+- [7 Ways Stripe Webhooks Break in Production (and the Code That Fixes Each)](https://dev.to/syncoders/7-ways-stripe-webhooks-break-in-production-and-the-code-that-fixes-each-3ln0)
 
 ## Boilerplates
 
