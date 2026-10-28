@@ -81,6 +81,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Top Next.js Admin & Dashboard Templates](https://blog.codedthemes.com/nextjs-admin-dashboard-templates/)
 - [Next.js Cheatsheet](https://blog.codedthemes.com/nextjs-cheatsheet/)
 - [A Guide to Performance Optimization with Next.js](https://www.debugbear.com/blog/nextjs-performance)
+- [NEXT_PUBLIC_ Env Variable Exposed a Secret? How to Check and Fix](https://scanyoursite.app/en/blog/next-public-env-variable-leak)
 
 ## Boilerplates
 
