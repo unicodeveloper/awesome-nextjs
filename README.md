@@ -139,6 +139,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Kaiforge Lite](https://github.com/DevxiaLabs/kaiforge-lite) - Free and open-source Next.js admin dashboard template with Tailwind CSS, dark mode, and multiple color themes.
 - [A11y Starter Kit](https://github.com/thefrontkit/a11y-starter-kit-code) - Accessibility-first Next.js starter kit with best practices for building inclusive web apps. Demo: https://a11y-starter-kit.vercel.app/
 - [GenPM Kits](https://genpm.net) - Next.js kits (store, blog, CMS, landing, dropshipping) installed as source code you own, with Stripe, Drizzle and auth wired in and rules for your AI agent.
+- [Next.js Currency Converter Starter](https://github.com/AllRates-Today/nextjs-currency-starter) - Currency converter starter on the Next.js 15 App Router with strict TypeScript, a server-side API route and built-in caching. Runs without an API key on official ECB reference rates. MIT licensed.
 
 ## Extensions
 
