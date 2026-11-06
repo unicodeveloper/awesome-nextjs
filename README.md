@@ -81,6 +81,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Top Next.js Admin & Dashboard Templates](https://blog.codedthemes.com/nextjs-admin-dashboard-templates/)
 - [Next.js Cheatsheet](https://blog.codedthemes.com/nextjs-cheatsheet/)
 - [A Guide to Performance Optimization with Next.js](https://www.debugbear.com/blog/nextjs-performance)
+- [7 Security Bugs AI Agents Write in Next.js + Supabase + Stripe Apps](https://dev.to/edtrackai/7-security-bugs-ai-agents-write-in-nextjs-supabase-stripe-apps-and-the-rules-that-stop-them-3o64)
 
 ## Boilerplates
 
