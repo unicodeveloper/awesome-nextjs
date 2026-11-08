@@ -139,6 +139,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Kaiforge Lite](https://github.com/DevxiaLabs/kaiforge-lite) - Free and open-source Next.js admin dashboard template with Tailwind CSS, dark mode, and multiple color themes.
 - [A11y Starter Kit](https://github.com/thefrontkit/a11y-starter-kit-code) - Accessibility-first Next.js starter kit with best practices for building inclusive web apps. Demo: https://a11y-starter-kit.vercel.app/
 - [GenPM Kits](https://genpm.net) - Next.js kits (store, blog, CMS, landing, dropshipping) installed as source code you own, with Stripe, Drizzle and auth wired in and rules for your AI agent.
+- [OTF — Open Template Forest](https://otf-kit.dev/templates/saas-dashboard?utm_source=directory&utm_medium=organic&utm_campaign=resource-directory&utm_content=listing-awesome-nextjs-saasdashboard) - Full-stack Next.js kits for SaaS, fitness, and more, with a free MIT cross-platform UI SDK. [SDK on GitHub](https://github.com/otf-kit/sdk). [SaaS Dashboard Kit](https://otf-kit.dev/templates/saas-dashboard).
 - [Midnight Lite](https://github.com/vilqor/midnight-lite) - Free dark landing page template for AI and SaaS products with Next.js 16, Tailwind CSS v4 and shadcn/ui. MIT licensed. [Demo](https://midnight-lite.vilqor.com)
 
 ## Extensions
