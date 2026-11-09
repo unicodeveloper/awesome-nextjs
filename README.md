@@ -1,6 +1,6 @@
 ﻿# Awesome Next.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)
 
-[<img src="http://res.cloudinary.com/unicodeveloper/image/upload/v1524776764/next-jslogo.svg" align="right" width="250">](https://github.com/vercel/next.js)
+[<img src="nextjs-logo.svg" align="right" width="250">](https://github.com/vercel/next.js)
 
 > Curated list of resources: books, videos, articles about using Next.js.
 
@@ -54,10 +54,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Next on Next.js](https://web.archive.org/web/20170202170122if_/https://jsmantra.com/next-on-next-js-1a134505f346#.bhihzecyc)
 - [Accept payments on your site with nextjs, stripe, and micro](https://hackernoon.com/accept-payments-on-your-site-with-nextjs-stripe-and-micro-371de95b22d5?source=activity---post_recommended)
 - [Next.js on Cloud Functions for Firebase with Firebase Hosting](https://medium.com/@jthegedus/next-js-on-cloud-functions-for-firebase-with-firebase-hosting-7911465298f2)
-- [Building a Blog With Next.js](https://timber.io/blog/building-a-blog-with-next-js)
-- [Using Google Analytics with Next.js](https://malloc.fi/using-google-analytics-with-next-js)
 - [Build a Universal JavaScript App with Next.js and Redux _[Russian]_](https://habrahabr.ru/post/323588/)
-- [5 (of the Many Reasons) to love Vercel's Next.js](https://www.codementor.io/tgreco/5-of-the-many-things-to-love-about-zeit-s-next-js-bpszu99g1)
 - [Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones](https://nextjs.org/blog/next-5)
 - [Realtime data visualization using Next.js and Chart.js](https://pusher.com/tutorials/realtime-data-visualization-nextjs)
 - [Build a chat app with sentiment analysis using Next.js](https://pusher.com/tutorials/chat-sentiment-analysis-nextjs)
@@ -72,9 +69,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Working with Ghost and Next.js](https://ghost.org/docs/api/nextjs/)
 - [Using Tailwind CSS with Next.js](https://statickit.com/guides/next-js-tailwind)
 - [Using Feature Flags in Next.js](https://medium.com/frontend-digest/using-feature-flags-in-next-js-c5c8d0795a2?source=friends_link&sk=d846a29f376acf9cfa41e926883923ab)
-- [Adding code snippets to Next.js using react-syntax-highlighter](https://thetombomb.com/posts/adding-code-snippets-to-static-markdown-in-Next%20js)
 - [Build company's Website/App with our astonishing Next.js template](https://www.wrappixel.com/templates/category/nextjs-templates/?ref=232)
-- [Guaranteeing webhook delivery in NextJS Application](https://www.bharathvaj.me/blog/implement-webhook-nextjs)
 - [Building a Guestbook Using Next.js On-Demand ISR](https://www.svix.com/blog/vercel-on-demand-isr-and-svix/)
 - [Useful Admin Templates to build your Website/App](https://adminmart.com/templates/nextjs/?ref=6)
 - [Integrate Next app with Tailwind](https://tailwind-elements.com/docs/standard/integrations/next-integration/)
@@ -118,7 +113,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Oh My Fullstack](https://github.com/oh-my-c0de/oh-my-fullstack) - Full stack web application skeleton (Next.js, Redux, RxJS, Immutable, Express)
 - [Next-Postgres-With-Typescript](https://github.com/brandontle/next-postgres-with-typescript) - Forum-like fullstack web app with Next 7.0.2 + Sequelize 4/Postgres + Typescript + Redux + Passport Local Auth + Emotion
 - [Next.js with Express and Babel](https://github.com/pd-smith/next-express-babel) - An application skeleton for those who want to transpile their Express as well as their Next.js code using Babel.
-- [next-postgres-graphql](https://github.com/hasura/graphql-engine/tree/master/community/sample-apps/nextjs-postgres-graphql) - Create SSR Next.js websites using GraphQL with Postgres (Next.js, Postgres, GraphQL)
+- [next-postgres-graphql](https://github.com/hasura/sample-apps/tree/main/nextjs-postgres-graphql) - Create SSR Next.js websites using GraphQL with Postgres (Next.js, Postgres, GraphQL)
 - [nextjs-mongodb-app](https://github.com/hoangvvo/nextjs-mongodb-app) - Full-fledged app made with Next.JS and MongoDB, with authentication and much more (Next.js 9, MongoDB)
 - [react-next-boilerplate](https://github.com/react-next-boilerplate/react-next-boilerplate) - :rocket: A basis for reducing the configuration of your projects with nextJS, best development practices and popular libraries in the developer community.
 - [The-Nextjs-starter](https://github.com/novellito/the-nextjs-starter) - typescript + redux + styled-components + react-testing-library + eslint + fontawesome
@@ -150,8 +145,6 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Next With Apollo](https://github.com/lfades/next-with-apollo) - Apollo Graphql integration for Next.js
 - [Next SEO](https://github.com/garmeeh/next-seo) - SEO made easy for Next.js
 - [Next-Sitemap](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for Next.js
-- [Next UserAgent](https://github.com/tokuda109/next-useragent) - UserAgent parser for Next.js
-- [Next Cookie](https://github.com/tokuda109/next-cookie) - Cookie serializer and deserializer library for Next.js.
 - [Nextein](https://github.com/elmasse/nextein) - A static site generator based in Next.js.
 - [next-mdx-blog](https://github.com/hipstersmoothie/next-mdx-blog) - Easily add a blog to any next.js based project
 - [next-i18next](https://github.com/isaachinman/next-i18next) - The easiest way to translate your NextJs apps.
@@ -166,7 +159,6 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [next-connect](https://github.com/hoangvvo/next-connect) - The Express/Connect-compatible router and middleware layer for Next.js.
 - [next-img](https://github.com/humaans/next-img/) - a plugin for embedding optimized images with ease.
 - [next-auth](https://github.com/iaincollins/next-auth) - Easy authentication for Next.js and Serverless
-- [next-deploy](https://github.com/lone-cloud/next-deploy) - 🚀 Effortless deployment to AWS and GitHub Pages.
 - [next-joi](https://github.com/codecoolture/next-joi) - Validate Next.js API Routes, with _joi_.
 - [next-transpile-modules](https://github.com/martpie/next-transpile-modules) - Next.js plugin to transpile code from node_modules. Useful for monorepos.
 - [Destack for Next.js](https://github.com/liveduo/destack) - Next.js extension to visually build landing pages locally.
@@ -250,7 +242,6 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Next.js in production](https://www.youtube.com/watch?v=h6rETZH6Ym0)
 - [Parameterized Routing with Next.js](https://www.youtube.com/watch?v=2cJya4h5ync)
 - [JSHeroes 2017 | Guillermo Rauch - Static and Dynamic Next.js](https://www.youtube.com/watch?v=lLNJsuXB4CI)
-- [Programming the Universal Future with Next.js - Guillermo Rauch · JSConf China 2017](https://www.youtube.com/watch?v=w9Or7B4kTRY)
 - [BPJS: Special - Introduction to Next.js](https://www.youtube.com/watch?v=4cfozXTyjWQ)
 - [Next for Next.js](https://www.youtube.com/watch?v=ms2aOV06_qk)
 - [Data Management With Next.js and GraphQL](https://www.youtube.com/watch?v=g_LA1quUIi8)
