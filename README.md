@@ -230,6 +230,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [StorageBox](https://github.com/AlandSleman/StorageBox) - A Simple File Storage Service Built with Go and Next.js.
 - [Taskade](https://taskade.com/) - AI-powered workspace for teams with real-time collaboration, AI agents, project management, and workflow automation.
 - [Vizz.fm](https://vizz.fm) - Browser-based music visualizer built with Next.js, Three.js, and the Web Audio API.
+- [SiftingIO Market Data Export](https://sifting.io/tools/market-data-export) - Next.js app for historical price charts and CSV/Excel downloads across US stocks, forex, commodities and crypto. Guest access covers the latest 24 hours; longer periods require an account and API key.
 
 ## Books
 
