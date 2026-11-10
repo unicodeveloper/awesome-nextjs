@@ -17,6 +17,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
   - [Articles](#articles)
   - [Boilerplates](#boilerplates)
   - [Extensions](#extensions)
+  - [Tools](#tools)
   - [Apps](#apps)
   - [Books](#books)
   - [Videos](#videos)
@@ -181,6 +182,10 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [ShotOG](https://github.com/nicepkg/shotog) - Dynamic OG image generation API for Next.js apps, powered by Cloudflare Workers.
 - [Frontman](https://github.com/frontman-ai/frontman) - An open-source AI coding agent that lives in your browser, enabling visual element selection and plain-English code edits with hot reload.
 - [@farming-labs/docs](https://github.com/farming-labs/docs) - A modern documentation framework that works. One config file, zero boilerplate.
+
+## Tools
+
+- [e2e](https://github.com/tester-army/e2e) - End-to-end testing with natural-language agent steps and locator assertions, with a Next.js example.
 
 ## Apps
 
