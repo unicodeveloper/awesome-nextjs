@@ -195,6 +195,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Looot Network](https://github.com/loootai/looot-network) - Open source alternative to Happenstance: search your own LinkedIn, Google Contacts or CSV network in plain language. Built with Next.js 16 and Supabase, MIT, with a demo mode; optional paid enrichment needs a looot API key.
 - [NextJS GOT](https://github.com/auth0-blog/nextjs-got) - Simple Next.js application that showcases Game of Thrones Characters.
 - [Relate](https://github.com/RelateNow/relate) - Mindfulness community - React, GraphQL, Next.js.
+- [SpoofCheck](https://github.com/anisselbd/spoofcheck) - Open source email spoofing checker (SPF, DKIM, DMARC, MTA-STS) built with the App Router, ISR and Tailwind CSS.
 - [Password](https://github.com/dotcypress/password) - One password, right way.
 - [Next Todos](https://github.com/lipp/next-todos) - Todo list written in Next.js.
 - [Hacker News](https://github.com/lipp/hackernews) - Another Hacker News written in Next.js.
