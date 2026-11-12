@@ -181,6 +181,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [ShotOG](https://github.com/nicepkg/shotog) - Dynamic OG image generation API for Next.js apps, powered by Cloudflare Workers.
 - [Frontman](https://github.com/frontman-ai/frontman) - An open-source AI coding agent that lives in your browser, enabling visual element selection and plain-English code edits with hot reload.
 - [@farming-labs/docs](https://github.com/farming-labs/docs) - A modern documentation framework that works. One config file, zero boilerplate.
+- [localize.dev](https://uselocalize.dev) - CLI and GitHub Action that move hardcoded text in Next.js apps into react-i18next keys, translate it and fail CI when untranslated text gets in.
 
 ## Apps
 
