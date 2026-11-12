@@ -185,7 +185,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 
 ## Tools
 
-- [e2e](https://github.com/tester-army/e2e) - End-to-end testing with natural-language agent steps and locator assertions, with a Next.js example.
+- [e2e](https://github.com/e2e-inc/e2e) - End-to-end testing with natural-language agent steps and locator assertions, with a Next.js example.
 
 ## Apps
 
