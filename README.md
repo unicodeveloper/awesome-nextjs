@@ -140,6 +140,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [A11y Starter Kit](https://github.com/thefrontkit/a11y-starter-kit-code) - Accessibility-first Next.js starter kit with best practices for building inclusive web apps. Demo: https://a11y-starter-kit.vercel.app/
 - [GenPM Kits](https://genpm.net) - Next.js kits (store, blog, CMS, landing, dropshipping) installed as source code you own, with Stripe, Drizzle and auth wired in and rules for your AI agent.
 - [Midnight Lite](https://github.com/vilqor/midnight-lite) - Free dark landing page template for AI and SaaS products with Next.js 16, Tailwind CSS v4 and shadcn/ui. MIT licensed. [Demo](https://midnight-lite.vilqor.com)
+- [Ascend Lite](https://github.com/bonnv79/ascend-lite) - Free SaaS landing page template with Next.js 16, React 19 and Tailwind CSS 4, with dark mode, pricing toggle, FAQ and a newsletter form.
 
 ## Extensions
 
