@@ -141,6 +141,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [GenPM Kits](https://genpm.net) - Next.js kits (store, blog, CMS, landing, dropshipping) installed as source code you own, with Stripe, Drizzle and auth wired in and rules for your AI agent.
 - [Midnight Lite](https://github.com/vilqor/midnight-lite) - Free dark landing page template for AI and SaaS products with Next.js 16, Tailwind CSS v4 and shadcn/ui. MIT licensed. [Demo](https://midnight-lite.vilqor.com)
 
+- [Next.js SaaS Boilerplate](https://github.com/habibjutt/nextjs_boilerplate) - Open-source Next.js 16 SaaS starter with auth (email, OAuth, 2FA), Stripe billing, admin dashboard, blog CMS, RBAC, and 50+ shadcn/ui components. Prisma + PostgreSQL.
 ## Extensions
 
 - [Next universal language detector](https://github.com/UnlyEd/universal-language-detector) - Language detector that works universally (browser + server) - Meant to be used with a universal framework, such as Next.js [DEMO](https://universal-language-detector.now.sh/)
