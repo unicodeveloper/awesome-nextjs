@@ -183,7 +183,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [@farming-labs/docs](https://github.com/farming-labs/docs) - A modern documentation framework that works. One config file, zero boilerplate.
 
 ## Apps
-
+- [thesvg](https://thesvg.org) - Open source SVG icon library with 5,600+ brand and cloud icons. Built with Next.js 15 App Router, Tailwind CSS, and Fuse.js search (GitHub: https://github.com/glincker/thesvg).
 - [API Status Check](https://apistatuscheck.com) - Real-time status monitoring dashboard tracking 2,500+ APIs and cloud services. Built with Next.js and deployed on Vercel.
 - [Calculora](https://calculora.net) - 300+ free online calculators across finance, health, science, math, and developer tools. 25 languages, dark mode, SEO-enriched, built with Next.js App Router and Tailwind CSS.
 - [Ceramic Coating Near Me](https://ceramiccoatingshopsnearme.com/) - Independent directory and publication built with Next.js for finding ceramic-coating shops in the United States and understanding coating options.
