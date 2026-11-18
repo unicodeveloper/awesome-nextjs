@@ -81,6 +81,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Top Next.js Admin & Dashboard Templates](https://blog.codedthemes.com/nextjs-admin-dashboard-templates/)
 - [Next.js Cheatsheet](https://blog.codedthemes.com/nextjs-cheatsheet/)
 - [A Guide to Performance Optimization with Next.js](https://www.debugbear.com/blog/nextjs-performance)
+- [Next.js Middleware Auth Bypass CVE-2025-29927: How to Fix](https://vibelocked.com/guides/nextjs-middleware-auth-bypass-cve-2025-29927/)
 
 ## Boilerplates
 
