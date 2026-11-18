@@ -81,6 +81,9 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Top Next.js Admin & Dashboard Templates](https://blog.codedthemes.com/nextjs-admin-dashboard-templates/)
 - [Next.js Cheatsheet](https://blog.codedthemes.com/nextjs-cheatsheet/)
 - [A Guide to Performance Optimization with Next.js](https://www.debugbear.com/blog/nextjs-performance)
+- [Tailwindadmin Next.js Dashboard Templates](https://tailwind-admin.com/nextjs)
+- [Shadcn Dashboard](https://shadcndashboard.dev/)
+- [Shadcn Space Dashboard](https://shadcnspace.com/admin-dashboard)
 
 ## Boilerplates
 
