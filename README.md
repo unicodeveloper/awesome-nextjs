@@ -231,6 +231,8 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Taskade](https://taskade.com/) - AI-powered workspace for teams with real-time collaboration, AI agents, project management, and workflow automation.
 - [Vizz.fm](https://vizz.fm) - Browser-based music visualizer built with Next.js, Three.js, and the Web Audio API.
 
+- [Rollgate](https://rollgate.io) - Feature flag management SaaS with scheduled releases, instant rollback, gradual rollouts and A/B testing. Dashboard built with Next.js 14 App Router, Server Components and Tailwind.
+
 ## Books
 
 - [Hands On Next.js](https://leanpub.com/hands-on-nextjs) - A practical fullstack book on universal (server) rendering for react applications.
