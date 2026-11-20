@@ -230,6 +230,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [StorageBox](https://github.com/AlandSleman/StorageBox) - A Simple File Storage Service Built with Go and Next.js.
 - [Taskade](https://taskade.com/) - AI-powered workspace for teams with real-time collaboration, AI agents, project management, and workflow automation.
 - [Vizz.fm](https://vizz.fm) - Browser-based music visualizer built with Next.js, Three.js, and the Web Audio API.
+- [Clio](https://github.com/yashh1323/Clio) - Open-source Proof-of-Write writing studio built with Next.js 16, TipTap, Supabase RLS, and a Pure-Rust verification engine.
 
 ## Books
 
