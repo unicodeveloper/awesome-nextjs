@@ -230,6 +230,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [StorageBox](https://github.com/AlandSleman/StorageBox) - A Simple File Storage Service Built with Go and Next.js.
 - [Taskade](https://taskade.com/) - AI-powered workspace for teams with real-time collaboration, AI agents, project management, and workflow automation.
 - [Vizz.fm](https://vizz.fm) - Browser-based music visualizer built with Next.js, Three.js, and the Web Audio API.
+- [FretMaster Studio](https://github.com/srain0626/fretmaster-studio) - Open-source electric guitar learning studio built with Next.js 16, Supabase, Remotion, and an AudioWorklet YIN pitch tracker.
 
 ## Books
 
