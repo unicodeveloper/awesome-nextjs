@@ -181,6 +181,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [ShotOG](https://github.com/nicepkg/shotog) - Dynamic OG image generation API for Next.js apps, powered by Cloudflare Workers.
 - [Frontman](https://github.com/frontman-ai/frontman) - An open-source AI coding agent that lives in your browser, enabling visual element selection and plain-English code edits with hot reload.
 - [@farming-labs/docs](https://github.com/farming-labs/docs) - A modern documentation framework that works. One config file, zero boilerplate.
+- [Vibe Security Checklist](https://github.com/zColdWater/vibe-security-checklist) - MIT-licensed pre-launch security checklist, Next.js header wrapper (`next-headers.mjs`), `vercel.json` config, Supabase RLS SQL templates, and a zero-dependency local bundle secret scanner for Next.js and AI-built web apps.
 
 ## Apps
 
