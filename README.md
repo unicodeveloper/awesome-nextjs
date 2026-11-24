@@ -206,6 +206,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Plate](https://github.com/knipferrc/plate) - The task management app to rule them all.
 - [Dashboard](https://github.com/danielbayerlein/dashboard) - Create your own team dashboard with custom widgets.
 - [Snape](https://github.com/ritz078/snape) - A torrent client to search, stream and download torrents.
+- [Social Scheduler](https://github.com/hermoso-ai/social-scheduler) - Open-source social media scheduler with week and month calendars, a best-time-to-post heatmap and a composer for Instagram, TikTok, LinkedIn, X, YouTube and more. Next.js App Router, MIT, runs on the Hermoso API.
 - [Trello Resume](https://github.com/juliandavidmr/TrelloResume) - Converts trello data into fast read information.
 - [Server Authentication with JWT](https://github.com/estrada9166/server-authentication-next.js) - Server authentication, prevent render before validation.
 - [Alexander Kachkaev’s website](https://gitlab.com/kachkaev/website-frontend/) – personal homepage built with Next.js, GraphQL, Docker and Kubernetes. Uses apollo client, react-intl, styled-components and recompose. Docker images are automatically built by GitLab CI.
