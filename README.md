@@ -230,6 +230,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [StorageBox](https://github.com/AlandSleman/StorageBox) - A Simple File Storage Service Built with Go and Next.js.
 - [Taskade](https://taskade.com/) - AI-powered workspace for teams with real-time collaboration, AI agents, project management, and workflow automation.
 - [Vizz.fm](https://vizz.fm) - Browser-based music visualizer built with Next.js, Three.js, and the Web Audio API.
+- [Mint 3D Model Embed Generator](https://mint.gg/3d-model-embed-generator) - Free in-browser tool that generates copy-paste `<model-viewer>` embed code for HTML, Shopify, WordPress, Webflow and Next.js, with live preview, hotspots and an AR button. No sign-up, nothing uploaded. Built with Next.js App Router.
 
 ## Books
 
