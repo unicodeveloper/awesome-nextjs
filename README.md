@@ -54,7 +54,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Next on Next.js](https://web.archive.org/web/20170202170122if_/https://jsmantra.com/next-on-next-js-1a134505f346#.bhihzecyc)
 - [Accept payments on your site with nextjs, stripe, and micro](https://hackernoon.com/accept-payments-on-your-site-with-nextjs-stripe-and-micro-371de95b22d5?source=activity---post_recommended)
 - [Next.js on Cloud Functions for Firebase with Firebase Hosting](https://medium.com/@jthegedus/next-js-on-cloud-functions-for-firebase-with-firebase-hosting-7911465298f2)
-- [Building a Blog With Next.js](https://timber.io/blog/building-a-blog-with-next-js)
+
 - [Using Google Analytics with Next.js](https://malloc.fi/using-google-analytics-with-next-js)
 - [Build a Universal JavaScript App with Next.js and Redux _[Russian]_](https://habrahabr.ru/post/323588/)
 - [5 (of the Many Reasons) to love Vercel's Next.js](https://www.codementor.io/tgreco/5-of-the-many-things-to-love-about-zeit-s-next-js-bpszu99g1)
@@ -70,17 +70,19 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Cooking a Deliveroo clone with Next.js (React), GraphQL, Strapi and Stripe - Setup (part 1/7)](https://blog.strapi.io/strapi-next-setup)
 - [Next.js E-commerce Tutorial: Quick Shopping Cart Integration](https://snipcart.com/blog/next-js-ecommerce-tutorial)
 - [Working with Ghost and Next.js](https://ghost.org/docs/api/nextjs/)
-- [Using Tailwind CSS with Next.js](https://statickit.com/guides/next-js-tailwind)
+
 - [Using Feature Flags in Next.js](https://medium.com/frontend-digest/using-feature-flags-in-next-js-c5c8d0795a2?source=friends_link&sk=d846a29f376acf9cfa41e926883923ab)
-- [Adding code snippets to Next.js using react-syntax-highlighter](https://thetombomb.com/posts/adding-code-snippets-to-static-markdown-in-Next%20js)
+
 - [Build company's Website/App with our astonishing Next.js template](https://www.wrappixel.com/templates/category/nextjs-templates/?ref=232)
-- [Guaranteeing webhook delivery in NextJS Application](https://www.bharathvaj.me/blog/implement-webhook-nextjs)
+
+
 - [Building a Guestbook Using Next.js On-Demand ISR](https://www.svix.com/blog/vercel-on-demand-isr-and-svix/)
 - [Useful Admin Templates to build your Website/App](https://adminmart.com/templates/nextjs/?ref=6)
 - [Integrate Next app with Tailwind](https://tailwind-elements.com/docs/standard/integrations/next-integration/)
 - [Top Next.js Admin & Dashboard Templates](https://blog.codedthemes.com/nextjs-admin-dashboard-templates/)
 - [Next.js Cheatsheet](https://blog.codedthemes.com/nextjs-cheatsheet/)
 - [A Guide to Performance Optimization with Next.js](https://www.debugbear.com/blog/nextjs-performance)
+- [Swavent Guides](https://swavent.com/en/guides) - Free Shopify, ecommerce, SEO and web development guides
 
 ## Boilerplates
 
@@ -278,7 +280,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 
 ## Newsletters
 
-- [Next.js News](https://nextjsnews.com) - Monthly Next.js newsletter showcasing new and upcoming features, best articles, tools, and plugins.
+
 - [Next.js Notes](https://nextjsnotes.com) - Monthly Next.js and JavaScript platform news.
 
 ## Jobs
@@ -296,4 +298,3 @@ Found an awesome package, article, blog, video etc.? Send me a pull request! Jus
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-
