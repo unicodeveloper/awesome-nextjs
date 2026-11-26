@@ -184,6 +184,8 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 
 ## Apps
 
+- [30tools](https://30tools.com) - 660+ free online tools (PDF, image, video, developer, SEO) built with Next.js App Router. All tools run 100% client-side — no data leaves your browser. Open source at [GitHub](https://github.com/SH20RAJ/30tools).
+
 - [API Status Check](https://apistatuscheck.com) - Real-time status monitoring dashboard tracking 2,500+ APIs and cloud services. Built with Next.js and deployed on Vercel.
 - [Calculora](https://calculora.net) - 300+ free online calculators across finance, health, science, math, and developer tools. 25 languages, dark mode, SEO-enriched, built with Next.js App Router and Tailwind CSS.
 - [Ceramic Coating Near Me](https://ceramiccoatingshopsnearme.com/) - Independent directory and publication built with Next.js for finding ceramic-coating shops in the United States and understanding coating options.
