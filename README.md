@@ -230,6 +230,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [StorageBox](https://github.com/AlandSleman/StorageBox) - A Simple File Storage Service Built with Go and Next.js.
 - [Taskade](https://taskade.com/) - AI-powered workspace for teams with real-time collaboration, AI agents, project management, and workflow automation.
 - [Vizz.fm](https://vizz.fm) - Browser-based music visualizer built with Next.js, Three.js, and the Web Audio API.
+- [VibeShield](https://shipbastion.com/) - Pre-launch web security scanner & free [Next.js Nonce CSP Builder](https://zcoldwater.github.io/vibeshield-cli/nextjs-nonce-csp-builder.html) that audits Next.js & Supabase apps for leaked client JS secrets, PostgREST RLS exposure, 10 Observatory headers, and exposed `.env`/`.git` files.
 
 ## Books
 
