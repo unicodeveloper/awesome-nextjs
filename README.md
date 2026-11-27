@@ -140,8 +140,10 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [A11y Starter Kit](https://github.com/thefrontkit/a11y-starter-kit-code) - Accessibility-first Next.js starter kit with best practices for building inclusive web apps. Demo: https://a11y-starter-kit.vercel.app/
 - [GenPM Kits](https://genpm.net) - Next.js kits (store, blog, CMS, landing, dropshipping) installed as source code you own, with Stripe, Drizzle and auth wired in and rules for your AI agent.
 - [Midnight Lite](https://github.com/vilqor/midnight-lite) - Free dark landing page template for AI and SaaS products with Next.js 16, Tailwind CSS v4 and shadcn/ui. MIT licensed. [Demo](https://midnight-lite.vilqor.com)
+- [GEO Website Template](https://github.com/Garyxie-ing/geo-website-template) - Next.js brand site template optimised for AI search (GEO). JSON-LD, llms.txt, sitemap and robots.txt are generated from a single config file.
 
 ## Extensions
+
 
 - [Next universal language detector](https://github.com/UnlyEd/universal-language-detector) - Language detector that works universally (browser + server) - Meant to be used with a universal framework, such as Next.js [DEMO](https://universal-language-detector.now.sh/)
 - [Next Routes](https://github.com/fridays/next-routes) - Universal named routes for Next.js.
